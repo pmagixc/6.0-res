@@ -1,0 +1,89 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Iansan_ExtraAttack",
+      "abilityName": "Avatar_Iansan_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Iansan_ElementalArt",
+      "abilityName": "Avatar_Iansan_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Iansan_ExitNyxState",
+      "abilityName": "Avatar_Iansan_ExitNyxState",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Iansan_Constellation_1",
+      "abilityName": "Avatar_Iansan_Constellation_1",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Iansan_Constellation_2",
+      "abilityName": "Avatar_Iansan_Constellation_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Iansan_Constellation_4",
+      "abilityName": "Avatar_Iansan_Constellation_4",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Iansan_Constellation_6",
+      "abilityName": "Avatar_Iansan_Constellation_6",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Iansan_PermanentSkill_1",
+      "abilityName": "Avatar_Iansan_PermanentSkill_1",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Iansan_PermanentSkill_2",
+      "abilityName": "Avatar_Iansan_PermanentSkill_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Iansan_PermanentSkill_3",
+      "abilityName": "Avatar_Iansan_PermanentSkill_3",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Iansan_DisplayControl",
+      "abilityName": "Avatar_Iansan_DisplayControl",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Iansan_NyxCycle",
+      "abilityName": "Avatar_Iansan_NyxCycle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Iansan_SpecialSprint",
+      "abilityName": "Avatar_Iansan_SpecialSprint",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Iansan_ElementalBurst",
+      "abilityName": "Avatar_Iansan_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Iansan_NormalAttack_DamageHandler",
+      "abilityName": "Avatar_Iansan_NormalAttack_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Iansan_NyxState_ElementalArt",
+      "abilityName": "Avatar_Iansan_NyxState_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Iansan_FallingAnthem",
+      "abilityName": "Avatar_Iansan_FallingAnthem",
+      "abilityOverride": ""
+    }
+  ]
+}

@@ -1,196 +1,256 @@
 [
   {
+    "cityId": 1,
     "id": 10001,
-    "cityId": 1,
+    "investigationType": "INVESTIGATION_ADVENTURE",
+    "isRewardEmpty": false,
     "nextInvestigationIdList": [],
-    "unlockOpenStateType": "OPEN_ADVENTURE_MANUAL_CITY_MENGDE",
-    "unlockLevel": 1,
     "rewardId": 450001,
-    "titleTextMapHash": 185388919
+    "titleTextMapHash": 185388919,
+    "unlockLevel": 1,
+    "unlockOpenStateType": "OPEN_ADVENTURE_MANUAL_CITY_MENGDE"
   },
   {
+    "cityId": 1,
     "id": 10002,
-    "cityId": 1,
+    "investigationType": "INVESTIGATION_ADVENTURE",
+    "isRewardEmpty": false,
     "nextInvestigationIdList": [],
-    "unlockLevel": 8,
     "rewardId": 450002,
-    "titleTextMapHash": 997105687
+    "titleTextMapHash": 997105687,
+    "unlockLevel": 8,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
+    "cityId": 1,
     "id": 10003,
-    "cityId": 1,
+    "investigationType": "INVESTIGATION_ADVENTURE",
+    "isRewardEmpty": false,
     "nextInvestigationIdList": [],
-    "unlockLevel": 10,
     "rewardId": 450003,
-    "titleTextMapHash": 2638738007
+    "titleTextMapHash": 2638738007,
+    "unlockLevel": 10,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
+    "cityId": 1,
     "id": 10004,
-    "cityId": 1,
+    "investigationType": "INVESTIGATION_ADVENTURE",
+    "isRewardEmpty": false,
     "nextInvestigationIdList": [],
-    "unlockLevel": 15,
     "rewardId": 450004,
-    "titleTextMapHash": 32830991
+    "titleTextMapHash": 32830991,
+    "unlockLevel": 15,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
+    "cityId": 1,
     "id": 10005,
-    "cityId": 1,
+    "investigationType": "INVESTIGATION_ADVENTURE",
+    "isRewardEmpty": false,
     "nextInvestigationIdList": [],
-    "unlockLevel": 20,
     "rewardId": 450005,
-    "titleTextMapHash": 493621503
+    "titleTextMapHash": 493621503,
+    "unlockLevel": 20,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
+    "cityId": 1,
     "id": 10006,
-    "cityId": 1,
+    "investigationType": "INVESTIGATION_ADVENTURE",
+    "isRewardEmpty": false,
     "nextInvestigationIdList": [],
-    "unlockLevel": 30,
     "rewardId": 450006,
-    "titleTextMapHash": 820212071
+    "titleTextMapHash": 820212071,
+    "unlockLevel": 30,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
+    "cityId": 1,
     "id": 10007,
-    "cityId": 1,
+    "investigationType": "INVESTIGATION_ADVENTURE",
+    "isRewardEmpty": false,
     "nextInvestigationIdList": [],
-    "unlockLevel": 35,
     "rewardId": 450007,
-    "titleTextMapHash": 3388684735
+    "titleTextMapHash": 3388684735,
+    "unlockLevel": 35,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
+    "cityId": 1,
     "id": 10008,
-    "cityId": 1,
+    "investigationType": "INVESTIGATION_ADVENTURE",
+    "isRewardEmpty": false,
     "nextInvestigationIdList": [],
-    "unlockLevel": 40,
     "rewardId": 450008,
-    "titleTextMapHash": 2420219631
+    "titleTextMapHash": 2420219631,
+    "unlockLevel": 40,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
+    "cityId": 1,
     "id": 10009,
-    "cityId": 1,
+    "investigationType": "INVESTIGATION_ADVENTURE",
+    "isRewardEmpty": false,
     "nextInvestigationIdList": [],
-    "unlockLevel": 45,
     "rewardId": 450009,
-    "titleTextMapHash": 1920411039
+    "titleTextMapHash": 1920411039,
+    "unlockLevel": 45,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
-    "id": 20001,
     "cityId": 1,
+    "id": 20001,
+    "investigationType": "INVESTIGATION_HOMEWORLD",
+    "isRewardEmpty": false,
     "nextInvestigationIdList": [
       20002
     ],
-    "unlockOpenStateType": "OPEN_STATE_HOME",
     "rewardId": 4100100,
     "titleTextMapHash": 2524375535,
-    "investigationType": "INVESTIGATION_HOMEWORLD"
+    "unlockLevel": 0,
+    "unlockOpenStateType": "OPEN_STATE_HOME"
   },
   {
-    "id": 20002,
     "cityId": 1,
+    "id": 20002,
+    "investigationType": "INVESTIGATION_HOMEWORLD",
+    "isRewardEmpty": false,
     "nextInvestigationIdList": [
       20003
     ],
     "rewardId": 4100200,
     "titleTextMapHash": 4201521551,
-    "investigationType": "INVESTIGATION_HOMEWORLD"
+    "unlockLevel": 0,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
-    "id": 20003,
     "cityId": 1,
+    "id": 20003,
+    "investigationType": "INVESTIGATION_HOMEWORLD",
+    "isRewardEmpty": false,
     "nextInvestigationIdList": [
       20004
     ],
     "rewardId": 4100300,
     "titleTextMapHash": 1406990103,
-    "investigationType": "INVESTIGATION_HOMEWORLD"
+    "unlockLevel": 0,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
-    "id": 20004,
     "cityId": 1,
+    "id": 20004,
+    "investigationType": "INVESTIGATION_HOMEWORLD",
+    "isRewardEmpty": false,
     "nextInvestigationIdList": [],
     "rewardId": 4100400,
     "titleTextMapHash": 3662078343,
-    "investigationType": "INVESTIGATION_HOMEWORLD"
+    "unlockLevel": 0,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
+    "cityId": 1,
     "id": 30001,
-    "cityId": 1,
-    "nextInvestigationIdList": [],
-    "unlockLevel": 16,
+    "investigationType": "INVESTIGATION_EDCATION",
     "isRewardEmpty": true,
+    "nextInvestigationIdList": [],
+    "rewardId": 0,
     "titleTextMapHash": 2561351775,
-    "investigationType": "INVESTIGATION_EDCATION"
+    "unlockLevel": 16,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
+    "cityId": 1,
     "id": 30002,
-    "cityId": 1,
-    "nextInvestigationIdList": [],
-    "unlockLevel": 25,
+    "investigationType": "INVESTIGATION_EDCATION",
     "isRewardEmpty": true,
+    "nextInvestigationIdList": [],
+    "rewardId": 0,
     "titleTextMapHash": 1781883815,
-    "investigationType": "INVESTIGATION_EDCATION"
+    "unlockLevel": 25,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
+    "cityId": 1,
     "id": 30003,
-    "cityId": 1,
-    "nextInvestigationIdList": [],
-    "unlockLevel": 30,
+    "investigationType": "INVESTIGATION_EDCATION",
     "isRewardEmpty": true,
+    "nextInvestigationIdList": [],
+    "rewardId": 0,
     "titleTextMapHash": 38845551,
-    "investigationType": "INVESTIGATION_EDCATION"
+    "unlockLevel": 30,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
+    "cityId": 1,
     "id": 30004,
-    "cityId": 1,
-    "nextInvestigationIdList": [],
-    "unlockLevel": 35,
+    "investigationType": "INVESTIGATION_EDCATION",
     "isRewardEmpty": true,
+    "nextInvestigationIdList": [],
+    "rewardId": 0,
     "titleTextMapHash": 1528078183,
-    "investigationType": "INVESTIGATION_EDCATION"
+    "unlockLevel": 35,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
-    "id": 40001,
     "cityId": 1,
+    "id": 40001,
+    "investigationType": "INVESTIGATION_GCG",
+    "isRewardEmpty": false,
     "nextInvestigationIdList": [
       40002
     ],
     "rewardId": 4200028,
     "titleTextMapHash": 3597964287,
-    "investigationType": "INVESTIGATION_GCG"
+    "unlockLevel": 0,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
-    "id": 40002,
     "cityId": 1,
+    "id": 40002,
+    "investigationType": "INVESTIGATION_GCG",
+    "isRewardEmpty": false,
     "nextInvestigationIdList": [
       40003
     ],
     "rewardId": 4200029,
     "titleTextMapHash": 3956847079,
-    "investigationType": "INVESTIGATION_GCG"
+    "unlockLevel": 0,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
-    "id": 40003,
     "cityId": 1,
+    "id": 40003,
+    "investigationType": "INVESTIGATION_GCG",
+    "isRewardEmpty": false,
     "nextInvestigationIdList": [
       40004
     ],
     "rewardId": 4200030,
     "titleTextMapHash": 1840492423,
-    "investigationType": "INVESTIGATION_GCG"
+    "unlockLevel": 0,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
-    "id": 40004,
     "cityId": 1,
+    "id": 40004,
+    "investigationType": "INVESTIGATION_GCG",
+    "isRewardEmpty": false,
     "nextInvestigationIdList": [],
     "rewardId": 4200031,
     "titleTextMapHash": 3898873639,
-    "investigationType": "INVESTIGATION_GCG"
+    "unlockLevel": 0,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   },
   {
-    "id": 50001,
     "cityId": 1,
-    "nextInvestigationIdList": [],
+    "id": 50001,
+    "investigationType": "INVESTIGATION_MAIN_QUEST",
     "isRewardEmpty": true,
+    "nextInvestigationIdList": [],
+    "rewardId": 0,
     "titleTextMapHash": 560780519,
-    "investigationType": "INVESTIGATION_MAIN_QUEST"
+    "unlockLevel": 0,
+    "unlockOpenStateType": "OPEN_STATE_NONE"
   }
 ]

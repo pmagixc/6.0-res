@@ -1,0 +1,104 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_SkirkNew_NormalAttack",
+      "abilityName": "Avatar_SkirkNew_NormalAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_ExtraAttack",
+      "abilityName": "Avatar_SkirkNew_ExtraAttack",
+      "abilityOverride": ""
+    },
+       {
+      "abilityID": "Avatar_SkirkNew_NormalAttack_DamageHandler",
+      "abilityName": "Avatar_SkirkNew_NormalAttack_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_ElementalArt_HoverAir",
+      "abilityName": "Avatar_SkirkNew_ElementalArt_HoverAir",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_ElementalArt_HoverAir_ExtraAttack",
+      "abilityName": "Avatar_SkirkNew_ElementalArt_HoverAir_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_ElementalArt_InHoverAir",
+      "abilityName": "Avatar_SkirkNew_ElementalArt_InHoverAir",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_EnterHoverAir",
+      "abilityName": "Avatar_SkirkNew_EnterHoverAir",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_ExitHoverAir",
+      "abilityName": "Avatar_SkirkNew_ExitHoverAir",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_ElementalArt_Dash",
+      "abilityName": "Avatar_SkirkNew_ElementalArt_Dash",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_ElementalArt_Dash_ExtraAttack",
+      "abilityName": "Avatar_SkirkNew_ElementalArt_Dash_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_NyxCycle",
+      "abilityName": "Avatar_SkirkNew_NyxCycle",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_NyxState_Attack",
+      "abilityName": "Avatar_SkirkNew_NyxState_Attack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_NyxSwitch_ExitButton",
+      "abilityName": "Avatar_SkirkNew_NyxSwitch_ExitButton",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_ElementalArt_Exit",
+      "abilityName": "Avatar_SkirkNew_ElementalArt_Exit",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_ElementalArt_ExitButton",
+      "abilityName": "Avatar_SkirkNew_ElementalArt_ExitButton",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_ElementalBurst",
+      "abilityName": "Avatar_SkirkNew_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_ElementalBurst_DamageHandler",
+      "abilityName": "Avatar_SkirkNew_ElementalBurst_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_DamageHandler",
+      "abilityName": "Avatar_SkirkNew_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_FallingAnthem",
+      "abilityName": "Avatar_SkirkNew_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_SkirkNew_Misc_Handler",
+      "abilityName": "Avatar_SkirkNew_Misc_Handler",
+      "abilityOverride": ""
+    }
+  ]
+}

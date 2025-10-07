@@ -1,0 +1,129 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Ifa_ExtraAttack",
+      "abilityName": "Avatar_Ifa_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_ElementalArt_Handler",
+      "abilityName": "Avatar_Ifa_ElementalArt_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_ElementalArt_Bird",
+      "abilityName": "Avatar_Ifa_ElementalArt_Bird",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_ElementalArt_Bird_Handler",
+      "abilityName": "Avatar_Ifa_ElementalArt_Bird_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_ElementalArt_Fly",
+      "abilityName": "Avatar_Ifa_ElementalArt_Fly",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_Constellation_1",
+      "abilityName": "Avatar_Ifa_Constellation_1",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_Constellation_2",
+      "abilityName": "Avatar_Ifa_Constellation_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_Constellation_4",
+      "abilityName": "Avatar_Ifa_Constellation_4",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_Constellation_6",
+      "abilityName": "Avatar_Ifa_Constellation_6",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_ElementalArt_InHoverAir",
+      "abilityName": "Avatar_Ifa_ElementalArt_InHoverAir",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_ElementalArt_HoverAir",
+      "abilityName": "Avatar_Ifa_ElementalArt_HoverAir",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_EnterHoverAir",
+      "abilityName": "Avatar_Ifa_EnterHoverAir",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_ExitHoverAir",
+      "abilityName": "Avatar_Ifa_ExitHoverAir",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_HoverAir_Attack",
+      "abilityName": "Avatar_Ifa_HoverAir_Attack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_PermanentSkill_1",
+      "abilityName": "Avatar_Ifa_PermanentSkill_1",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_PermanentSkill_2",
+      "abilityName": "Avatar_Ifa_PermanentSkill_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_PermanentSkill_3",
+      "abilityName": "Avatar_Ifa_PermanentSkill_3",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_FallingAnthem",
+      "abilityName": "Avatar_Ifa_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_Combat_FallingAnthem",
+      "abilityName": "Avatar_Ifa_Combat_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_ElementalArt",
+      "abilityName": "Avatar_Ifa_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_ElementalBurst",
+      "abilityName": "Avatar_Ifa_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_Effect",
+      "abilityName": "Avatar_Ifa_Effect",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_OtherLogic",
+      "abilityName": "Avatar_Ifa_OtherLogic",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_NyxSwitch",
+      "abilityName": "Avatar_Ifa_NyxSwitch",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ifa_NyxValue_Eff",
+      "abilityName": "Avatar_Ifa_NyxValue_Eff",
+      "abilityOverride": ""
+    }
+  ]
+}

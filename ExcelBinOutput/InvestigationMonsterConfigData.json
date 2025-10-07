@@ -1,11 +1,12 @@
 [
   {
-    "id": 1,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      23030101,
-      23040101
-    ],
+    "descTextMapHash": 2873961103,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133001229,
       133003412,
@@ -18,27 +19,37 @@
       133008640,
       133108039
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 474485041,
-    "rewardPreviewId": 15503,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 2116056172,
     "icon": "UI_MonsterIcon_Fatuus_Summoner_01",
-    "descTextMapHash": 2873961103,
+    "id": 1,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 1425803254,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      23030101,
+      23040101
+    ],
+    "nameTextMapHash": 2116056172,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15503,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 474485041
   },
   {
-    "id": 2,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      22010101,
-      22010201,
-      22010301
-    ],
+    "descTextMapHash": 3160129879,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133004369,
       133103031,
@@ -55,26 +66,38 @@
       133108027,
       133104260
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1847382081,
-    "rewardPreviewId": 15501,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 1211246492,
     "icon": "UI_MonsterIcon_Abyss_Water_01",
-    "descTextMapHash": 3160129879,
+    "id": 2,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 371397750,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      22010101,
+      22010201,
+      22010301
+    ],
+    "nameTextMapHash": 1211246492,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15501,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1847382081
   },
   {
-    "id": 3,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      24010101,
-      24010301
-    ],
+    "descTextMapHash": 3599879231,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133003317,
       133004131,
@@ -86,29 +109,37 @@
       133007041,
       133104607
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 3358195073,
-    "rewardPreviewId": 15504,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 7930300,
     "icon": "UI_MonsterIcon_Defender_Noner_01",
-    "descTextMapHash": 3599879231,
+    "id": 3,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 4016562134,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      24010101,
+      24010301
+    ],
+    "nameTextMapHash": 7930300,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15504,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 3358195073
   },
   {
-    "id": 4,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      21020101,
-      21020201,
-      21020301,
-      21020601,
-      21020601
-    ],
+    "descTextMapHash": 2163980335,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133007239,
       133102337,
@@ -122,30 +153,40 @@
       133104363,
       133008209
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 2161128561,
-    "rewardPreviewId": 15500,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 3562720660,
     "icon": "UI_MonsterIcon_Brute_None_01",
-    "descTextMapHash": 2163980335,
+    "id": 4,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 914927254,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      21020101,
+      21020201,
+      21020301,
+      21020601,
+      21020601
+    ],
+    "nameTextMapHash": 3562720660,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15500,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 2161128561
   },
   {
-    "id": 5,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      23010101,
-      23010201,
-      23010301,
-      23010401,
-      23010501,
-      23010601
-    ],
+    "descTextMapHash": 1364422791,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133001233,
       133001406,
@@ -155,107 +196,181 @@
       133106249,
       133107116
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1313684513,
-    "rewardPreviewId": 16007,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Common",
-    "nameTextMapHash": 1740952220,
     "icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01",
-    "descTextMapHash": 1364422791,
+    "id": 5,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 1462432238,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Common",
+    "monsterIdList": [
+      23010101,
+      23010201,
+      23010301,
+      23010401,
+      23010501,
+      23010601
+    ],
+    "nameTextMapHash": 1740952220,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 16007,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1313684513
   },
   {
-    "id": 6,
+    "ABNBKBDLIGN": 77010003,
+    "CGAJKDOHDKN": 40,
     "cityId": 1,
-    "monsterIdList": [
-      20040101
+    "descTextMapHash": 622146887,
+    "DJLCKJCAKDA": [
+      1335.34,
+      302.68,
+      -1864.05
     ],
+    "ENBFGLMINHF": 2036,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133001313
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 2791230489,
-    "rewardPreviewId": 15100,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Effigy_Electric",
+    "id": 6,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 4000482334,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      20040101
+    ],
     "nameTextMapHash": 2296454212,
-    "icon": "UI_MonsterIcon_Effigy_Electric",
-    "descTextMapHash": 622146887,
-    "lockDescTextMapHash": 4000482334,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15100,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 2791230489
   },
   {
-    "id": 7,
+    "ABNBKBDLIGN": 75010005,
+    "CGAJKDOHDKN": 59,
     "cityId": 1,
-    "monsterIdList": [
-      20040201
+    "descTextMapHash": 1898332639,
+    "DJLCKJCAKDA": [
+      2727.13,
+      252.92,
+      -1270.11
     ],
+    "ENBFGLMINHF": 2044,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133003482
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 2660363209,
-    "rewardPreviewId": 15110,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Effigy_Wind",
+    "id": 7,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 1756062334,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      20040201
+    ],
     "nameTextMapHash": 3813394428,
-    "icon": "UI_MonsterIcon_Effigy_Wind",
-    "descTextMapHash": 1898332639,
-    "lockDescTextMapHash": 1756062334,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15110,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 2660363209
   },
   {
-    "id": 8,
+    "ABNBKBDLIGN": 78010004,
+    "CGAJKDOHDKN": 1,
     "cityId": 1,
-    "monsterIdList": [
-      26020101
+    "descTextMapHash": 894077983,
+    "DJLCKJCAKDA": [
+      2137.15,
+      232.27,
+      -1619.92
     ],
+    "ENBFGLMINHF": 2053,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133003543
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1006015889,
-    "rewardPreviewId": 15130,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Regisvine_Ice",
+    "id": 8,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 927437942,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      26020101
+    ],
     "nameTextMapHash": 525736108,
-    "icon": "UI_MonsterIcon_Regisvine_Ice",
-    "descTextMapHash": 894077983,
-    "lockDescTextMapHash": 927437942,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15130,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1006015889
   },
   {
-    "id": 9,
+    "ABNBKBDLIGN": 79010012,
+    "CGAJKDOHDKN": 58,
     "cityId": 1,
-    "monsterIdList": [
-      29020102
+    "descTextMapHash": 2964908743,
+    "DJLCKJCAKDA": [
+      2179.04,
+      213.5,
+      -519.84
     ],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133002259
     ],
-    "unlockParentQuestId": 454,
+    "icon": "UI_MonsterIcon_LupiBoreas",
+    "id": 9,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 1361566470,
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "AfterUnlock",
+    "monsterCategory": "Boss",
+    "monsterIdList": [
+      29020102
+    ],
+    "nameTextMapHash": 2324314052,
+    "occupiedQuestIdList": [
+      800206,
+      800207,
+      800208,
+      800209
+    ],
+    "PODEFGMCJAD": 60,
+    "rewardPreviewId": 15010,
     "unlockChapterIdList": [
       1001,
       1002,
@@ -263,29 +378,18 @@
       2003,
       2005
     ],
+    "unlockParentQuestId": 454,
     "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 2382290441,
-    "rewardPreviewId": 15010,
-    "LEAGKIKECDO": 60,
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Boss",
-    "nameTextMapHash": 2324314052,
-    "icon": "UI_MonsterIcon_LupiBoreas",
-    "descTextMapHash": 2964908743,
-    "lockDescTextMapHash": 1361566470,
-    "occupiedQuestIdList": [
-      800206,
-      800207,
-      800208,
-      800209
-    ]
+    "wqAcceptHintTextMapHash": 2382290441
   },
   {
-    "id": 10,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      23020101
-    ],
+    "descTextMapHash": 1163312791,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133104268,
       133105259,
@@ -296,25 +400,36 @@
       133008551,
       133108001
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 3453953129,
-    "rewardPreviewId": 15502,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 1030983868,
     "icon": "UI_MonsterIcon_Fatuus_Fire_01",
-    "descTextMapHash": 1163312791,
+    "id": 10,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 3576467670,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      23020101
+    ],
+    "nameTextMapHash": 1030983868,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15502,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 3453953129
   },
   {
-    "id": 11,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      24010201
-    ],
+    "descTextMapHash": 3684190943,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133103325,
       133105219,
@@ -323,26 +438,36 @@
       133106502,
       133220437
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 488316681,
-    "rewardPreviewId": 15504,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 243568684,
     "icon": "UI_MonsterIcon_Formathr_None",
-    "descTextMapHash": 3684190943,
+    "id": 11,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 973997142,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      24010201
+    ],
+    "nameTextMapHash": 243568684,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15504,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 488316681
   },
   {
-    "id": 12,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      26010101,
-      26010201
-    ],
+    "descTextMapHash": 3558974463,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133002398,
       133102643,
@@ -353,103 +478,148 @@
       133104647,
       133001176
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 963828529,
-    "rewardPreviewId": 16008,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Common",
-    "nameTextMapHash": 562652100,
     "icon": "UI_MonsterIcon_Mimik_Ice",
-    "descTextMapHash": 3558974463,
+    "id": 12,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 3262262566,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Common",
+    "monsterIdList": [
+      26010101,
+      26010201
+    ],
+    "nameTextMapHash": 562652100,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 16008,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 963828529
   },
   {
-    "id": 13,
+    "ABNBKBDLIGN": 80010011,
+    "CGAJKDOHDKN": 137,
     "cityId": 1,
-    "monsterIdList": [
-      20040301
+    "descTextMapHash": 2273147727,
+    "DJLCKJCAKDA": [
+      -279.89,
+      209.64,
+      -933.49
     ],
+    "ENBFGLMINHF": 2045,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133108020
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 2998782569,
-    "rewardPreviewId": 15120,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Effigy_Rock",
+    "id": 13,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 3627861054,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      20040301
+    ],
     "nameTextMapHash": 2498400124,
-    "icon": "UI_MonsterIcon_Effigy_Rock",
-    "descTextMapHash": 2273147727,
-    "lockDescTextMapHash": 3627861054,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15120,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 2998782569
   },
   {
-    "id": 14,
+    "ABNBKBDLIGN": 60010009,
+    "CGAJKDOHDKN": 180,
     "cityId": 1,
-    "monsterIdList": [
-      20050101
+    "descTextMapHash": 2848133519,
+    "DJLCKJCAKDA": [
+      1531.16,
+      204.03,
+      309.63
     ],
+    "ENBFGLMINHF": 2056,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133102769
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 4017621113,
-    "rewardPreviewId": 15150,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Oceanid",
+    "id": 14,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 2573390758,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      20050101
+    ],
     "nameTextMapHash": 859677348,
-    "icon": "UI_MonsterIcon_Oceanid",
-    "descTextMapHash": 2848133519,
-    "lockDescTextMapHash": 2573390758,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15150,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 4017621113
   },
   {
-    "id": 15,
+    "ABNBKBDLIGN": 81010008,
+    "CGAJKDOHDKN": 181,
     "cityId": 1,
-    "monsterIdList": [
-      26020201
+    "descTextMapHash": 3116937319,
+    "DJLCKJCAKDA": [
+      245.9,
+      236.78,
+      830.92
     ],
+    "ENBFGLMINHF": 2054,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133104394
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1547145569,
-    "rewardPreviewId": 15140,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Regisvine_Fire",
+    "id": 15,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 1179122462,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      26020201
+    ],
     "nameTextMapHash": 3427645324,
-    "icon": "UI_MonsterIcon_Regisvine_Fire",
-    "descTextMapHash": 3116937319,
-    "lockDescTextMapHash": 1179122462,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15140,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1547145569
   },
   {
-    "id": 16,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      26030101
-    ],
+    "descTextMapHash": 4137825743,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133102504,
       133102056,
@@ -459,28 +629,36 @@
       133106305,
       133106306
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 3734043241,
-    "rewardPreviewId": 15505,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 888016324,
     "icon": "UI_MonsterIcon_Wyrm_Rock",
-    "descTextMapHash": 4137825743,
+    "id": 16,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 3126765454,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      26030101
+    ],
+    "nameTextMapHash": 888016324,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15505,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 3734043241
   },
   {
-    "id": 17,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      21010401,
-      21010501,
-      21010901,
-      21011001
-    ],
+    "descTextMapHash": 4268108703,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133004013,
       133004289,
@@ -503,32 +681,39 @@
       133107066,
       133108033
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1711036305,
-    "rewardPreviewId": 16005,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Common",
-    "nameTextMapHash": 605593892,
     "icon": "UI_MonsterIcon_Hili_Electric_Range",
-    "descTextMapHash": 4268108703,
+    "id": 17,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 598432798,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Common",
+    "monsterIdList": [
+      21010401,
+      21010501,
+      21010901,
+      21011001
+    ],
+    "nameTextMapHash": 605593892,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 16005,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1711036305
   },
   {
-    "id": 18,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      21010101,
-      21010201,
-      21010301,
-      21010601,
-      21010701,
-      21011201,
-      21011301,
-      21011401
-    ],
+    "descTextMapHash": 3867846519,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133001097,
       133001254,
@@ -545,29 +730,43 @@
       133008236,
       133105327
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 271573993,
-    "rewardPreviewId": 16004,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Common",
-    "nameTextMapHash": 1978754172,
     "icon": "UI_MonsterIcon_Hili_None_01",
-    "descTextMapHash": 3867846519,
+    "id": 18,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 1600128438,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Common",
+    "monsterIdList": [
+      21010101,
+      21010201,
+      21010301,
+      21010601,
+      21010701,
+      21011201,
+      21011301,
+      21011401
+    ],
+    "nameTextMapHash": 1978754172,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 16004,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 271573993
   },
   {
-    "id": 19,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      21030101,
-      21030201,
-      21030301,
-      21030401,
-      21030501
-    ],
+    "descTextMapHash": 2152833887,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133002342,
       133004289,
@@ -582,39 +781,40 @@
       133007238,
       133008435
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 2076557481,
-    "rewardPreviewId": 16006,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Common",
-    "nameTextMapHash": 3793925636,
     "icon": "UI_MonsterIcon_Shaman_Wind_01",
-    "descTextMapHash": 2152833887,
+    "id": 19,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 482563934,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Common",
+    "monsterIdList": [
+      21030101,
+      21030201,
+      21030301,
+      21030401,
+      21030501
+    ],
+    "nameTextMapHash": 3793925636,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 16006,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 2076557481
   },
   {
-    "id": 20,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      20010101,
-      20010201,
-      20010301,
-      20010401,
-      20010501,
-      20010601,
-      20010701,
-      20010801,
-      20010901,
-      20011001,
-      20011101,
-      20011201,
-      20011301,
-      20011401,
-      20011501
-    ],
+    "descTextMapHash": 2182239071,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133001358,
       133002323,
@@ -634,22 +834,71 @@
       133106242,
       133102741
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 3533964977,
-    "rewardPreviewId": 16000,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Common",
-    "nameTextMapHash": 3463468772,
     "icon": "UI_MonsterIcon_Slime_Water_03",
-    "descTextMapHash": 2182239071,
+    "id": 20,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 3727808190,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Common",
+    "monsterIdList": [
+      20010101,
+      20010201,
+      20010301,
+      20010401,
+      20010501,
+      20010601,
+      20010701,
+      20010801,
+      20010901,
+      20011001,
+      20011101,
+      20011201,
+      20011301,
+      20011401,
+      20011501
+    ],
+    "nameTextMapHash": 3463468772,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 16000,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 3533964977
   },
   {
-    "id": 21,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
+    "descTextMapHash": 798059871,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133102652,
+      133102672,
+      133102721,
+      133103349,
+      133103383,
+      133103384,
+      133106223,
+      133104552,
+      133106044
+    ],
+    "icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
+    "id": 21,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 2221217286,
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Common",
     "monsterIdList": [
       25010201,
       25010301,
@@ -663,91 +912,97 @@
       25060101,
       25070101
     ],
-    "groupIdList": [
-      133102652,
-      133102672,
-      133102721,
-      133103349,
-      133103383,
-      133103384,
-      133106223,
-      133104552,
-      133106044
-    ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 4194505801,
-    "rewardPreviewId": 16003,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Common",
     "nameTextMapHash": 1142558500,
-    "icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
-    "descTextMapHash": 798059871,
-    "lockDescTextMapHash": 2221217286,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 16003,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 4194505801
   },
   {
-    "id": 22,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
+    "descTextMapHash": 1276916615,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133104304
+    ],
+    "icon": "UI_MonsterIcon_Brute_Rock_None",
+    "id": 22,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 2099514902,
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
     "monsterIdList": [
       21020501,
       21020401
     ],
-    "groupIdList": [
-      133104304
-    ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 526800897,
-    "rewardPreviewId": 15506,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
     "nameTextMapHash": 1609885756,
-    "icon": "UI_MonsterIcon_Brute_Rock_None",
-    "descTextMapHash": 1276916615,
-    "lockDescTextMapHash": 2099514902,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15506,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 526800897
   },
   {
-    "id": 23,
+    "ABNBKBDLIGN": 61010002,
+    "CGAJKDOHDKN": 95,
     "cityId": 1,
+    "descTextMapHash": 1184710679,
+    "DJLCKJCAKDA": [
+      383.11,
+      233.19,
+      1671.88
+    ],
+    "ENBFGLMINHF": 2060,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133103640
+    ],
+    "icon": "UI_MonsterIcon_Drake_Primo_Rock",
+    "id": 23,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 3121213006,
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "PKJKANNPKML": 20
+    },
+    "mapMarkCreateType": "ExtraConditions",
+    "monsterCategory": "Boss",
     "monsterIdList": [
       26050101,
       26050201,
       26050301,
       26050401
     ],
-    "groupIdList": [
-      133103640
-    ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 826310809,
-    "rewardPreviewId": 15160,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
-    "mapMarkCreateCondition": {
-      "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
-    },
-    "monsterCategory": "Boss",
     "nameTextMapHash": 3797091836,
-    "icon": "UI_MonsterIcon_Drake_Primo_Rock",
-    "descTextMapHash": 1184710679,
-    "lockDescTextMapHash": 3121213006,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15160,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 826310809
   },
   {
-    "id": 24,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      26040101,
-      26040102,
-      26040103,
-      26040104
-    ],
+    "descTextMapHash": 10157591,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133101249,
       133101250,
@@ -758,136 +1013,193 @@
       133103649,
       133104150
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 4190640001,
-    "rewardPreviewId": 15509,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 3727063148,
     "icon": "UI_MonsterIcon_Drake_Rock",
-    "descTextMapHash": 10157591,
+    "id": 24,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 889747054,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      26040101,
+      26040102,
+      26040103,
+      26040104
+    ],
+    "nameTextMapHash": 3727063148,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15509,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 4190640001
   },
   {
-    "id": 25,
+    "ABNBKBDLIGN": 82010003,
+    "CGAJKDOHDKN": 222,
     "cityId": 1,
-    "monsterIdList": [
-      20040501
+    "descTextMapHash": 3070647783,
+    "DJLCKJCAKDA": [
+      1235.86,
+      294.05,
+      -554.11
     ],
+    "ENBFGLMINHF": 2063,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133008657
     ],
-    "unlockParentQuestId": 396,
+    "icon": "UI_MonsterIcon_Effigy_Ice",
+    "id": 25,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 3493708718,
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "AfterUnlock",
+    "monsterCategory": "Boss",
+    "monsterIdList": [
+      20040501
+    ],
+    "nameTextMapHash": 2071681052,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15170,
     "unlockChapterIdList": [
       1001,
       1002,
       1003
     ],
+    "unlockParentQuestId": 396,
     "unlockWqParentQuestIdList": [
       70141
     ],
-    "wqAcceptHintTextMapHash": 303692577,
-    "rewardPreviewId": 15170,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Boss",
-    "nameTextMapHash": 2071681052,
-    "icon": "UI_MonsterIcon_Effigy_Ice",
-    "descTextMapHash": 3070647783,
-    "lockDescTextMapHash": 3493708718,
-    "occupiedQuestIdList": []
+    "wqAcceptHintTextMapHash": 303692577
   },
   {
-    "id": 26,
+    "ABNBKBDLIGN": 83010004,
+    "CGAJKDOHDKN": 257,
     "cityId": 1,
-    "monsterIdList": [
-      25090101
+    "descTextMapHash": 2280343023,
+    "DJLCKJCAKDA": [
+      -3919.7,
+      344.23,
+      -2401.08
     ],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133212378
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 750036065,
-    "rewardPreviewId": 15171,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Samurai_Ningyo",
+    "id": 26,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 2908620662,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 30
+      "PKJKANNPKML": 30
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      25090101
+    ],
     "nameTextMapHash": 2151581004,
-    "icon": "UI_MonsterIcon_Samurai_Ningyo",
-    "descTextMapHash": 2280343023,
-    "lockDescTextMapHash": 2908620662,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15171,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 750036065
   },
   {
-    "id": 27,
+    "ABNBKBDLIGN": 84010004,
+    "CGAJKDOHDKN": 248,
     "cityId": 1,
-    "monsterIdList": [
-      20040601
+    "descTextMapHash": 3259488015,
+    "DJLCKJCAKDA": [
+      -3154.64,
+      209.21,
+      -3234.01
     ],
+    "ENBFGLMINHF": 2065,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133213187
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 555675129,
-    "rewardPreviewId": 15173,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Effigy_Fire",
+    "id": 27,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 3865151206,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 30
+      "PKJKANNPKML": 30
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      20040601
+    ],
     "nameTextMapHash": 832422796,
-    "icon": "UI_MonsterIcon_Effigy_Fire",
-    "descTextMapHash": 3259488015,
-    "lockDescTextMapHash": 3865151206,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15173,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 555675129
   },
   {
-    "id": 28,
+    "ABNBKBDLIGN": 62010011,
+    "CGAJKDOHDKN": 304,
     "cityId": 1,
-    "monsterIdList": [
-      24021101
+    "descTextMapHash": 2186659455,
+    "DJLCKJCAKDA": [
+      -2244.19,
+      206.5,
+      -4306.87
     ],
+    "ENBFGLMINHF": 2066,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133220037
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1950557337,
-    "rewardPreviewId": 15172,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Apparatus_Perpetual",
+    "id": 28,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 4118988294,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 30
+      "PKJKANNPKML": 30
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      24021101
+    ],
     "nameTextMapHash": 1727977044,
-    "icon": "UI_MonsterIcon_Apparatus_Perpetual",
-    "descTextMapHash": 2186659455,
-    "lockDescTextMapHash": 4118988294,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15172,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1950557337
   },
   {
-    "id": 29,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      25080101,
-      25080201,
-      25080301,
-      25100101,
-      25100201
-    ],
+    "descTextMapHash": 1998355319,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133220657,
       133212313,
@@ -900,25 +1212,40 @@
       133220514,
       133220361
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1528499009,
-    "rewardPreviewId": 16009,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Common",
-    "nameTextMapHash": 1355468644,
     "icon": "UI_MonsterIcon_Samurai_Kairagi_02",
-    "descTextMapHash": 1998355319,
+    "id": 29,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 3335300718,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Common",
+    "monsterIdList": [
+      25080101,
+      25080201,
+      25080301,
+      25100101,
+      25100201
+    ],
+    "nameTextMapHash": 1355468644,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 16009,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1528499009
   },
   {
-    "id": 30,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      23050101
-    ],
+    "descTextMapHash": 117139007,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133220497,
       133220549,
@@ -929,28 +1256,36 @@
       133210117,
       133210315
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 3958413873,
-    "rewardPreviewId": 15511,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 1113337244,
     "icon": "UI_MonsterIcon_Fatuus_Maiden_Water",
-    "descTextMapHash": 117139007,
+    "id": 30,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 155840950,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      23050101
+    ],
+    "nameTextMapHash": 1113337244,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15511,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 3958413873
   },
   {
-    "id": 31,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      24020101,
-      24020201,
-      24020301,
-      24020401
-    ],
+    "descTextMapHash": 1002475759,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133220660,
       133212269,
@@ -959,55 +1294,96 @@
       133210258,
       133210259
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 360757921,
-    "rewardPreviewId": 15510,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 3635803396,
     "icon": "UI_MonsterIcon_Apparatus_Enigma_BionicInsecta",
-    "descTextMapHash": 1002475759,
+    "id": 31,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 2752709702,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      24020101,
+      24020201,
+      24020301,
+      24020401
+    ],
+    "nameTextMapHash": 3635803396,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15510,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 360757921
   },
   {
-    "id": 32,
+    "ABNBKBDLIGN": 63010004,
+    "CGAJKDOHDKN": 321,
     "cityId": 1,
-    "monsterIdList": [
-      20040401
+    "descTextMapHash": 2592202711,
+    "DJLCKJCAKDA": [
+      -3563.35,
+      201.16,
+      -766.68
     ],
+    "ENBFGLMINHF": 2067,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133210237
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 3599820625,
-    "rewardPreviewId": 15174,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Effigy_Water",
+    "id": 32,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 837744126,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 30
+      "PKJKANNPKML": 30
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      20040401
+    ],
     "nameTextMapHash": 2882330044,
-    "icon": "UI_MonsterIcon_Effigy_Water",
-    "descTextMapHash": 2592202711,
-    "lockDescTextMapHash": 837744126,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15174,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 3599820625
   },
   {
-    "id": 33,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 366,
     "cityId": 1,
-    "monsterIdList": [
-      20070101
-    ],
+    "descTextMapHash": 515157471,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 2068,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133222181
     ],
-    "unlockParentQuestId": 18000,
+    "icon": "UI_MonsterIcon_Raijin",
+    "id": 33,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 2015445734,
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "PKJKANNPKML": 30
+    },
+    "mapMarkCreateType": "AfterUnlock",
+    "monsterCategory": "Boss",
+    "monsterIdList": [
+      20070101
+    ],
+    "nameTextMapHash": 3574516420,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15175,
     "unlockChapterIdList": [
       1001,
       1002,
@@ -1019,6 +1395,7 @@
       1105,
       1201
     ],
+    "unlockParentQuestId": 18000,
     "unlockWqParentQuestIdList": [
       2011,
       2012,
@@ -1028,29 +1405,16 @@
       72157,
       72158
     ],
-    "wqAcceptHintTextMapHash": 4035183641,
-    "rewardPreviewId": 15175,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateCondition": {
-      "conditionType": "PlayerLevelGE",
-      "conditionParam": 30
-    },
-    "monsterCategory": "Boss",
-    "nameTextMapHash": 3574516420,
-    "icon": "UI_MonsterIcon_Raijin",
-    "descTextMapHash": 515157471,
-    "lockDescTextMapHash": 2015445734,
-    "occupiedQuestIdList": []
+    "wqAcceptHintTextMapHash": 4035183641
   },
   {
-    "id": 34,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      20060101,
-      20060201,
-      20060301,
-      20060701
-    ],
+    "descTextMapHash": 374028479,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133210023,
       133210064,
@@ -1062,29 +1426,39 @@
       133222127,
       133222129
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1477881953,
-    "rewardPreviewId": 16011,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Common",
-    "nameTextMapHash": 3232038316,
     "icon": "UI_MonsterIcon_Sylph_Wind_01",
-    "descTextMapHash": 374028479,
+    "id": 34,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 3493916862,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Common",
+    "monsterIdList": [
+      20060101,
+      20060201,
+      20060301,
+      20060701
+    ],
+    "nameTextMapHash": 3232038316,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 16011,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1477881953
   },
   {
-    "id": 35,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      22050101,
-      22050201,
-      22040101,
-      22040201
-    ],
+    "descTextMapHash": 3856405135,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133225105,
       133223055,
@@ -1095,55 +1469,100 @@
       133225178,
       133225210
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 2042236209,
-    "rewardPreviewId": 15513,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 614784292,
     "icon": "UI_MonsterIcon_Hound_Riftstalker_Rock",
-    "descTextMapHash": 3856405135,
+    "id": 35,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 3323643558,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      22050101,
+      22050201,
+      22040101,
+      22040201
+    ],
+    "nameTextMapHash": 614784292,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15513,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 2042236209
   },
   {
-    "id": 36,
+    "ABNBKBDLIGN": 86010003,
+    "CGAJKDOHDKN": 435,
     "cityId": 1,
-    "monsterIdList": [
-      22060101
+    "descTextMapHash": 3762017839,
+    "DJLCKJCAKDA": [
+      -6591.06,
+      200.17,
+      -2650.54
     ],
+    "ENBFGLMINHF": 2076,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133225275
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 3348264737,
-    "rewardPreviewId": 15176,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Hound_Planelurker",
+    "id": 36,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 306795822,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 30
+      "PKJKANNPKML": 30
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      22060101
+    ],
     "nameTextMapHash": 4062848028,
-    "icon": "UI_MonsterIcon_Hound_Planelurker",
-    "descTextMapHash": 3762017839,
-    "lockDescTextMapHash": 306795822,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15176,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 3348264737
   },
   {
-    "id": 37,
+    "ABNBKBDLIGN": 85010006,
+    "CGAJKDOHDKN": 31,
     "cityId": 1,
-    "monsterIdList": [
-      26050701
+    "descTextMapHash": 4107313847,
+    "DJLCKJCAKDA": [
+      277.52,
+      348.13,
+      282.66
     ],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       155005095
     ],
-    "unlockParentQuestId": 18000,
+    "icon": "UI_MonsterIcon_Drake_Deepsea_TwinBossFight",
+    "id": 37,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 1217983390,
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "PKJKANNPKML": 30
+    },
+    "mapMarkCreateType": "ExtraConditions",
+    "monsterCategory": "Boss",
+    "monsterIdList": [
+      26050701
+    ],
+    "nameTextMapHash": 2546599012,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15177,
     "unlockChapterIdList": [
       1001,
       1002,
@@ -1154,6 +1573,7 @@
       1104,
       1105
     ],
+    "unlockParentQuestId": 18000,
     "unlockWqParentQuestIdList": [
       72145,
       72146,
@@ -1164,59 +1584,79 @@
       72242,
       72177
     ],
-    "wqAcceptHintTextMapHash": 3032726961,
-    "rewardPreviewId": 15177,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
-    "mapMarkCreateCondition": {
-      "conditionType": "PlayerLevelGE",
-      "conditionParam": 30
-    },
-    "monsterCategory": "Boss",
-    "nameTextMapHash": 2546599012,
-    "icon": "UI_MonsterIcon_Drake_Deepsea_TwinBossFight",
-    "descTextMapHash": 4107313847,
-    "lockDescTextMapHash": 1217983390,
-    "occupiedQuestIdList": []
+    "wqAcceptHintTextMapHash": 3032726961
   },
   {
-    "id": 38,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      26050601,
-      26050901,
-      26051001,
-      26051101
-    ],
+    "descTextMapHash": 247811999,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       155005321,
       155007108,
       155007107,
       155007094
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 3588167401,
-    "rewardPreviewId": 15509,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 2468058460,
     "icon": "UI_MonsterIcon_Drake_Deepsea_Water",
-    "descTextMapHash": 247811999,
+    "id": 38,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 1841625726,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      26050601,
+      26050901,
+      26051001,
+      26051101
+    ],
+    "nameTextMapHash": 2468058460,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15509,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 3588167401
   },
   {
-    "id": 39,
+    "ABNBKBDLIGN": 87010004,
+    "CGAJKDOHDKN": 3,
     "cityId": 1,
-    "monsterIdList": [
-      24010401
+    "descTextMapHash": 813509223,
+    "DJLCKJCAKDA": [
+      765.08,
+      962.53,
+      891.7
     ],
+    "ENBFGLMINHF": 2087,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       166001287
     ],
-    "unlockParentQuestId": 1025,
+    "icon": "UI_MonsterIcon_Nithhoggr_None",
+    "id": 39,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 2925273550,
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "PKJKANNPKML": 28
+    },
+    "mapMarkCreateType": "ExtraConditions",
+    "monsterCategory": "Boss",
+    "monsterIdList": [
+      24010401
+    ],
+    "nameTextMapHash": 1493560740,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15178,
     "unlockChapterIdList": [
       1001,
       1002,
@@ -1225,35 +1665,20 @@
       1102,
       1103
     ],
+    "unlockParentQuestId": 1025,
     "unlockWqParentQuestIdList": [
       71044
     ],
-    "wqAcceptHintTextMapHash": 1188870225,
-    "rewardPreviewId": 15178,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
-    "mapMarkCreateCondition": {
-      "conditionType": "PlayerLevelGE",
-      "conditionParam": 28
-    },
-    "monsterCategory": "Boss",
-    "nameTextMapHash": 1493560740,
-    "icon": "UI_MonsterIcon_Nithhoggr_None",
-    "descTextMapHash": 813509223,
-    "lockDescTextMapHash": 2925273550,
-    "occupiedQuestIdList": []
+    "wqAcceptHintTextMapHash": 1188870225
   },
   {
-    "id": 40,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      22070101,
-      22070102,
-      22070201,
-      22070202,
-      22070301,
-      22070302
-    ],
+    "descTextMapHash": 687048607,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       166001112,
       166001114,
@@ -1262,78 +1687,115 @@
       166001118,
       166001119
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1937983185,
-    "rewardPreviewId": 15515,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 4082729428,
     "icon": "UI_MonsterIcon_ForlornVessel_Strong_Warbanner_Fire",
-    "descTextMapHash": 687048607,
+    "id": 40,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 347213606,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      22070101,
+      22070102,
+      22070201,
+      22070202,
+      22070301,
+      22070302
+    ],
+    "nameTextMapHash": 4082729428,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15515,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1937983185
   },
   {
-    "id": 41,
+    "ABNBKBDLIGN": 64010008,
+    "CGAJKDOHDKN": 587,
     "cityId": 1,
-    "monsterIdList": [
-      26020301
+    "descTextMapHash": 2302915527,
+    "DJLCKJCAKDA": [
+      236.18,
+      305.55,
+      2129.36
     ],
+    "ENBFGLMINHF": 2097,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133315043
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1498736137,
-    "rewardPreviewId": 15180,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Regisvine_Electric",
+    "id": 41,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 3530499686,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      26020301
+    ],
     "nameTextMapHash": 1519505956,
-    "icon": "UI_MonsterIcon_Regisvine_Electric",
-    "descTextMapHash": 2302915527,
-    "lockDescTextMapHash": 3530499686,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15180,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1498736137
   },
   {
-    "id": 42,
+    "ABNBKBDLIGN": 65010011,
+    "CGAJKDOHDKN": 486,
     "cityId": 1,
-    "monsterIdList": [
-      26110101
+    "descTextMapHash": 1324083599,
+    "DJLCKJCAKDA": [
+      -305.28,
+      240.91,
+      3945.89
     ],
+    "ENBFGLMINHF": 2091,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133301272
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 724324257,
-    "rewardPreviewId": 15179,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Fungus_Raptor",
+    "id": 42,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 1805149974,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      26110101
+    ],
     "nameTextMapHash": 1939319708,
-    "icon": "UI_MonsterIcon_Fungus_Raptor",
-    "descTextMapHash": 1324083599,
-    "lockDescTextMapHash": 1805149974,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15179,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 724324257
   },
   {
-    "id": 43,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      24030101,
-      24030201
-    ],
+    "descTextMapHash": 2346128543,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133302494,
       133315160,
@@ -1346,22 +1808,59 @@
       133301328,
       133301493
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 157505705,
-    "rewardPreviewId": 15518,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 2653939388,
     "icon": "UI_MonsterIcon_Gargoyle",
-    "descTextMapHash": 2346128543,
+    "id": 43,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 1103490398,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      24030101,
+      24030201
+    ],
+    "nameTextMapHash": 2653939388,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15518,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 157505705
   },
   {
-    "id": 44,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
+    "descTextMapHash": 668317647,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133302054,
+      133302182,
+      133304295,
+      133303108,
+      133303109,
+      133303146,
+      133301478,
+      133301014,
+      133301385,
+      133301413
+    ],
+    "icon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive",
+    "id": 44,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 2566205262,
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Common",
     "monsterIdList": [
       25210101,
       25210102,
@@ -1382,45 +1881,23 @@
       25310201,
       25310301
     ],
-    "groupIdList": [
-      133302054,
-      133302182,
-      133304295,
-      133303108,
-      133303109,
-      133303146,
-      133301478,
-      133301014,
-      133301385,
-      133301413
-    ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1665444433,
-    "rewardPreviewId": 16014,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Common",
     "nameTextMapHash": 1906390052,
-    "icon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive",
-    "descTextMapHash": 668317647,
-    "lockDescTextMapHash": 2566205262,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 16014,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1665444433
   },
   {
-    "id": 45,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      26090201,
-      26090401,
-      26090501,
-      26090701,
-      26090801,
-      26090901,
-      26120101,
-      26120201,
-      26120301
-    ],
+    "descTextMapHash": 423506559,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133302462,
       133315055,
@@ -1435,79 +1912,118 @@
       133301538,
       133301552
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 514961929,
-    "rewardPreviewId": 15516,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Common",
-    "nameTextMapHash": 506268972,
     "icon": "UI_MonsterIcon_Fungus_Un_Gamma_Water",
-    "descTextMapHash": 423506559,
+    "id": 45,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 2135060918,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Common",
+    "monsterIdList": [
+      26090201,
+      26090401,
+      26090501,
+      26090701,
+      26090801,
+      26090901,
+      26120101,
+      26120201,
+      26120301
+    ],
+    "nameTextMapHash": 506268972,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15516,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 514961929
   },
   {
-    "id": 46,
+    "ABNBKBDLIGN": 66010011,
+    "CGAJKDOHDKN": 502,
     "cityId": 1,
-    "monsterIdList": [
-      24030301
+    "descTextMapHash": 669137191,
+    "DJLCKJCAKDA": [
+      -1187.38,
+      186.46,
+      2275.82
     ],
+    "ENBFGLMINHF": 2098,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133304253
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 628968785,
-    "rewardPreviewId": 15181,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Gargoyle_Fafnir",
+    "id": 46,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 1076478350,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      24030301
+    ],
     "nameTextMapHash": 3554162420,
-    "icon": "UI_MonsterIcon_Gargoyle_Fafnir",
-    "descTextMapHash": 669137191,
-    "lockDescTextMapHash": 1076478350,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15181,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 628968785
   },
   {
-    "id": 47,
+    "ABNBKBDLIGN": 67010004,
+    "CGAJKDOHDKN": 545,
     "cityId": 1,
-    "monsterIdList": [
-      24050101
+    "descTextMapHash": 1249383527,
+    "DJLCKJCAKDA": [
+      -2787.07,
+      159.84,
+      5162.39
     ],
+    "ENBFGLMINHF": 2100,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133309053
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1785603489,
-    "rewardPreviewId": 15182,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Monolith_Starchild",
+    "id": 47,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 121041574,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      24050101
+    ],
     "nameTextMapHash": 1979409620,
-    "icon": "UI_MonsterIcon_Monolith_Starchild",
-    "descTextMapHash": 1249383527,
-    "lockDescTextMapHash": 121041574,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15182,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1785603489
   },
   {
-    "id": 48,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      24040101,
-      24040201,
-      24040301
-    ],
+    "descTextMapHash": 3142204727,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133309050,
       133309440,
@@ -1520,79 +2036,112 @@
       133310297,
       133310329
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 725025041,
-    "rewardPreviewId": 15519,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 1853899828,
     "icon": "UI_MonsterIcon_Monolith_Ordinator",
-    "descTextMapHash": 3142204727,
+    "id": 48,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 2345564286,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      24040101,
+      24040201,
+      24040301
+    ],
+    "nameTextMapHash": 1853899828,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15519,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 725025041
   },
   {
-    "id": 49,
+    "ABNBKBDLIGN": 68010004,
+    "CGAJKDOHDKN": 538,
     "cityId": 1,
-    "monsterIdList": [
-      20040701
+    "descTextMapHash": 473918847,
+    "DJLCKJCAKDA": [
+      -2485.64,
+      302.53,
+      4012.85
     ],
+    "ENBFGLMINHF": 2103,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133305051
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 2173582761,
-    "rewardPreviewId": 15183,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Effigy_Grass",
+    "id": 49,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 789620134,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      20040701
+    ],
     "nameTextMapHash": 3093228236,
-    "icon": "UI_MonsterIcon_Effigy_Grass",
-    "descTextMapHash": 473918847,
-    "lockDescTextMapHash": 789620134,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15183,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 2173582761
   },
   {
-    "id": 50,
+    "ABNBKBDLIGN": 69010004,
+    "CGAJKDOHDKN": 634,
     "cityId": 1,
-    "monsterIdList": [
-      26130101
+    "descTextMapHash": 4003938663,
+    "DJLCKJCAKDA": [
+      -1067.14,
+      72.64,
+      4580.73
     ],
+    "ENBFGLMINHF": 2107,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133314016
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1017620017,
-    "rewardPreviewId": 15184,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Sandworm",
+    "id": 50,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 2268305878,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      26130101
+    ],
     "nameTextMapHash": 1557360244,
-    "icon": "UI_MonsterIcon_Sandworm",
-    "descTextMapHash": 4003938663,
-    "lockDescTextMapHash": 2268305878,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15184,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1017620017
   },
   {
-    "id": 51,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      26100301,
-      26100401,
-      26100501
-    ],
+    "descTextMapHash": 1324581999,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133314277,
       133314556,
@@ -1601,26 +2150,38 @@
       133314176,
       133313374
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 221156657,
-    "rewardPreviewId": 15520,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 2046904764,
     "icon": "UI_MonsterIcon_Vulture_Sacred_Fire",
-    "descTextMapHash": 1324581999,
+    "id": 51,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 1646248790,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      26100301,
+      26100401,
+      26100501
+    ],
+    "nameTextMapHash": 2046904764,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15520,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 221156657
   },
   {
-    "id": 52,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      21040101,
-      21040201
-    ],
+    "descTextMapHash": 4124504655,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133316274,
       133316214,
@@ -1633,51 +2194,97 @@
       133316003,
       133316152
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1209134089,
-    "rewardPreviewId": 15521,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 12757692,
     "icon": "UI_MonsterIcon_Hilistray_Wind",
-    "descTextMapHash": 4124504655,
+    "id": 52,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 2963261838,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      21040101,
+      21040201
+    ],
+    "nameTextMapHash": 12757692,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15521,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1209134089
   },
   {
-    "id": 53,
+    "ABNBKBDLIGN": 70010005,
+    "CGAJKDOHDKN": 746,
     "cityId": 1,
+    "descTextMapHash": 2649913591,
+    "DJLCKJCAKDA": [
+      352.49,
+      231.71,
+      6604.79
+    ],
+    "ENBFGLMINHF": 2116,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133316134
+    ],
+    "icon": "UI_MonsterIcon_Invoker_Archdeacon",
+    "id": 53,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 3761757982,
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "PKJKANNPKML": 20
+    },
+    "mapMarkCreateType": "ExtraConditions",
+    "monsterCategory": "Boss",
     "monsterIdList": [
       22100101,
       22100201,
       22100301,
       22100401
     ],
-    "groupIdList": [
-      133316134
-    ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1789358545,
-    "rewardPreviewId": 15185,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
-    "mapMarkCreateCondition": {
-      "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
-    },
-    "monsterCategory": "Boss",
     "nameTextMapHash": 3262865284,
-    "icon": "UI_MonsterIcon_Invoker_Archdeacon",
-    "descTextMapHash": 2649913591,
-    "lockDescTextMapHash": 3761757982,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15185,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1789358545
   },
   {
-    "id": 54,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
+    "descTextMapHash": 3023100615,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133403003,
+      133403218,
+      133403196,
+      133403198,
+      133403195,
+      133401484,
+      133403014,
+      133401132
+    ],
+    "icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01",
+    "id": 54,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 3682271070,
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Common",
     "monsterIdList": [
       24060101,
       24060102,
@@ -1728,32 +2335,46 @@
       24066201,
       24066202
     ],
-    "groupIdList": [
-      133403003,
-      133403218,
-      133403196,
-      133403198,
-      133403195,
-      133401484,
-      133403014,
-      133401132
-    ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1409703913,
-    "rewardPreviewId": 16019,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Common",
     "nameTextMapHash": 2468162060,
-    "icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01",
-    "descTextMapHash": 3023100615,
-    "lockDescTextMapHash": 3682271070,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 16019,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1409703913
   },
   {
-    "id": 55,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
+    "descTextMapHash": 3240260487,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133402016,
+      133401663,
+      133403177,
+      133403492,
+      133401724,
+      133402174,
+      133402412,
+      133401098,
+      133401142,
+      133401182,
+      133402148
+    ],
+    "icon": "UI_MonsterIcon_HermitCrab_Larva_01",
+    "id": 55,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 2665821030,
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Common",
     "monsterIdList": [
       26151001,
       26151002,
@@ -1783,39 +2404,23 @@
       26160301,
       26160302
     ],
-    "groupIdList": [
-      133402016,
-      133401663,
-      133403177,
-      133403492,
-      133401724,
-      133402174,
-      133402412,
-      133401098,
-      133401142,
-      133401182,
-      133402148
-    ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 3935035729,
-    "rewardPreviewId": 16017,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Common",
     "nameTextMapHash": 2077793580,
-    "icon": "UI_MonsterIcon_HermitCrab_Larva_01",
-    "descTextMapHash": 3240260487,
-    "lockDescTextMapHash": 2665821030,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 16017,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 3935035729
   },
   {
-    "id": 56,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      20051001,
-      20051101
-    ],
+    "descTextMapHash": 2622682463,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133401042,
       133401548,
@@ -1824,109 +2429,153 @@
       133405014,
       133405055
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 523396009,
-    "rewardPreviewId": 15522,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 1640861332,
     "icon": "UI_MonsterIcon_Necalevia_Normal",
-    "descTextMapHash": 2622682463,
+    "id": 56,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 3207200062,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      20051001,
+      20051101
+    ],
+    "nameTextMapHash": 1640861332,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15522,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 523396009
   },
   {
-    "id": 57,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      22110101,
-      22110201,
-      22110301,
-      22110402
-    ],
+    "descTextMapHash": 579999,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133403513,
       133403683,
       133403758,
       133403760
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 866006585,
-    "rewardPreviewId": 15524,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 3528525012,
     "icon": "UI_MonsterIcon_Ovacua_Order_01",
-    "descTextMapHash": 579999,
+    "id": 57,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 1859514470,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      22110101,
+      22110201,
+      22110301,
+      22110402
+    ],
+    "nameTextMapHash": 3528525012,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15524,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 866006585
   },
   {
-    "id": 58,
+    "ABNBKBDLIGN": 88010003,
+    "CGAJKDOHDKN": 875,
     "cityId": 1,
+    "descTextMapHash": 3113772791,
+    "DJLCKJCAKDA": [
+      3534.38,
+      470.28,
+      3597.04
+    ],
+    "ENBFGLMINHF": 2119,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133402002
+    ],
+    "icon": "UI_MonsterIcon_MachinaIustitia_Nutcracker",
+    "id": 58,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 1798408430,
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "PKJKANNPKML": 20
+    },
+    "mapMarkCreateType": "ExtraConditions",
+    "monsterCategory": "Boss",
     "monsterIdList": [
       24070101,
       24070102,
       24070201,
       24070202
     ],
-    "groupIdList": [
-      133402002
-    ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 574238153,
-    "rewardPreviewId": 15190,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
-    "mapMarkCreateCondition": {
-      "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
-    },
-    "monsterCategory": "Boss",
     "nameTextMapHash": 1516751516,
-    "icon": "UI_MonsterIcon_MachinaIustitia_Nutcracker",
-    "descTextMapHash": 3113772791,
-    "lockDescTextMapHash": 1798408430,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15190,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 574238153
   },
   {
-    "id": 59,
+    "ABNBKBDLIGN": 71010005,
+    "CGAJKDOHDKN": 929,
     "cityId": 1,
-    "monsterIdList": [
-      26170101
+    "descTextMapHash": 1939762895,
+    "DJLCKJCAKDA": [
+      2273.52,
+      415.72,
+      4458.39
     ],
+    "ENBFGLMINHF": 2138,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133403186
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1468197425,
-    "rewardPreviewId": 15193,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_HermitCrab_Primo",
+    "id": 59,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 2307519862,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      26170101
+    ],
     "nameTextMapHash": 3738069748,
-    "icon": "UI_MonsterIcon_HermitCrab_Primo",
-    "descTextMapHash": 1939762895,
-    "lockDescTextMapHash": 2307519862,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15193,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1468197425
   },
   {
-    "id": 60,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      23060101,
-      23060201
-    ],
+    "descTextMapHash": 602718767,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133408408,
       133408467,
@@ -1937,130 +2586,186 @@
       133408346,
       133409264
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 3658910929,
-    "rewardPreviewId": 15525,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 3121910732,
     "icon": "UI_MonsterIcon_Fatuus_Escadron_Ice",
-    "descTextMapHash": 602718767,
+    "id": 60,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 2792754174,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      23060101,
+      23060201
+    ],
+    "nameTextMapHash": 3121910732,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15525,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 3658910929
   },
   {
-    "id": 61,
+    "ABNBKBDLIGN": 89010007,
+    "CGAJKDOHDKN": 817,
     "cityId": 1,
+    "descTextMapHash": 2951314087,
+    "DJLCKJCAKDA": [
+      4429.31,
+      491.1,
+      4157.83
+    ],
+    "ENBFGLMINHF": 2143,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133408250
+    ],
+    "icon": "UI_MonsterIcon_MachinaIustitia_Gravitas",
+    "id": 61,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 1132747958,
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "PKJKANNPKML": 20
+    },
+    "mapMarkCreateType": "ExtraConditions",
+    "monsterCategory": "Boss",
     "monsterIdList": [
       24080101,
       24080102
     ],
-    "groupIdList": [
-      133408250
-    ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1145359721,
-    "rewardPreviewId": 15194,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
-    "mapMarkCreateCondition": {
-      "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
-    },
-    "monsterCategory": "Boss",
     "nameTextMapHash": 681219956,
-    "icon": "UI_MonsterIcon_MachinaIustitia_Gravitas",
-    "descTextMapHash": 2951314087,
-    "lockDescTextMapHash": 1132747958,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15194,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1145359721
   },
   {
-    "id": 62,
+    "ABNBKBDLIGN": 72010006,
+    "CGAJKDOHDKN": 829,
     "cityId": 1,
-    "monsterIdList": [
-      26180101
+    "descTextMapHash": 1266176695,
+    "DJLCKJCAKDA": [
+      4806.31,
+      316.36,
+      4994.22
     ],
+    "ENBFGLMINHF": 2142,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133408174
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 4072972401,
-    "rewardPreviewId": 15195,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_SeaHorse_Primo_Electric",
+    "id": 62,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 2469566462,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      26180101
+    ],
     "nameTextMapHash": 660424828,
-    "icon": "UI_MonsterIcon_SeaHorse_Primo_Electric",
-    "descTextMapHash": 1266176695,
-    "lockDescTextMapHash": 2469566462,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15195,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 4072972401
   },
   {
-    "id": 63,
+    "ABNBKBDLIGN": 74010006,
+    "CGAJKDOHDKN": 1104,
     "cityId": 1,
-    "monsterIdList": [
-      20051201
+    "descTextMapHash": 1145396015,
+    "DJLCKJCAKDA": [
+      3472.64,
+      401.12,
+      5053.42
     ],
+    "ENBFGLMINHF": 2144,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133406002
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 32744217,
-    "rewardPreviewId": 15196,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Narcissusborn_Normal_01",
+    "id": 63,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 3583463126,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      20051201
+    ],
     "nameTextMapHash": 3454949140,
-    "icon": "UI_MonsterIcon_Narcissusborn_Normal_01",
-    "descTextMapHash": 1145396015,
-    "lockDescTextMapHash": 3583463126,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15196,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 32744217
   },
   {
-    "id": 64,
+    "ABNBKBDLIGN": 76010003,
+    "CGAJKDOHDKN": 957,
     "cityId": 1,
-    "monsterIdList": [
-      26190101
+    "descTextMapHash": 3757115927,
+    "DJLCKJCAKDA": [
+      1254.403,
+      297.5821,
+      2207.483
     ],
+    "ENBFGLMINHF": 2146,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133116118
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1747795361,
-    "rewardPreviewId": 15197,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Hermit",
+    "id": 64,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 4282069206,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      26190101
+    ],
     "nameTextMapHash": 2046311356,
-    "icon": "UI_MonsterIcon_Hermit",
-    "descTextMapHash": 3757115927,
-    "lockDescTextMapHash": 4282069206,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15197,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1747795361
   },
   {
-    "id": 65,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      26190201
-    ],
+    "descTextMapHash": 403926895,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133101465,
       133101484,
@@ -2069,58 +2774,79 @@
       133101349,
       133101302
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 3313814825,
-    "rewardPreviewId": 15527,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 966226812,
     "icon": "UI_MonsterIcon_Striped",
-    "descTextMapHash": 403926895,
+    "id": 65,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 497294222,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      26190201
+    ],
+    "nameTextMapHash": 966226812,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15527,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 3313814825
   },
   {
-    "id": 66,
+    "ABNBKBDLIGN": 73010005,
+    "CGAJKDOHDKN": 1130,
     "cityId": 1,
-    "monsterIdList": [
-      26140101
+    "descTextMapHash": 4227304231,
+    "DJLCKJCAKDA": [
+      1245.69,
+      82.84,
+      3920.63
     ],
+    "ENBFGLMINHF": 2148,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133413002
     ],
-    "unlockParentQuestId": 396,
+    "icon": "UI_MonsterIcon_Golem_Centaur",
+    "id": 66,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 1446734382,
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "PKJKANNPKML": 20
+    },
+    "mapMarkCreateType": "ExtraConditions",
+    "monsterCategory": "Boss",
+    "monsterIdList": [
+      26140101
+    ],
+    "nameTextMapHash": 360766924,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15198,
     "unlockChapterIdList": [
       1001,
       1002,
       1003
     ],
+    "unlockParentQuestId": 396,
     "unlockWqParentQuestIdList": [
       74184
     ],
-    "wqAcceptHintTextMapHash": 3735266393,
-    "rewardPreviewId": 15198,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
-    "mapMarkCreateCondition": {
-      "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
-    },
-    "monsterCategory": "Boss",
-    "nameTextMapHash": 360766924,
-    "icon": "UI_MonsterIcon_Golem_Centaur",
-    "descTextMapHash": 4227304231,
-    "lockDescTextMapHash": 1446734382,
-    "occupiedQuestIdList": []
+    "wqAcceptHintTextMapHash": 3735266393
   },
   {
-    "id": 67,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      26140201
-    ],
+    "descTextMapHash": 2021563615,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133413033,
       133413038,
@@ -2129,80 +2855,110 @@
       511020124,
       511010171
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 2075858425,
-    "rewardPreviewId": 15528,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 3930891428,
     "icon": "UI_MonsterIcon_Golem_Legion",
-    "descTextMapHash": 2021563615,
+    "id": 67,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 494395582,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      26140201
+    ],
+    "nameTextMapHash": 3930891428,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15528,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 2075858425
   },
   {
-    "id": 68,
+    "ABNBKBDLIGN": 54010002,
+    "CGAJKDOHDKN": 1220,
     "cityId": 1,
-    "monsterIdList": [
-      26220301
+    "descTextMapHash": 3606913967,
+    "DJLCKJCAKDA": [
+      -1737.271,
+      25.55129,
+      8307.863
     ],
+    "ENBFGLMINHF": 2157,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133501079
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 334240129,
-    "rewardPreviewId": 15200,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Natsaurus_Hookwalker_Primo",
+    "id": 68,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 1106358374,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      26220301
+    ],
     "nameTextMapHash": 490461012,
-    "icon": "UI_MonsterIcon_Natsaurus_Hookwalker_Primo",
-    "descTextMapHash": 3606913967,
-    "lockDescTextMapHash": 1106358374,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15200,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 334240129
   },
   {
-    "id": 69,
+    "ABNBKBDLIGN": 55010004,
+    "CGAJKDOHDKN": 1185,
     "cityId": 1,
-    "monsterIdList": [
-      26230301
+    "descTextMapHash": 237686231,
+    "DJLCKJCAKDA": [
+      -1549.646,
+      148.0875,
+      9052.193
     ],
+    "ENBFGLMINHF": 2156,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133501105
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 2453566777,
-    "rewardPreviewId": 15199,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_Natsaurus_Flamingo_Primo",
+    "id": 69,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 788050110,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      26230301
+    ],
     "nameTextMapHash": 1758913604,
-    "icon": "UI_MonsterIcon_Natsaurus_Flamingo_Primo",
-    "descTextMapHash": 237686231,
-    "lockDescTextMapHash": 788050110,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15199,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 2453566777
   },
   {
-    "id": 70,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      26200101,
-      26200201,
-      26210101,
-      26210201,
-      26220101,
-      26220201
-    ],
+    "descTextMapHash": 3987871159,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133504447,
       133504382,
@@ -2213,22 +2969,61 @@
       133501221,
       133501220
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1529015673,
-    "rewardPreviewId": 16021,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Common",
-    "nameTextMapHash": 1626140788,
     "icon": "UI_MonsterIcon_Natsaurus_Drillhead_Normal",
-    "descTextMapHash": 3987871159,
+    "id": 70,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 66398758,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Common",
+    "monsterIdList": [
+      26200101,
+      26200201,
+      26210101,
+      26210201,
+      26220101,
+      26220201
+    ],
+    "nameTextMapHash": 1626140788,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 16021,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1529015673
   },
   {
-    "id": 71,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
+    "descTextMapHash": 3242835895,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133502499,
+      133502256,
+      133502189,
+      133502042,
+      133501127,
+      133501216,
+      133502405,
+      133502418
+    ],
+    "icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Drillhead",
+    "id": 71,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 2260929126,
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Common",
     "monsterIdList": [
       25500101,
       25500102,
@@ -2258,37 +3053,23 @@
       25510501,
       25510601
     ],
-    "groupIdList": [
-      133502499,
-      133502256,
-      133502189,
-      133502042,
-      133501127,
-      133501216,
-      133502405,
-      133502418
-    ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1996420329,
-    "rewardPreviewId": 16023,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Common",
     "nameTextMapHash": 53503204,
-    "icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Drillhead",
-    "descTextMapHash": 3242835895,
-    "lockDescTextMapHash": 2260929126,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 16023,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1996420329
   },
   {
-    "id": 72,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      26260101,
-      26260201,
-      26260301
-    ],
+    "descTextMapHash": 2727940935,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133503096,
       133502338,
@@ -2298,26 +3079,38 @@
       133501190,
       133501189
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1267403529,
-    "rewardPreviewId": 15529,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 287496180,
     "icon": "UI_MonsterIcon_Wayob_Drillhead",
-    "descTextMapHash": 2727940935,
+    "id": 72,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 3627236638,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      26260101,
+      26260201,
+      26260301
+    ],
+    "nameTextMapHash": 287496180,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15529,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1267403529
   },
   {
-    "id": 73,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      26270101,
-      26270201
-    ],
+    "descTextMapHash": 598098999,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133501055,
       133504421,
@@ -2328,25 +3121,37 @@
       133501656,
       133501655
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 722332369,
-    "rewardPreviewId": 15530,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 464708460,
     "icon": "UI_MonsterIcon_Lava_Liquid",
-    "descTextMapHash": 598098999,
+    "id": 73,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 2774753166,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      26270101,
+      26270201
+    ],
+    "nameTextMapHash": 464708460,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15530,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 722332369
   },
   {
-    "id": 74,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
-    "monsterIdList": [
-      24090101
-    ],
+    "descTextMapHash": 1885322415,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133502559,
       133502026,
@@ -2359,22 +3164,55 @@
       133501365,
       133501337
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 1469895265,
-    "rewardPreviewId": 15531,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
-    "nameTextMapHash": 4030929740,
     "icon": "UI_MonsterIcon_ToothTrap",
-    "descTextMapHash": 1885322415,
+    "id": 74,
+    "LICCDHJHECD": 0,
     "lockDescTextMapHash": 1454271358,
-    "occupiedQuestIdList": []
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      24090101
+    ],
+    "nameTextMapHash": 4030929740,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15531,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1469895265
   },
   {
-    "id": 75,
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
     "cityId": 1,
+    "descTextMapHash": 1049710991,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133508471,
+      133508474,
+      133508105,
+      133508487,
+      133508493,
+      133508496,
+      133508499
+    ],
+    "icon": "UI_MonsterIcon_TheAbyss_Rhizome",
+    "id": 75,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 2863120310,
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
     "monsterIdList": [
       22121001,
       22121101,
@@ -2390,105 +3228,553 @@
       22121401,
       22121501
     ],
-    "groupIdList": [
-      133508471,
-      133508474,
-      133508105,
-      133508487,
-      133508493,
-      133508496,
-      133508499
-    ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 2412649057,
-    "rewardPreviewId": 15532,
-    "mapMarkCreateType": "NerverCreate",
-    "mapMarkCreateCondition": {},
-    "monsterCategory": "Elite",
     "nameTextMapHash": 568433052,
-    "icon": "UI_MonsterIcon_TheAbyss_Rhizome",
-    "descTextMapHash": 1049710991,
-    "lockDescTextMapHash": 2863120310,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15532,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 2412649057
   },
   {
-    "id": 76,
+    "ABNBKBDLIGN": 56010005,
+    "CGAJKDOHDKN": 1408,
     "cityId": 1,
-    "monsterIdList": [
-      24090201
+    "descTextMapHash": 2692629319,
+    "DJLCKJCAKDA": [
+      -2596.517,
+      192.293,
+      8314.138
     ],
+    "ENBFGLMINHF": 2158,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133502658
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 2506587585,
-    "rewardPreviewId": 15201,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_DragonClaw",
+    "id": 76,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 2120036502,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      24090201
+    ],
     "nameTextMapHash": 571943812,
-    "icon": "UI_MonsterIcon_DragonClaw",
-    "descTextMapHash": 2692629319,
-    "lockDescTextMapHash": 2120036502,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15201,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 2506587585
   },
   {
-    "id": 77,
+    "ABNBKBDLIGN": 57010008,
+    "CGAJKDOHDKN": 1299,
     "cityId": 1,
+    "descTextMapHash": 2932142015,
+    "DJLCKJCAKDA": [
+      -1520.386,
+      36.5,
+      9434.92
+    ],
+    "ENBFGLMINHF": 2162,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133509125
+    ],
+    "icon": "UI_MonsterIcon_TheAbyss_Dendrite",
+    "id": 77,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 3744086558,
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "PKJKANNPKML": 20
+    },
+    "mapMarkCreateType": "ExtraConditions",
+    "monsterCategory": "Boss",
     "monsterIdList": [
       22120101,
       22121601,
       22121701
     ],
-    "groupIdList": [
-      133509125
-    ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 2522466649,
-    "rewardPreviewId": 15202,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
-    "mapMarkCreateCondition": {
-      "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
-    },
-    "monsterCategory": "Boss",
     "nameTextMapHash": 4028370508,
-    "icon": "UI_MonsterIcon_TheAbyss_Dendrite",
-    "descTextMapHash": 2932142015,
-    "lockDescTextMapHash": 3744086558,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15202,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 2522466649
   },
   {
-    "id": 78,
+    "ABNBKBDLIGN": 58010007,
+    "CGAJKDOHDKN": 1480,
     "cityId": 1,
-    "monsterIdList": [
-      25520101
+    "descTextMapHash": 3029879983,
+    "DJLCKJCAKDA": [
+      -1780.109,
+      107.7049,
+      9678.745
     ],
+    "ENBFGLMINHF": 2163,
+    "GKPJBDICLBF": 0,
     "groupIdList": [
       133509493
     ],
-    "unlockChapterIdList": [],
-    "unlockWqParentQuestIdList": [],
-    "wqAcceptHintTextMapHash": 2056974625,
-    "rewardPreviewId": 15203,
-    "LEAGKIKECDO": 40,
-    "mapMarkCreateType": "ExtraConditions",
+    "icon": "UI_MonsterIcon_TribalWarrior_Udugan",
+    "id": 78,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 1394623534,
     "mapMarkCreateCondition": {
       "conditionType": "PlayerLevelGE",
-      "conditionParam": 20
+      "PKJKANNPKML": 20
     },
+    "mapMarkCreateType": "ExtraConditions",
     "monsterCategory": "Boss",
+    "monsterIdList": [
+      25520101
+    ],
     "nameTextMapHash": 3731051668,
-    "icon": "UI_MonsterIcon_TribalWarrior_Udugan",
-    "descTextMapHash": 3029879983,
-    "lockDescTextMapHash": 1394623534,
-    "occupiedQuestIdList": []
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15203,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 2056974625
+  },
+  {
+    "ABNBKBDLIGN": 59010005,
+    "CGAJKDOHDKN": 1405,
+    "cityId": 1,
+    "descTextMapHash": 224867527,
+    "DJLCKJCAKDA": [
+      -2218.6,
+      192.7829,
+      9724.143
+    ],
+    "ENBFGLMINHF": 2165,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133515097
+    ],
+    "icon": "UI_MonsterIcon_LavaTitan",
+    "id": 79,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 3355760494,
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "PKJKANNPKML": 20
+    },
+    "mapMarkCreateType": "ExtraConditions",
+    "monsterCategory": "Boss",
+    "monsterIdList": [
+      26270301
+    ],
+    "nameTextMapHash": 1341092668,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15204,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 2101572001
+  },
+  {
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
+    "cityId": 1,
+    "descTextMapHash": 203488007,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 0,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133517068,
+      610101076,
+      610102173,
+      610102178,
+      133518035,
+      133516059
+    ],
+    "icon": "UI_MonsterIcon_VolcanoWeasel",
+    "id": 80,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 630288846,
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      26290101
+    ],
+    "nameTextMapHash": 3260215692,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15535,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1762849817
+  },
+  {
+    "ABNBKBDLIGN": 91010010,
+    "CGAJKDOHDKN": 1518,
+    "cityId": 1,
+    "descTextMapHash": 2651352807,
+    "DJLCKJCAKDA": [
+      -3321.409,
+      200,
+      11063.13
+    ],
+    "ENBFGLMINHF": 2167,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133525001
+    ],
+    "icon": "UI_MonsterIcon_DragonCollar",
+    "id": 81,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 4280502262,
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "PKJKANNPKML": 20
+    },
+    "mapMarkCreateType": "ExtraConditions",
+    "monsterCategory": "Boss",
+    "monsterIdList": [
+      24090501
+    ],
+    "nameTextMapHash": 1787486836,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15205,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 3753431745
+  },
+  {
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
+    "cityId": 1,
+    "descTextMapHash": 1361103471,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 2168,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133607025,
+      133607024,
+      133604016,
+      133607015,
+      133607045,
+      133601295,
+      133601309,
+      133604022
+    ],
+    "icon": "UI_MonsterIcon_Moonbeast_Electric",
+    "id": 82,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 2975846046,
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      20080101,
+      20080201,
+      20080301,
+      20080401
+    ],
+    "nameTextMapHash": 1606203652,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15536,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 3103339129
+  },
+  {
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
+    "cityId": 1,
+    "descTextMapHash": 3852960751,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 2169,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133601165,
+      133601159,
+      133601157,
+      133601172,
+      133601327
+    ],
+    "icon": "UI_MonsterIcon_WildHunt",
+    "id": 83,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 2521994102,
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      22130001,
+      22130002,
+      22130101,
+      22130102,
+      22130103,
+      22130104,
+      22130201,
+      22130202,
+      22131001
+    ],
+    "nameTextMapHash": 3215781908,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15538,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 2285607649
+  },
+  {
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
+    "cityId": 1,
+    "descTextMapHash": 1751775663,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 2170,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133604087,
+      133601024,
+      133601052,
+      133601224,
+      133601223,
+      133601285,
+      133601214,
+      133601280,
+      133606203,
+      133601043
+    ],
+    "icon": "UI_MonsterIcon_NodKrai_Oprichnik_Male",
+    "id": 84,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 2949337326,
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Common",
+    "monsterIdList": [
+      23070101,
+      23070102,
+      23071101,
+      23071102,
+      23072101,
+      23073101,
+      23073102,
+      23074101,
+      23074102,
+      23075101,
+      23076101,
+      23076102,
+      23077101,
+      23077102,
+      23078101,
+      23078102,
+      23079101,
+      23079102,
+      23079201,
+      23079202,
+      23079301,
+      23079302
+    ],
+    "nameTextMapHash": 1415882540,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 16027,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 3350331673
+  },
+  {
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
+    "cityId": 1,
+    "descTextMapHash": 2439895039,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 2171,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133601065,
+      133601032,
+      133602008,
+      133602007,
+      133602003,
+      133601290,
+      133601109,
+      133602025
+    ],
+    "icon": "UI_MonsterIcon_Fatuimecha_CoreA_MoveB_AttackA_Fire",
+    "id": 85,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 292618326,
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Common",
+    "monsterIdList": [
+      23080102,
+      23080201,
+      23080301,
+      23080302,
+      23080401,
+      23080402,
+      23080501,
+      23085101,
+      23085102,
+      23085201,
+      23085202,
+      23085301,
+      23085302
+    ],
+    "nameTextMapHash": 3372284068,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 16025,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1368020353
+  },
+  {
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 0,
+    "cityId": 1,
+    "descTextMapHash": 3546701079,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 2172,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133607022,
+      133607035,
+      133604020,
+      133607144,
+      133605075,
+      133605015,
+      133601051,
+      133606033
+    ],
+    "icon": "UI_MonsterIcon_Magbeast_Argali",
+    "id": 86,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 219605542,
+    "mapMarkCreateCondition": {
+      "conditionType": "Invalid",
+      "PKJKANNPKML": 0
+    },
+    "mapMarkCreateType": "NerverCreate",
+    "monsterCategory": "Elite",
+    "monsterIdList": [
+      26300101,
+      26300201,
+      26300301
+    ],
+    "nameTextMapHash": 3115747644,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 0,
+    "rewardPreviewId": 15537,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 2825539521
+  },
+  {
+    "ABNBKBDLIGN": 0,
+    "CGAJKDOHDKN": 1719,
+    "cityId": 1,
+    "descTextMapHash": 3466512631,
+    "DJLCKJCAKDA": [],
+    "ENBFGLMINHF": 2173,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133607102
+    ],
+    "icon": "UI_MonsterIcon_Gastrobot_01",
+    "id": 87,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 4196030662,
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "PKJKANNPKML": 20
+    },
+    "mapMarkCreateType": "ExtraConditions",
+    "monsterCategory": "Boss",
+    "monsterIdList": [
+      24100101
+    ],
+    "nameTextMapHash": 3221739108,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15206,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 3292543297
+  },
+  {
+    "ABNBKBDLIGN": 98010013,
+    "CGAJKDOHDKN": 1580,
+    "cityId": 1,
+    "descTextMapHash": 3497759087,
+    "DJLCKJCAKDA": [
+      2398.779,
+      199.897,
+      9307.841
+    ],
+    "ENBFGLMINHF": 2174,
+    "GKPJBDICLBF": 0,
+    "groupIdList": [
+      133604066
+    ],
+    "icon": "UI_MonsterIcon_Magbeast_Pergesa",
+    "id": 88,
+    "LICCDHJHECD": 0,
+    "lockDescTextMapHash": 3080896302,
+    "mapMarkCreateCondition": {
+      "conditionType": "PlayerLevelGE",
+      "PKJKANNPKML": 20
+    },
+    "mapMarkCreateType": "ExtraConditions",
+    "monsterCategory": "Boss",
+    "monsterIdList": [
+      26301101
+    ],
+    "nameTextMapHash": 2276652732,
+    "occupiedQuestIdList": [],
+    "PODEFGMCJAD": 40,
+    "rewardPreviewId": 15207,
+    "unlockChapterIdList": [],
+    "unlockParentQuestId": 0,
+    "unlockWqParentQuestIdList": [],
+    "wqAcceptHintTextMapHash": 1712641665
   }
 ]

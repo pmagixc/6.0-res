@@ -1,0 +1,124 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Escoffier_ExtraAttack",
+      "abilityName": "Avatar_Escoffier_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_Constellation_1",
+      "abilityName": "Avatar_Escoffier_Constellation_1",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_Constellation_2",
+      "abilityName": "Avatar_Escoffier_Constellation_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_ElementalArt_Handler",
+      "abilityName": "Avatar_Escoffier_ElementalArt_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_ElementalBurst_Handler",
+      "abilityName": "Avatar_Escoffier_ElementalBurst_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_ElementalArt_Click",
+      "abilityName": "Avatar_Escoffier_ElementalArt_Click",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_DamageHandler",
+      "abilityName": "Avatar_Escoffier_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_Talent1",
+      "abilityName": "Avatar_Escoffier_Talent1",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_Talent4",
+      "abilityName": "Avatar_Escoffier_Talent4",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_Talent6",
+      "abilityName": "Avatar_Escoffier_Talent6",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_ElementalArt_Hold",
+      "abilityName": "Avatar_Escoffier_ElementalArt_Hold",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_Constellation_4",
+      "abilityName": "Avatar_Escoffier_Constellation_4",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_Constellation_6",
+      "abilityName": "Avatar_Escoffier_Constellation_6",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_PermanentSkill_1",
+      "abilityName": "Avatar_Escoffier_PermanentSkill_1",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_PermanentSkill_2",
+      "abilityName": "Avatar_Escoffier_PermanentSkill_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_PermanentSkill_3",
+      "abilityName": "Avatar_Escoffier_PermanentSkill_3",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_Combat_FallingAnthem",
+      "abilityName": "Avatar_Escoffier_Combat_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_ElementalArt",
+      "abilityName": "Avatar_Escoffier_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_HideWeapon",
+      "abilityName": "Avatar_Escoffier_HideWeapon",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_EmotionControl",
+      "abilityName": "Avatar_Escoffier_EmotionControl",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_ElementalBurst",
+      "abilityName": "Avatar_Escoffier_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_NormalAttack_DamageHandler",
+      "abilityName": "Avatar_Escoffier_NormalAttack_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_FallingAnthem",
+      "abilityName": "Avatar_Escoffier_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Escoffier_IceIsandrum",
+      "abilityName": "Avatar_Escoffier_IceIsandrum",
+      "abilityOverride": ""
+    }
+  ]
+}

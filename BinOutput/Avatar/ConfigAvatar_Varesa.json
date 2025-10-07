@@ -1,0 +1,104 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Varesa_Berserker",
+      "abilityName": "Avatar_Varesa_Berserker",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_ExtraAttack",
+      "abilityName": "Avatar_Varesa_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_Combat_NormalAttack",
+      "abilityName": "Avatar_Varesa_Combat_NormalAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_Combat_ExtraAttack",
+      "abilityName": "Avatar_Varesa_Combat_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_Constellation_1",
+      "abilityName": "Avatar_Varesa_Constellation_1",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_Constellation_2",
+      "abilityName": "Avatar_Varesa_Constellation_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_Constellation_4",
+      "abilityName": "Avatar_Varesa_Constellation_4",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_Constellation_6",
+      "abilityName": "Avatar_Varesa_Constellation_6",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_PermanentSkill_1",
+      "abilityName": "Avatar_Varesa_PermanentSkill_1",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_PermanentSkill_2",
+      "abilityName": "Avatar_Varesa_PermanentSkill_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_PermanentSkill_3",
+      "abilityName": "Avatar_Varesa_PermanentSkill_3",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_Combat_FallingAnthem",
+      "abilityName": "Avatar_Varesa_Combat_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_ElementalArt",
+      "abilityName": "Avatar_Varesa_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_ElementalBurst",
+      "abilityName": "Avatar_Varesa_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_Effect",
+      "abilityName": "Avatar_Varesa_Effect",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_FallingAnthem",
+      "abilityName": "Avatar_Varesa_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_OtherLogic",
+      "abilityName": "Avatar_Varesa_OtherLogic",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_SpecialSprintDash",
+      "abilityName": "Avatar_Varesa_SpecialSprintDash",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_SpecialSprintDash_Cost",
+      "abilityName": "Avatar_Varesa_SpecialSprintDash_Cost",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Varesa_NyxSwitch",
+      "abilityName": "Avatar_Varesa_NyxSwitch",
+      "abilityOverride": ""
+    }
+  ]
+}

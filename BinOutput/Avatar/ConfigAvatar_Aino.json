@@ -1,0 +1,89 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Aino_ExtraAttack",
+      "abilityName": "Avatar_Aino_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Aino_Constellation_1",
+      "abilityName": "Avatar_Aino_Constellation_1",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Aino_Constellation_2",
+      "abilityName": "Avatar_Aino_Constellation_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Aino_Constellation_4",
+      "abilityName": "Avatar_Aino_Constellation_4",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Aino_Constellation_6",
+      "abilityName": "Avatar_Aino_Constellation_6",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Aino_PermanentSkill_1",
+      "abilityName": "Avatar_Aino_PermanentSkill_1",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Aino_PermanentSkill_2",
+      "abilityName": "Avatar_Aino_PermanentSkill_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Aino_PermanentSkill_3",
+      "abilityName": "Avatar_Aino_PermanentSkill_3",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Aino_ElementalArt",
+      "abilityName": "Avatar_Aino_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Aino_ElementalArt_Handler",
+      "abilityName": "Avatar_Aino_ElementalArt_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Aino_ElementalBurst",
+      "abilityName": "Avatar_Aino_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Aino_DamageHandler",
+      "abilityName": "Avatar_Aino_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Aino_NormalAttack_DamageHandler",
+      "abilityName": "Avatar_Aino_NormalAttack_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Aino_FallingAnthem",
+      "abilityName": "Avatar_Aino_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Aino_Combat_FallingAnthem",
+      "abilityName": "Avatar_Aino_Combat_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Aino_Effect",
+      "abilityName": "Avatar_Aino_Effect",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Aino_OtherLogic",
+      "abilityName": "Avatar_Aino_OtherLogic",
+      "abilityOverride": ""
+    }
+  ]
+}

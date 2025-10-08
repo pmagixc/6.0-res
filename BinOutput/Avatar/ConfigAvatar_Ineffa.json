@@ -1,0 +1,89 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Ineffa_ExtraAttack",
+      "abilityName": "Avatar_Ineffa_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ineffa_Constellation_1",
+      "abilityName": "Avatar_Ineffa_Constellation_1",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ineffa_Constellation_2",
+      "abilityName": "Avatar_Ineffa_Constellation_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ineffa_Constellation_4",
+      "abilityName": "Avatar_Ineffa_Constellation_4",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ineffa_Constellation_6",
+      "abilityName": "Avatar_Ineffa_Constellation_6",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ineffa_PermanentSkill_1",
+      "abilityName": "Avatar_Ineffa_PermanentSkill_1",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ineffa_PermanentSkill_2",
+      "abilityName": "Avatar_Ineffa_PermanentSkill_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ineffa_PermanentSkill_3",
+      "abilityName": "Avatar_Ineffa_PermanentSkill_3",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ineffa_ElementalArt",
+      "abilityName": "Avatar_Ineffa_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ineffa_ElementalArt_Handler",
+      "abilityName": "Avatar_Ineffa_ElementalArt_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ineffa_ElementalBurst",
+      "abilityName": "Avatar_Ineffa_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ineffa_DamageHandler",
+      "abilityName": "Avatar_Ineffa_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ineffa_NormalAttack_DamageHandler",
+      "abilityName": "Avatar_Ineffa_NormalAttack_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ineffa_FallingAnthem",
+      "abilityName": "Avatar_Ineffa_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ineffa_Combat_FallingAnthem",
+      "abilityName": "Avatar_Ineffa_Combat_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ineffa_Effect",
+      "abilityName": "Avatar_Ineffa_Effect",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Ineffa_OtherLogic",
+      "abilityName": "Avatar_Ineffa_OtherLogic",
+      "abilityOverride": ""
+    }
+  ]
+}

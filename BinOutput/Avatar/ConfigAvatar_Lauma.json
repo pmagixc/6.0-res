@@ -1,0 +1,84 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Lauma_ExtraAttack",
+      "abilityName": "Avatar_Lauma_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_Constellation_1",
+      "abilityName": "Avatar_Lauma_Constellation_1",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_Constellation_2",
+      "abilityName": "Avatar_Lauma_Constellation_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_Constellation_4",
+      "abilityName": "Avatar_Lauma_Constellation_4",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_Constellation_6",
+      "abilityName": "Avatar_Lauma_Constellation_6",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_PermanentSkill_1",
+      "abilityName": "Avatar_Lauma_PermanentSkill_1",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_PermanentSkill_2",
+      "abilityName": "Avatar_Lauma_PermanentSkill_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_PermanentSkill_3",
+      "abilityName": "Avatar_Lauma_PermanentSkill_3",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_ElementalArt",
+      "abilityName": "Avatar_Lauma_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_ElementalArt_Handler",
+      "abilityName": "Avatar_Lauma_ElementalArt_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_ElementalBurst",
+      "abilityName": "Avatar_Lauma_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_NormalAttack_DamageHandler",
+      "abilityName": "Avatar_Lauma_NormalAttack_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_FallingAnthem",
+      "abilityName": "Avatar_Lauma_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_Combat_FallingAnthem",
+      "abilityName": "Avatar_Lauma_Combat_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_Effect",
+      "abilityName": "Avatar_Lauma_Effect",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_OtherLogic",
+      "abilityName": "Avatar_Lauma_OtherLogic",
+      "abilityOverride": ""
+    }
+  ]
+}

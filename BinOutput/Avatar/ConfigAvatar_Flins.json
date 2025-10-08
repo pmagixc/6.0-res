@@ -1,0 +1,89 @@
+{
+  "abilities": [
+    {
+      "abilityID": "Avatar_Flins_ExtraAttack",
+      "abilityName": "Avatar_Flins_ExtraAttack",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Flins_Constellation_1",
+      "abilityName": "Avatar_Flins_Constellation_1",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Flins_Constellation_2",
+      "abilityName": "Avatar_Flins_Constellation_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Flins_Constellation_4",
+      "abilityName": "Avatar_Flins_Constellation_4",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Flins_Constellation_6",
+      "abilityName": "Avatar_Flins_Constellation_6",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Flins_PermanentSkill_1",
+      "abilityName": "Avatar_Flins_PermanentSkill_1",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Flins_PermanentSkill_2",
+      "abilityName": "Avatar_Flins_PermanentSkill_2",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Flins_PermanentSkill_3",
+      "abilityName": "Avatar_Flins_PermanentSkill_3",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Flins_ElementalArt",
+      "abilityName": "Avatar_Flins_ElementalArt",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Flins_ElementalArt_Handler",
+      "abilityName": "Avatar_Flins_ElementalArt_Handler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Flins_ElementalBurst",
+      "abilityName": "Avatar_Flins_ElementalBurst",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Flins_DamageHandler",
+      "abilityName": "Avatar_Flins_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Flins_NormalAttack_DamageHandler",
+      "abilityName": "Avatar_Flins_NormalAttack_DamageHandler",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Flins_FallingAnthem",
+      "abilityName": "Avatar_Flins_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Flins_Combat_FallingAnthem",
+      "abilityName": "Avatar_Flins_Combat_FallingAnthem",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Flins_Effect",
+      "abilityName": "Avatar_Flins_Effect",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Flins_OtherLogic",
+      "abilityName": "Avatar_Flins_OtherLogic",
+      "abilityOverride": ""
+    }
+  ]
+}

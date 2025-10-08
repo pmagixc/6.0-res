@@ -70073,7 +70073,6 @@
       },
       {
         "param": [
-          "Party",
           "1"
         ],
         "type": "NEW_ACTIVITY_COND_FINISH_ACTIVITY_PLAY_LEVEL"
@@ -70106,7 +70105,6 @@
       },
       {
         "param": [
-          "Party",
           "2"
         ],
         "type": "NEW_ACTIVITY_COND_FINISH_ACTIVITY_PLAY_LEVEL"
@@ -70139,7 +70137,6 @@
       },
       {
         "param": [
-          "Party",
           "3"
         ],
         "type": "NEW_ACTIVITY_COND_FINISH_ACTIVITY_PLAY_LEVEL"
@@ -70172,7 +70169,6 @@
       },
       {
         "param": [
-          "Party",
           "4"
         ],
         "type": "NEW_ACTIVITY_COND_FINISH_ACTIVITY_PLAY_LEVEL"
@@ -70299,7 +70295,6 @@
       },
       {
         "param": [
-          "Party",
           "5"
         ],
         "type": "NEW_ACTIVITY_COND_FINISH_ACTIVITY_PLAY_LEVEL"

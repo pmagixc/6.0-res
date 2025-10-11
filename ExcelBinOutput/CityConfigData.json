@@ -1,6 +1,6 @@
 [
   {
-    "cityId": 1,
+    "adventurePointId": 98,
     "areaIdVec": [
       1,
       2,
@@ -8,20 +8,20 @@
       4,
       10
     ],
+    "cityGoddnessDescTextMapHash": 3971726292,
+    "cityGoddnessNameTextMapHash": 272563128,
+    "cityId": 1,
     "cityNameTextMapHash": 3559383697,
-    "mapPosX": 700,
-    "mapPosY": 2300,
-    "zoomForExploration": 0.005,
-    "adventurePointId": 98,
-    "BGJDACJPJBB": 201,
     "expeditionMap": "UI_Img_ExplorePageBg",
     "expeditionWaterMark": "UI_ChapterIcon_Mengde",
+    "JKBOECCOPJC": 201,
+    "mapPosX": 700,
+    "mapPosY": 2300,
     "openState": "OPEN_ADVENTURE_MANUAL_CITY_MENGDE",
-    "cityGoddnessNameTextMapHash": 272563128,
-    "cityGoddnessDescTextMapHash": 3971726292
+    "zoomForExploration": 0.005
   },
   {
-    "cityId": 2,
+    "adventurePointId": 158,
     "areaIdVec": [
       5,
       6,
@@ -34,20 +34,20 @@
       41,
       47
     ],
+    "cityGoddnessDescTextMapHash": 343061060,
+    "cityGoddnessNameTextMapHash": 2121292496,
+    "cityId": 2,
     "cityNameTextMapHash": 3553833321,
-    "mapPosX": -500,
-    "mapPosY": 1100,
-    "zoomForExploration": 0.005,
-    "adventurePointId": 158,
-    "BGJDACJPJBB": 170,
     "expeditionMap": "UI_Img_ExplorePageBg02",
     "expeditionWaterMark": "UI_ChapterIcon_Liyue",
+    "JKBOECCOPJC": 170,
+    "mapPosX": -500,
+    "mapPosY": 1100,
     "openState": "OPEN_ADVENTURE_MANUAL_CITY_LIYUE",
-    "cityGoddnessNameTextMapHash": 2121292496,
-    "cityGoddnessDescTextMapHash": 343061060
+    "zoomForExploration": 0.005
   },
   {
-    "cityId": 3,
+    "adventurePointId": 373,
     "areaIdVec": [
       11,
       12,
@@ -57,57 +57,57 @@
       18,
       200
     ],
+    "cityGoddnessDescTextMapHash": 770110860,
+    "cityGoddnessNameTextMapHash": 3937156496,
+    "cityId": 3,
     "cityNameTextMapHash": 2288905665,
-    "mapPosX": -2200,
-    "mapPosY": -3450,
-    "zoomForExploration": 0.005,
-    "adventurePointId": 373,
-    "BGJDACJPJBB": 342,
     "expeditionMap": "UI_Img_ExplorePageBg03",
     "expeditionWaterMark": "UI_ChapterIcon_Inazuma",
+    "JKBOECCOPJC": 342,
+    "mapPosX": -2200,
+    "mapPosY": -3450,
     "openState": "OPEN_ADVENTURE_MANUAL_CITY_LIYUE",
-    "cityGoddnessNameTextMapHash": 3937156496,
-    "cityGoddnessDescTextMapHash": 770110860
+    "zoomForExploration": 0.005
   },
   {
-    "cityId": 100,
+    "adventurePointId": 98,
     "areaIdVec": [
       100,
       101,
       102,
       103
     ],
+    "cityGoddnessDescTextMapHash": 1624650484,
+    "cityGoddnessNameTextMapHash": 2033907600,
+    "cityId": 100,
     "cityNameTextMapHash": 514439353,
-    "mapPosX": -2200,
-    "mapPosY": -3450,
-    "zoomForExploration": 0.005,
-    "adventurePointId": 98,
-    "BGJDACJPJBB": 201,
     "expeditionMap": "UI_Img_ExplorePageBg02",
     "expeditionWaterMark": "UI_ChapterIcon_Liyue",
+    "JKBOECCOPJC": 201,
+    "mapPosX": -2200,
+    "mapPosY": -3450,
     "openState": "OPEN_ADVENTURE_MANUAL_CITY_LIYUE",
-    "cityGoddnessNameTextMapHash": 2033907600,
-    "cityGoddnessDescTextMapHash": 1624650484
+    "zoomForExploration": 0.005
   },
   {
-    "cityId": 99,
+    "adventurePointId": 98,
     "areaIdVec": [
       16
     ],
+    "cityGoddnessDescTextMapHash": 2451991852,
+    "cityGoddnessNameTextMapHash": 1324582920,
+    "cityId": 99,
     "cityNameTextMapHash": 566824697,
-    "mapPosX": -2200,
-    "mapPosY": -3450,
-    "zoomForExploration": 0.005,
-    "adventurePointId": 98,
-    "BGJDACJPJBB": 201,
     "expeditionMap": "UI_Img_ExplorePageBg02",
     "expeditionWaterMark": "UI_ChapterIcon_Liyue",
+    "JKBOECCOPJC": 201,
+    "mapPosX": -2200,
+    "mapPosY": -3450,
     "openState": "OPEN_ADVENTURE_MANUAL_CITY_LIYUE",
-    "cityGoddnessNameTextMapHash": 1324582920,
-    "cityGoddnessDescTextMapHash": 2451991852
+    "zoomForExploration": 0.005
   },
   {
-    "cityId": 4,
+    "adventurePointId": 525,
     "areaIdVec": [
       20,
       21,
@@ -123,57 +123,57 @@
       30,
       31
     ],
+    "cityGoddnessDescTextMapHash": 3952671364,
+    "cityGoddnessNameTextMapHash": 3695387368,
+    "cityId": 4,
     "cityNameTextMapHash": 3901502489,
-    "mapPosX": -2200,
-    "mapPosY": -3450,
-    "zoomForExploration": 0.005,
-    "adventurePointId": 525,
-    "BGJDACJPJBB": 526,
     "expeditionMap": "UI_Img_ExplorePageBg04",
     "expeditionWaterMark": "UI_ChapterIcon_Sumeru",
+    "JKBOECCOPJC": 526,
+    "mapPosX": -2200,
+    "mapPosY": -3450,
     "openState": "OPEN_ADVENTURE_MANUAL_CITY_LIYUE",
-    "cityGoddnessNameTextMapHash": 3695387368,
-    "cityGoddnessDescTextMapHash": 3952671364
+    "zoomForExploration": 0.005
   },
   {
-    "cityId": 101,
+    "adventurePointId": 98,
     "areaIdVec": [
       210
     ],
+    "cityGoddnessDescTextMapHash": 2741328052,
+    "cityGoddnessNameTextMapHash": 800454072,
+    "cityId": 101,
     "cityNameTextMapHash": 2032300089,
-    "mapPosX": -2200,
-    "mapPosY": -3450,
-    "zoomForExploration": 0.005,
-    "adventurePointId": 98,
-    "BGJDACJPJBB": 201,
     "expeditionMap": "UI_Img_ExplorePageBg02",
     "expeditionWaterMark": "UI_ChapterIcon_Liyue",
+    "JKBOECCOPJC": 201,
+    "mapPosX": -2200,
+    "mapPosY": -3450,
     "openState": "OPEN_ADVENTURE_MANUAL_CITY_LIYUE",
-    "cityGoddnessNameTextMapHash": 800454072,
-    "cityGoddnessDescTextMapHash": 2741328052
+    "zoomForExploration": 0.005
   },
   {
-    "cityId": 102,
+    "adventurePointId": 98,
     "areaIdVec": [
       400,
       401,
       402,
       403
     ],
+    "cityGoddnessDescTextMapHash": 334734436,
+    "cityGoddnessNameTextMapHash": 3852573912,
+    "cityId": 102,
     "cityNameTextMapHash": 209420713,
-    "mapPosX": -2200,
-    "mapPosY": -3450,
-    "zoomForExploration": 0.005,
-    "adventurePointId": 98,
-    "BGJDACJPJBB": 201,
     "expeditionMap": "UI_Img_ExplorePageBg02",
     "expeditionWaterMark": "UI_ChapterIcon_Liyue",
+    "JKBOECCOPJC": 201,
+    "mapPosX": -2200,
+    "mapPosY": -3450,
     "openState": "OPEN_ADVENTURE_MANUAL_CITY_LIYUE",
-    "cityGoddnessNameTextMapHash": 3852573912,
-    "cityGoddnessDescTextMapHash": 334734436
+    "zoomForExploration": 0.005
   },
   {
-    "cityId": 5,
+    "adventurePointId": 1038,
     "areaIdVec": [
       33,
       34,
@@ -185,59 +185,59 @@
       42,
       600
     ],
+    "cityGoddnessDescTextMapHash": 3573780940,
+    "cityGoddnessNameTextMapHash": 3181022104,
+    "cityId": 5,
     "cityNameTextMapHash": 4052480193,
-    "mapPosX": -2200,
-    "mapPosY": -3450,
-    "zoomForExploration": 0.005,
-    "adventurePointId": 1038,
-    "BGJDACJPJBB": 1037,
     "expeditionMap": "UI_Img_ExplorePageBg05",
     "expeditionWaterMark": "UI_ChapterIcon_Fontaine",
+    "JKBOECCOPJC": 1037,
+    "mapPosX": -2200,
+    "mapPosY": -3450,
     "openState": "OPEN_ADVENTURE_MANUAL_CITY_LIYUE",
-    "cityGoddnessNameTextMapHash": 3181022104,
-    "cityGoddnessDescTextMapHash": 3573780940
+    "zoomForExploration": 0.005
   },
   {
-    "cityId": 103,
+    "adventurePointId": 98,
     "areaIdVec": [
       500,
       501,
       502,
       503
     ],
+    "cityGoddnessDescTextMapHash": 3223332788,
+    "cityGoddnessNameTextMapHash": 709581888,
+    "cityId": 103,
     "cityNameTextMapHash": 84855465,
-    "mapPosX": -2200,
-    "mapPosY": -3450,
-    "zoomForExploration": 0.005,
-    "adventurePointId": 98,
-    "BGJDACJPJBB": 201,
     "expeditionMap": "UI_Img_ExplorePageBg02",
     "expeditionWaterMark": "UI_ChapterIcon_Liyue",
+    "JKBOECCOPJC": 201,
+    "mapPosX": -2200,
+    "mapPosY": -3450,
     "openState": "OPEN_ADVENTURE_MANUAL_CITY_LIYUE",
-    "cityGoddnessNameTextMapHash": 709581888,
-    "cityGoddnessDescTextMapHash": 3223332788
+    "zoomForExploration": 0.005
   },
   {
-    "cityId": 104,
+    "adventurePointId": 98,
     "areaIdVec": [
       700,
       701,
       702
     ],
+    "cityGoddnessDescTextMapHash": 8744980,
+    "cityGoddnessNameTextMapHash": 1950426456,
+    "cityId": 104,
     "cityNameTextMapHash": 467583217,
-    "mapPosX": -2200,
-    "mapPosY": -3450,
-    "zoomForExploration": 0.005,
-    "adventurePointId": 98,
-    "BGJDACJPJBB": 201,
     "expeditionMap": "UI_Img_ExplorePageBg02",
     "expeditionWaterMark": "UI_ChapterIcon_Liyue",
+    "JKBOECCOPJC": 201,
+    "mapPosX": -2200,
+    "mapPosY": -3450,
     "openState": "OPEN_ADVENTURE_MANUAL_CITY_LIYUE",
-    "cityGoddnessNameTextMapHash": 1950426456,
-    "cityGoddnessDescTextMapHash": 8744980
+    "zoomForExploration": 0.005
   },
   {
-    "cityId": 6,
+    "adventurePointId": 1381,
     "areaIdVec": [
       43,
       44,
@@ -245,18 +245,41 @@
       46,
       48,
       49,
-      53
+      51,
+      52,
+      53,
+      54,
+      800
     ],
+    "cityGoddnessDescTextMapHash": 2092419484,
+    "cityGoddnessNameTextMapHash": 1703474960,
+    "cityId": 6,
     "cityNameTextMapHash": 1681544697,
-    "mapPosX": -2200,
-    "mapPosY": -3450,
-    "zoomForExploration": 0.005,
-    "adventurePointId": 1381,
-    "BGJDACJPJBB": 1384,
     "expeditionMap": "UI_Img_ExplorePageBg06",
     "expeditionWaterMark": "UI_ChapterIcon_Natlan",
+    "JKBOECCOPJC": 1384,
+    "mapPosX": -2200,
+    "mapPosY": -3450,
     "openState": "OPEN_ADVENTURE_MANUAL_CITY_LIYUE",
-    "cityGoddnessNameTextMapHash": 1703474960,
-    "cityGoddnessDescTextMapHash": 2092419484
+    "zoomForExploration": 0.005
+  },
+  {
+    "adventurePointId": 1684,
+    "areaIdVec": [
+      70,
+      71,
+      72
+    ],
+    "cityGoddnessDescTextMapHash": 3814249492,
+    "cityGoddnessNameTextMapHash": 2646305704,
+    "cityId": 7,
+    "cityNameTextMapHash": 2521588265,
+    "expeditionMap": "UI_Img_ExplorePageBg07",
+    "expeditionWaterMark": "UI_ChapterIcon_NodKrai",
+    "JKBOECCOPJC": 1687,
+    "mapPosX": -2200,
+    "mapPosY": -3450,
+    "openState": "OPEN_ADVENTURE_MANUAL_CITY_LIYUE",
+    "zoomForExploration": 0.005
   }
 ]

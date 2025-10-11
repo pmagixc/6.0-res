@@ -1,2942 +1,5927 @@
 [
   {
-    "id": 1001
+    "defaultValue": 0,
+    "id": 1001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": -3,
     "id": 1002,
-    "defaultValue": -3
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 1003
+    "defaultValue": 0,
+    "id": 1003,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 10001,
-    "DPMPLHAJGON": 309
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 309
   },
   {
+    "defaultValue": 0,
     "id": 10002,
-    "DPMPLHAJGON": 384
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 384
   },
   {
+    "defaultValue": 0,
     "id": 10003,
-    "DPMPLHAJGON": 396
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 396
   },
   {
+    "defaultValue": 0,
     "id": 10004,
-    "DPMPLHAJGON": 1018
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 1018
   },
   {
+    "defaultValue": 0,
     "id": 10005,
-    "DPMPLHAJGON": 1016
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 1016
   },
   {
+    "defaultValue": 0,
     "id": 10006,
-    "DPMPLHAJGON": 1025
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 1025
   },
   {
+    "defaultValue": 0,
     "id": 10007,
-    "DPMPLHAJGON": 1025
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 1025
   },
   {
+    "defaultValue": 0,
     "id": 10008,
-    "DPMPLHAJGON": 11015
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 11015
   },
   {
+    "defaultValue": 0,
     "id": 10009,
-    "DPMPLHAJGON": 1023
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 1023
   },
   {
+    "defaultValue": 0,
     "id": 10010,
-    "DPMPLHAJGON": 8003
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 8003
   },
   {
+    "defaultValue": 0,
     "id": 10011,
-    "DPMPLHAJGON": 2007
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 2007
   },
   {
+    "defaultValue": 0,
     "id": 10012,
-    "DPMPLHAJGON": 2009
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 2009
   },
   {
+    "defaultValue": 0,
     "id": 10013,
-    "DPMPLHAJGON": 2002
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 2002
   },
   {
+    "defaultValue": 0,
     "id": 10014,
-    "DPMPLHAJGON": 2021
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 2021
   },
   {
+    "defaultValue": 0,
     "id": 301409,
-    "DPMPLHAJGON": 3013
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3013
   },
   {
+    "defaultValue": 0,
     "id": 20000,
-    "DPMPLHAJGON": 10500
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 10500
   },
   {
+    "defaultValue": 0,
     "id": 20001,
-    "DPMPLHAJGON": 466
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 466
   },
   {
+    "defaultValue": 0,
     "id": 20002,
-    "DPMPLHAJGON": 11023
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 11023
   },
   {
+    "defaultValue": 0,
     "id": 20009,
-    "DPMPLHAJGON": 10202
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 10202
   },
   {
+    "defaultValue": 0,
     "id": 20013,
-    "DPMPLHAJGON": 10113
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 10113
   },
   {
+    "defaultValue": 0,
     "id": 20014,
-    "DPMPLHAJGON": 11031
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 11031
   },
   {
+    "defaultValue": 0,
     "id": 20015,
-    "DPMPLHAJGON": 11032
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 11032
   },
   {
+    "defaultValue": 0,
     "id": 20016,
-    "DPMPLHAJGON": 19043
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19043
   },
   {
-    "id": 40001
+    "defaultValue": 0,
+    "id": 40001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 40002,
-    "DPMPLHAJGON": 20069
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 20069
   },
   {
+    "defaultValue": 0,
     "id": 40003,
-    "DPMPLHAJGON": 20070
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 20070
   },
   {
+    "defaultValue": 0,
     "id": 40004,
-    "DPMPLHAJGON": 20070
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 20070
   },
   {
+    "defaultValue": 0,
     "id": 40005,
-    "DPMPLHAJGON": 20070
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 20070
   },
   {
+    "defaultValue": 0,
     "id": 50001,
-    "DPMPLHAJGON": 41112
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 41112
   },
   {
+    "defaultValue": 0,
     "id": 50002,
-    "DPMPLHAJGON": 40911
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40911
   },
   {
+    "defaultValue": 0,
     "id": 50003,
-    "DPMPLHAJGON": 41170
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 41170
   },
   {
+    "defaultValue": 0,
     "id": 50004,
-    "DPMPLHAJGON": 71022
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71022
   },
   {
+    "defaultValue": 0,
     "id": 50005,
-    "DPMPLHAJGON": 70653
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 70653
   },
   {
+    "defaultValue": 0,
     "id": 50006,
-    "DPMPLHAJGON": 40013
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40013
   },
   {
+    "defaultValue": 0,
     "id": 50007,
-    "DPMPLHAJGON": 71656
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71656
   },
   {
+    "defaultValue": 0,
     "id": 40023,
-    "DPMPLHAJGON": 40023
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40023
   },
   {
-    "id": 41410
+    "defaultValue": 0,
+    "id": 41410,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 41210,
-    "DPMPLHAJGON": 41213
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 41213
   },
   {
+    "defaultValue": 0,
     "id": 41213,
-    "DPMPLHAJGON": 41213
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 41213
   },
   {
+    "defaultValue": 0,
     "id": 41610,
-    "DPMPLHAJGON": 40010
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40010
   },
   {
+    "defaultValue": 0,
     "id": 11110,
-    "DPMPLHAJGON": 11110
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 11110
   },
   {
+    "defaultValue": 0,
     "id": 72000,
-    "DPMPLHAJGON": 72102
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72102
   },
   {
-    "id": 10120
+    "defaultValue": 0,
+    "id": 10120,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7002404,
-    "DPMPLHAJGON": 70024
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 70024
   },
   {
-    "id": 72100
+    "defaultValue": 0,
+    "id": 72100,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 11123
+    "defaultValue": 0,
+    "id": 11123,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 1,
     "id": 7211401,
-    "defaultValue": 1
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 72123,
-    "DPMPLHAJGON": 72114
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72114
   },
   {
+    "defaultValue": 0,
     "id": 72168,
-    "DPMPLHAJGON": 72168
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72168
   },
   {
+    "defaultValue": 0,
     "id": 72169,
-    "DPMPLHAJGON": 72169
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72169
   },
   {
+    "defaultValue": 0,
     "id": 72170,
-    "DPMPLHAJGON": 72170
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72170
   },
   {
-    "id": 72124
+    "defaultValue": 0,
+    "id": 72124,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 1200601,
-    "DPMPLHAJGON": 12006
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 12006
   },
   {
+    "defaultValue": 0,
     "id": 1200602,
-    "DPMPLHAJGON": 12006
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 12006
   },
   {
+    "defaultValue": 0,
     "id": 12008,
-    "DPMPLHAJGON": 12008
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 12008
   },
   {
+    "defaultValue": 0,
     "id": 72122,
-    "DPMPLHAJGON": 72122
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72122
   },
   {
+    "defaultValue": 0,
     "id": 12013,
-    "DPMPLHAJGON": 12013
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 12013
   },
   {
+    "defaultValue": 0,
     "id": 72802,
-    "DPMPLHAJGON": 72802
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72802
   },
   {
+    "defaultValue": 0,
     "id": 1202101,
-    "DPMPLHAJGON": 12021
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 12021
   },
   {
-    "id": 1202301
+    "defaultValue": 0,
+    "id": 1202301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 1202401,
-    "DPMPLHAJGON": 12024
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 12024
   },
   {
+    "defaultValue": 0,
     "id": 1202601,
-    "DPMPLHAJGON": 12026
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 12026
   },
   {
-    "id": 3002801
+    "defaultValue": 0,
+    "id": 3002801,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 3002802
+    "defaultValue": 0,
+    "id": 3002802,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 3002803
+    "defaultValue": 0,
+    "id": 3002803,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 1202201,
-    "DPMPLHAJGON": 12022
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 12022
   },
   {
-    "id": 1201501
+    "defaultValue": 0,
+    "id": 1201501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 1201801,
-    "DPMPLHAJGON": 12018
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 12018
   },
   {
-    "id": 30026
+    "defaultValue": 0,
+    "id": 30026,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 72149,
-    "DPMPLHAJGON": 72149
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72149
   },
   {
+    "defaultValue": 0,
     "id": 72151,
-    "DPMPLHAJGON": 72151
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72151
   },
   {
+    "defaultValue": 0,
     "id": 72165,
-    "DPMPLHAJGON": 72165
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72165
   },
   {
+    "defaultValue": 0,
     "id": 7219901,
-    "DPMPLHAJGON": 72199
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72199
   },
   {
+    "defaultValue": 0,
     "id": 7219902,
-    "DPMPLHAJGON": 72199
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72199
   },
   {
+    "defaultValue": 0,
     "id": 7219903,
-    "DPMPLHAJGON": 72199
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72199
   },
   {
+    "defaultValue": 0,
     "id": 72164,
-    "DPMPLHAJGON": 72216
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72216
   },
   {
-    "id": 202201
+    "defaultValue": 0,
+    "id": 202201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 201701,
-    "DPMPLHAJGON": 2017
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 2017
   },
   {
-    "id": 202001
+    "defaultValue": 0,
+    "id": 202001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 72651,
-    "DPMPLHAJGON": 72651
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72651
   },
   {
+    "defaultValue": 0,
     "id": 70661,
-    "DPMPLHAJGON": 70661
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 70661
   },
   {
-    "id": 72174
+    "defaultValue": 0,
+    "id": 72174,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 22013,
-    "DPMPLHAJGON": 22013
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 22013
   },
   {
+    "defaultValue": 0,
     "id": 22017,
-    "DPMPLHAJGON": 22017
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 22017
   },
   {
+    "defaultValue": 1,
     "id": 7219801,
-    "defaultValue": 1
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7219802,
-    "DPMPLHAJGON": 72177
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72177
   },
   {
+    "defaultValue": 0,
     "id": 7219803,
-    "DPMPLHAJGON": 72177
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72177
   },
   {
+    "defaultValue": 0,
     "id": 7219804,
-    "DPMPLHAJGON": 72177
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72177
   },
   {
+    "defaultValue": 0,
     "id": 7219805,
-    "DPMPLHAJGON": 72247
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72247
   },
   {
+    "defaultValue": 0,
     "id": 7219806,
-    "DPMPLHAJGON": 72248
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72248
   },
   {
+    "defaultValue": 0,
     "id": 7219807,
-    "DPMPLHAJGON": 72249
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72249
   },
   {
+    "defaultValue": 0,
     "id": 7219808,
-    "DPMPLHAJGON": 72177
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72177
   },
   {
+    "defaultValue": 0,
     "id": 7219809,
-    "DPMPLHAJGON": 72244
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72244
   },
   {
-    "id": 7219810
+    "defaultValue": 0,
+    "id": 7219810,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7219811
+    "defaultValue": 0,
+    "id": 7219811,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7219812
+    "defaultValue": 0,
+    "id": 7219812,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7219813
+    "defaultValue": 0,
+    "id": 7219813,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7219814
+    "defaultValue": 0,
+    "id": 7219814,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7219815,
-    "DPMPLHAJGON": 72239
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72239
   },
   {
-    "id": 7219816
+    "defaultValue": 0,
+    "id": 7219816,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 40015,
-    "DPMPLHAJGON": 40015
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40015
   },
   {
-    "id": 72167
+    "defaultValue": 0,
+    "id": 72167,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 72658,
-    "DPMPLHAJGON": 72658
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72658
   },
   {
-    "id": 72812
+    "defaultValue": 0,
+    "id": 72812,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7267204,
-    "DPMPLHAJGON": 72672
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72672
   },
   {
-    "id": 72173
+    "defaultValue": 0,
+    "id": 72173,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 40026,
-    "DPMPLHAJGON": 40026
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40026
   },
   {
+    "defaultValue": 0,
     "id": 40028,
-    "DPMPLHAJGON": 40028
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40028
   },
   {
+    "defaultValue": 0,
     "id": 40029,
-    "DPMPLHAJGON": 40029
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40029
   },
   {
+    "defaultValue": 0,
     "id": 1905105,
-    "DPMPLHAJGON": 19051
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19051
   },
   {
+    "defaultValue": 0,
     "id": 40035,
-    "DPMPLHAJGON": 40035
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40035
   },
   {
+    "defaultValue": 0,
     "id": 40036,
-    "DPMPLHAJGON": 40036
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40036
   },
   {
+    "defaultValue": 0,
     "id": 40038,
-    "DPMPLHAJGON": 40037
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40037
   },
   {
+    "defaultValue": 0,
     "id": 40039,
-    "DPMPLHAJGON": 40039
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40039
   },
   {
+    "defaultValue": 0,
     "id": 40040,
-    "DPMPLHAJGON": 40040
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40040
   },
   {
+    "defaultValue": 0,
     "id": 71658,
-    "DPMPLHAJGON": 71658
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71658
   },
   {
-    "id": 105301
+    "defaultValue": 0,
+    "id": 105301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 72204,
-    "DPMPLHAJGON": 72204
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72204
   },
   {
+    "defaultValue": 0,
     "id": 72205,
-    "DPMPLHAJGON": 72205
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72205
   },
   {
+    "defaultValue": 0,
     "id": 72206,
-    "DPMPLHAJGON": 72206
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72206
   },
   {
+    "defaultValue": 0,
     "id": 72208,
-    "DPMPLHAJGON": 72208
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72208
   },
   {
+    "defaultValue": 0,
     "id": 72201,
-    "DPMPLHAJGON": 72201
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72201
   },
   {
+    "defaultValue": 0,
     "id": 72202,
-    "DPMPLHAJGON": 72202
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72202
   },
   {
+    "defaultValue": 0,
     "id": 72207,
-    "DPMPLHAJGON": 72207
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72207
   },
   {
+    "defaultValue": 0,
     "id": 72203,
-    "DPMPLHAJGON": 72203
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72203
   },
   {
+    "defaultValue": 0,
     "id": 20003,
-    "DPMPLHAJGON": 20003
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 20003
   },
   {
-    "id": 5055
+    "defaultValue": 0,
+    "id": 5055,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 72264,
-    "DPMPLHAJGON": 72264
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72264
   },
   {
-    "id": 72675
+    "defaultValue": 0,
+    "id": 72675,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 4005116
+    "defaultValue": 0,
+    "id": 4005116,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 1901901,
-    "DPMPLHAJGON": 19019
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19019
   },
   {
+    "defaultValue": 0,
     "id": 1901902,
-    "DPMPLHAJGON": 19019
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19019
   },
   {
+    "defaultValue": 0,
     "id": 1901903,
-    "DPMPLHAJGON": 19019
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19019
   },
   {
+    "defaultValue": 0,
     "id": 1901904,
-    "DPMPLHAJGON": 19019
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19019
   },
   {
+    "defaultValue": 0,
     "id": 1901905,
-    "DPMPLHAJGON": 19019
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19019
   },
   {
+    "defaultValue": 0,
     "id": 71044,
-    "DPMPLHAJGON": 71048
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71048
   },
   {
+    "defaultValue": 0,
     "id": 7104405,
-    "DPMPLHAJGON": 71044
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71044
   },
   {
+    "defaultValue": 0,
     "id": 4004701,
-    "DPMPLHAJGON": 40047
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40047
   },
   {
+    "defaultValue": 0,
     "id": 71037,
-    "DPMPLHAJGON": 71037
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71037
   },
   {
-    "id": 71054
+    "defaultValue": 0,
+    "id": 71054,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 12042,
-    "DPMPLHAJGON": 12042
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 12042
   },
   {
+    "defaultValue": 0,
     "id": 72233,
-    "DPMPLHAJGON": 72233
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72233
   },
   {
+    "defaultValue": 0,
     "id": 2002901,
-    "DPMPLHAJGON": 20029
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 20029
   },
   {
+    "defaultValue": 0,
     "id": 71831,
-    "DPMPLHAJGON": 71831
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71831
   },
   {
+    "defaultValue": 0,
     "id": 11015,
-    "DPMPLHAJGON": 11015
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 11015
   },
   {
+    "defaultValue": 0,
     "id": 72266,
-    "DPMPLHAJGON": 72266
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72266
   },
   {
+    "defaultValue": 0,
     "id": 2100001,
-    "DPMPLHAJGON": 21000
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 21000
   },
   {
+    "defaultValue": 0,
     "id": 2001401,
-    "DPMPLHAJGON": 20033
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 20033
   },
   {
+    "defaultValue": 0,
     "id": 71071,
-    "DPMPLHAJGON": 71071
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71071
   },
   {
-    "id": 1913101
+    "defaultValue": 0,
+    "id": 1913101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 12043
+    "defaultValue": 0,
+    "id": 12043,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 11008
+    "defaultValue": 0,
+    "id": 11008,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 71055
+    "defaultValue": 0,
+    "id": 71055,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 710542169,
-    "DPMPLHAJGON": 71054
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71054
   },
   {
+    "defaultValue": 0,
     "id": 710452617,
-    "DPMPLHAJGON": 71037
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71037
   },
   {
+    "defaultValue": 0,
     "id": 710372616,
-    "DPMPLHAJGON": 71037
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71037
   },
   {
+    "defaultValue": 0,
     "id": 800401,
-    "DPMPLHAJGON": 71042
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71042
   },
   {
+    "defaultValue": 0,
     "id": 800402,
-    "DPMPLHAJGON": 8004
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 8004
   },
   {
+    "defaultValue": 0,
     "id": 12035,
-    "DPMPLHAJGON": 12035
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 12035
   },
   {
+    "defaultValue": 0,
     "id": 2202501,
-    "DPMPLHAJGON": 22025
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 22025
   },
   {
+    "defaultValue": 0,
     "id": 7103901,
-    "DPMPLHAJGON": 71039
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71039
   },
   {
+    "defaultValue": 0,
     "id": 7103902,
-    "DPMPLHAJGON": 71037
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71037
   },
   {
+    "defaultValue": 0,
     "id": 11026,
-    "DPMPLHAJGON": 11026
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 11026
   },
   {
-    "id": 7107801
+    "defaultValue": 0,
+    "id": 7107801,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7107802
+    "defaultValue": 0,
+    "id": 7107802,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 4005513,
-    "DPMPLHAJGON": 40055
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40055
   },
   {
+    "defaultValue": 0,
     "id": 4005610,
-    "DPMPLHAJGON": 40056
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40056
   },
   {
+    "defaultValue": 0,
     "id": 4005714,
-    "DPMPLHAJGON": 40057
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40057
   },
   {
+    "defaultValue": 0,
     "id": 4005914,
-    "DPMPLHAJGON": 40059
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40059
   },
   {
+    "defaultValue": 0,
     "id": 71082,
-    "DPMPLHAJGON": 71082
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71082
   },
   {
+    "defaultValue": 0,
     "id": 1914601,
-    "DPMPLHAJGON": 19146
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19146
   },
   {
+    "defaultValue": 0,
     "id": 40064,
-    "DPMPLHAJGON": 40064
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40064
   },
   {
+    "defaultValue": 0,
     "id": 40067,
-    "DPMPLHAJGON": 40067
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40067
   },
   {
+    "defaultValue": 0,
     "id": 40070,
-    "DPMPLHAJGON": 40070
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40070
   },
   {
+    "defaultValue": 0,
     "id": 40073,
-    "DPMPLHAJGON": 40073
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40073
   },
   {
+    "defaultValue": 0,
     "id": 40076,
-    "DPMPLHAJGON": 40076
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40076
   },
   {
+    "defaultValue": 0,
     "id": 40077,
-    "DPMPLHAJGON": 40077
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40077
   },
   {
+    "defaultValue": 0,
     "id": 13003,
-    "DPMPLHAJGON": 13003
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 13003
   },
   {
+    "defaultValue": 0,
     "id": 7227801,
-    "DPMPLHAJGON": 72278
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72278
   },
   {
+    "defaultValue": 0,
     "id": 7227901,
-    "DPMPLHAJGON": 72279
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72279
   },
   {
+    "defaultValue": 0,
     "id": 7228001,
-    "DPMPLHAJGON": 72280
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72280
   },
   {
+    "defaultValue": 0,
     "id": 7228101,
-    "DPMPLHAJGON": 72281
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72281
   },
   {
-    "id": 7150601
+    "defaultValue": 0,
+    "id": 7150601,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7150201
+    "defaultValue": 0,
+    "id": 7150201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7150701
+    "defaultValue": 0,
+    "id": 7150701,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7150301
+    "defaultValue": 0,
+    "id": 7150301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7150801
+    "defaultValue": 0,
+    "id": 7150801,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7150401
+    "defaultValue": 0,
+    "id": 7150401,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7150901
+    "defaultValue": 0,
+    "id": 7150901,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7150501
+    "defaultValue": 0,
+    "id": 7150501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7151001
+    "defaultValue": 0,
+    "id": 7151001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7902312,
-    "DPMPLHAJGON": 79023
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79023
   },
   {
+    "defaultValue": 0,
     "id": 7902212,
-    "DPMPLHAJGON": 79022
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79022
   },
   {
+    "defaultValue": 0,
     "id": 7902205,
-    "DPMPLHAJGON": 79022
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79022
   },
   {
+    "defaultValue": 0,
     "id": 7902303,
-    "DPMPLHAJGON": 79023
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79023
   },
   {
+    "defaultValue": 0,
     "id": 7903305,
-    "DPMPLHAJGON": 79033
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79033
   },
   {
+    "defaultValue": 0,
     "id": 7903306,
-    "DPMPLHAJGON": 79033
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79033
   },
   {
+    "defaultValue": 0,
     "id": 7903307,
-    "DPMPLHAJGON": 79033
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79033
   },
   {
+    "defaultValue": 0,
     "id": 7903304,
-    "DPMPLHAJGON": 79033
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79033
   },
   {
+    "defaultValue": 0,
     "id": 19057,
-    "DPMPLHAJGON": 19057
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19057
   },
   {
+    "defaultValue": 0,
     "id": 1906001,
-    "DPMPLHAJGON": 19060
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19060
   },
   {
+    "defaultValue": 0,
     "id": 1906002,
-    "DPMPLHAJGON": 19060
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19060
   },
   {
+    "defaultValue": 0,
     "id": 1906003,
-    "DPMPLHAJGON": 19060
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19060
   },
   {
+    "defaultValue": 0,
     "id": 1906004,
-    "DPMPLHAJGON": 19060
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19060
   },
   {
+    "defaultValue": 0,
     "id": 1906005,
-    "DPMPLHAJGON": 19060
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19060
   },
   {
+    "defaultValue": 0,
     "id": 1906006,
-    "DPMPLHAJGON": 19060
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19060
   },
   {
+    "defaultValue": 0,
     "id": 1906007,
-    "DPMPLHAJGON": 19060
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19060
   },
   {
+    "defaultValue": 0,
     "id": 1906008,
-    "DPMPLHAJGON": 19060
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19060
   },
   {
+    "defaultValue": 0,
     "id": 1906009,
-    "DPMPLHAJGON": 19060
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19060
   },
   {
-    "id": 70516
+    "defaultValue": 0,
+    "id": 70516,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7051301
+    "defaultValue": 0,
+    "id": 7051301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7051302
+    "defaultValue": 0,
+    "id": 7051302,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7051303
+    "defaultValue": 0,
+    "id": 7051303,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7051304
+    "defaultValue": 0,
+    "id": 7051304,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7051305
+    "defaultValue": 0,
+    "id": 7051305,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7051306
+    "defaultValue": 0,
+    "id": 7051306,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 103106,
-    "DPMPLHAJGON": 1031
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 1031
   },
   {
+    "defaultValue": 0,
     "id": 300010,
-    "DPMPLHAJGON": 3000
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3000
   },
   {
+    "defaultValue": 0,
     "id": 300107,
-    "DPMPLHAJGON": 3001
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3001
   },
   {
+    "defaultValue": 0,
     "id": 300209,
-    "DPMPLHAJGON": 3002
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3002
   },
   {
+    "defaultValue": 0,
     "id": 300306,
-    "DPMPLHAJGON": 3003
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3003
   },
   {
+    "defaultValue": 0,
     "id": 300612,
-    "DPMPLHAJGON": 3006
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3006
   },
   {
-    "id": 23002
+    "defaultValue": 0,
+    "id": 23002,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 23025,
-    "DPMPLHAJGON": 23025
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 23025
   },
   {
+    "defaultValue": 0,
     "id": 2303201,
-    "DPMPLHAJGON": 23032
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 23032
   },
   {
+    "defaultValue": 0,
     "id": 7228724,
-    "DPMPLHAJGON": 72287
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72287
   },
   {
+    "defaultValue": 0,
     "id": 3022,
-    "DPMPLHAJGON": 3022
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3022
   },
   {
+    "defaultValue": 0,
     "id": 73018,
-    "DPMPLHAJGON": 73018
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73018
   },
   {
+    "defaultValue": 0,
     "id": 73027,
-    "DPMPLHAJGON": 73027
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73027
   },
   {
+    "defaultValue": 0,
     "id": 73062,
-    "DPMPLHAJGON": 73062
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73062
   },
   {
+    "defaultValue": 0,
     "id": 73026,
-    "DPMPLHAJGON": 73026
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73026
   },
   {
+    "defaultValue": 0,
     "id": 7300007,
-    "DPMPLHAJGON": 73000
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73000
   },
   {
-    "id": 73100
+    "defaultValue": 0,
+    "id": 73100,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 73101,
-    "DPMPLHAJGON": 3001
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3001
   },
   {
-    "id": 73102
+    "defaultValue": 0,
+    "id": 73102,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 73103,
-    "DPMPLHAJGON": 73025
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73025
   },
   {
+    "defaultValue": 0,
     "id": 1203901,
-    "DPMPLHAJGON": 12039
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 12039
   },
   {
-    "id": 73083
+    "defaultValue": 0,
+    "id": 73083,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 73110
+    "defaultValue": 0,
+    "id": 73110,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 2303202,
-    "DPMPLHAJGON": 23032
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 23032
   },
   {
+    "defaultValue": 0,
     "id": 2303203,
-    "DPMPLHAJGON": 23032
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 23032
   },
   {
+    "defaultValue": 0,
     "id": 23032,
-    "DPMPLHAJGON": 23032
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 23032
   },
   {
-    "id": 7380101
+    "defaultValue": 0,
+    "id": 7380101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 73066,
-    "DPMPLHAJGON": 73066
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73066
   },
   {
+    "defaultValue": 0,
     "id": 73674,
-    "DPMPLHAJGON": 73674
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73674
   },
   {
+    "defaultValue": 0,
     "id": 73104,
-    "DPMPLHAJGON": 73104
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73104
   },
   {
+    "defaultValue": 0,
     "id": 73502,
-    "DPMPLHAJGON": 73502
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73502
   },
   {
+    "defaultValue": 0,
     "id": 7318801,
-    "DPMPLHAJGON": 73503
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73503
   },
   {
+    "defaultValue": 0,
     "id": 7318802,
-    "DPMPLHAJGON": 73503
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73503
   },
   {
+    "defaultValue": 0,
     "id": 7318803,
-    "DPMPLHAJGON": 73503
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73503
   },
   {
+    "defaultValue": 0,
     "id": 4007802,
-    "DPMPLHAJGON": 40078
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40078
   },
   {
+    "defaultValue": 0,
     "id": 4008001,
-    "DPMPLHAJGON": 40080
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40080
   },
   {
+    "defaultValue": 0,
     "id": 7052102,
-    "DPMPLHAJGON": 70521
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 70521
   },
   {
-    "id": 3028
+    "defaultValue": 0,
+    "id": 3028,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 302821,
-    "DPMPLHAJGON": 3028
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3028
   },
   {
+    "defaultValue": 0,
     "id": 1300807,
-    "DPMPLHAJGON": 13008
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 13008
   },
   {
+    "defaultValue": 0,
     "id": 73500,
-    "DPMPLHAJGON": 73500
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73500
   },
   {
+    "defaultValue": 0,
     "id": 2302801,
-    "DPMPLHAJGON": 23028
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 23028
   },
   {
+    "defaultValue": 0,
     "id": 300011,
-    "DPMPLHAJGON": 3028
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3028
   },
   {
+    "defaultValue": 0,
     "id": 300012,
-    "DPMPLHAJGON": 3004
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3004
   },
   {
+    "defaultValue": 0,
     "id": 300013,
-    "DPMPLHAJGON": 3004
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3004
   },
   {
+    "defaultValue": 0,
     "id": 300014,
-    "DPMPLHAJGON": 3004
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3004
   },
   {
-    "id": 73206
+    "defaultValue": 0,
+    "id": 73206,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 2302605,
-    "DPMPLHAJGON": 23026
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 23026
   },
   {
+    "defaultValue": 0,
     "id": 2302606,
-    "DPMPLHAJGON": 23026
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 23026
   },
   {
+    "defaultValue": 0,
     "id": 2302607,
-    "DPMPLHAJGON": 23026
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 23026
   },
   {
+    "defaultValue": 0,
     "id": 2302608,
-    "DPMPLHAJGON": 23026
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 23026
   },
   {
+    "defaultValue": 0,
     "id": 2302609,
-    "DPMPLHAJGON": 23026
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 23026
   },
   {
+    "defaultValue": 0,
     "id": 2302610,
-    "DPMPLHAJGON": 23026
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 23026
   },
   {
-    "id": 2302611
+    "defaultValue": 0,
+    "id": 2302611,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 302410
+    "defaultValue": 0,
+    "id": 302410,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 302617,
-    "DPMPLHAJGON": 3026
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3026
   },
   {
-    "id": 7300907
+    "defaultValue": 0,
+    "id": 7300907,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7300908
+    "defaultValue": 0,
+    "id": 7300908,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 73081
+    "defaultValue": 0,
+    "id": 73081,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 73263
+    "defaultValue": 0,
+    "id": 73263,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 30032
+    "defaultValue": 0,
+    "id": 30032,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 30033
+    "defaultValue": 0,
+    "id": 30033,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 73800
+    "defaultValue": 0,
+    "id": 73800,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 23011
+    "defaultValue": 0,
+    "id": 23011,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 73803,
-    "DPMPLHAJGON": 73803
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73803
   },
   {
-    "id": 23014
+    "defaultValue": 0,
+    "id": 23014,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 302110,
-    "DPMPLHAJGON": 3021
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3021
   },
   {
-    "id": 73270
+    "defaultValue": 0,
+    "id": 73270,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 23041,
-    "DPMPLHAJGON": 73233
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73233
   },
   {
+    "defaultValue": 0,
     "id": 2304101,
-    "DPMPLHAJGON": 23041
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 23041
   },
   {
+    "defaultValue": 0,
     "id": 2304102,
-    "DPMPLHAJGON": 23041
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 23041
   },
   {
+    "defaultValue": 0,
     "id": 2304103,
-    "DPMPLHAJGON": 23041
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 23041
   },
   {
-    "id": 23042
+    "defaultValue": 0,
+    "id": 23042,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 73503,
-    "DPMPLHAJGON": 73503
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73503
   },
   {
+    "defaultValue": 0,
     "id": 73056,
-    "DPMPLHAJGON": 73056
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73056
   },
   {
+    "defaultValue": 0,
     "id": 7321901,
-    "DPMPLHAJGON": 73186
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73186
   },
   {
+    "defaultValue": 0,
     "id": 7321902,
-    "DPMPLHAJGON": 73212
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73212
   },
   {
-    "id": 7321903
+    "defaultValue": 0,
+    "id": 7321903,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7321904,
-    "DPMPLHAJGON": 73219
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73219
   },
   {
-    "id": 7321905
+    "defaultValue": 0,
+    "id": 7321905,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7321906,
-    "DPMPLHAJGON": 73225
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73225
   },
   {
-    "id": 7321907
+    "defaultValue": 0,
+    "id": 7321907,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 73193,
-    "DPMPLHAJGON": 73193
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73193
   },
   {
+    "defaultValue": 0,
     "id": 73275,
-    "DPMPLHAJGON": 73209
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73209
   },
   {
-    "id": 73223
+    "defaultValue": 0,
+    "id": 73223,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7327501
+    "defaultValue": 0,
+    "id": 7327501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 2303501,
-    "DPMPLHAJGON": 23035
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 23035
   },
   {
+    "defaultValue": 0,
     "id": 4008110,
-    "DPMPLHAJGON": 40081
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40081
   },
   {
+    "defaultValue": 0,
     "id": 4008512,
-    "DPMPLHAJGON": 40085
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40085
   },
   {
+    "defaultValue": 0,
     "id": 4008603,
-    "DPMPLHAJGON": 40086
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40086
   },
   {
+    "defaultValue": 0,
     "id": 4008508,
-    "DPMPLHAJGON": 40085
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40085
   },
   {
+    "defaultValue": 0,
     "id": 1301501,
-    "DPMPLHAJGON": 13015
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 13015
   },
   {
+    "defaultValue": 0,
     "id": 7321908,
-    "DPMPLHAJGON": 73220
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73220
   },
   {
+    "defaultValue": 0,
     "id": 7321909,
-    "DPMPLHAJGON": 73282
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73282
   },
   {
+    "defaultValue": 0,
     "id": 7321910,
-    "DPMPLHAJGON": 73244
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73244
   },
   {
+    "defaultValue": 0,
     "id": 7321911,
-    "DPMPLHAJGON": 73305
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73305
   },
   {
+    "defaultValue": 0,
     "id": 7321912,
-    "DPMPLHAJGON": 73055
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73055
   },
   {
-    "id": 7321913
+    "defaultValue": 0,
+    "id": 7321913,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7321914
+    "defaultValue": 0,
+    "id": 7321914,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7321915,
-    "DPMPLHAJGON": 73287
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73287
   },
   {
+    "defaultValue": 0,
     "id": 7321916,
-    "DPMPLHAJGON": 73219
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73219
   },
   {
-    "id": 73337
+    "defaultValue": 0,
+    "id": 73337,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7321917,
-    "DPMPLHAJGON": 73338
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73338
   },
   {
+    "defaultValue": 0,
     "id": 7321918,
-    "DPMPLHAJGON": 73220
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73220
   },
   {
+    "defaultValue": 0,
     "id": 7321919,
-    "DPMPLHAJGON": 73186
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73186
   },
   {
+    "defaultValue": 0,
     "id": 7321920,
-    "DPMPLHAJGON": 73220
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73220
   },
   {
+    "defaultValue": 0,
     "id": 4009907,
-    "DPMPLHAJGON": 40099
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40099
   },
   {
+    "defaultValue": 0,
     "id": 4009802,
-    "DPMPLHAJGON": 40098
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40098
   },
   {
+    "defaultValue": 0,
     "id": 4009902,
-    "DPMPLHAJGON": 40099
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40099
   },
   {
+    "defaultValue": 0,
     "id": 4010406,
-    "DPMPLHAJGON": 40104
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40104
   },
   {
+    "defaultValue": 0,
     "id": 4010006,
-    "DPMPLHAJGON": 40100
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40100
   },
   {
+    "defaultValue": 0,
     "id": 4010027,
-    "DPMPLHAJGON": 40100
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40100
   },
   {
+    "defaultValue": 0,
     "id": 7400001,
-    "DPMPLHAJGON": 74000
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74000
   },
   {
+    "defaultValue": 0,
     "id": 7400002,
-    "DPMPLHAJGON": 74013
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74013
   },
   {
-    "id": 74016
+    "defaultValue": 0,
+    "id": 74016,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 74042,
-    "DPMPLHAJGON": 74042
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74042
   },
   {
+    "defaultValue": 0,
     "id": 74038,
-    "DPMPLHAJGON": 74038
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74038
   },
   {
-    "id": 74025
+    "defaultValue": 0,
+    "id": 74025,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7405325
+    "defaultValue": 0,
+    "id": 7405325,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7408201
+    "defaultValue": 0,
+    "id": 7408201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7405301,
-    "DPMPLHAJGON": 74053
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74053
   },
   {
-    "id": 7405379
+    "defaultValue": 0,
+    "id": 7405379,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 74053,
-    "DPMPLHAJGON": 74053
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74053
   },
   {
+    "defaultValue": 0,
     "id": 74092,
-    "DPMPLHAJGON": 74092
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74092
   },
   {
-    "id": 7405340
+    "defaultValue": 0,
+    "id": 7405340,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
+    "id": 60101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 601
+  },
+  {
+    "defaultValue": 0,
+    "id": 60102,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 601
+  },
+  {
+    "defaultValue": 0,
+    "id": 60201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 602
+  },
+  {
+    "defaultValue": 0,
+    "id": 60401,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 602
+  },
+  {
+    "defaultValue": 0,
+    "id": 60402,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 602
+  },
+  {
+    "defaultValue": 0,
+    "id": 60403,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 602
+  },
+  {
+    "defaultValue": 0,
     "id": 301801,
-    "DPMPLHAJGON": 3018
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3018
   },
   {
+    "defaultValue": 0,
     "id": 302901,
-    "DPMPLHAJGON": 3029
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3029
   },
   {
+    "defaultValue": 0,
     "id": 303001,
-    "DPMPLHAJGON": 3030
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3030
   },
   {
+    "defaultValue": 0,
     "id": 303201,
-    "DPMPLHAJGON": 3033
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 3033
   },
   {
-    "id": 400101
+    "defaultValue": 0,
+    "id": 400101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 400201,
-    "DPMPLHAJGON": 4002
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 4002
   },
   {
-    "id": 400202
+    "defaultValue": 0,
+    "id": 400202,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400203
+    "defaultValue": 0,
+    "id": 400203,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400204
+    "defaultValue": 0,
+    "id": 400204,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400205
+    "defaultValue": 0,
+    "id": 400205,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400206
+    "defaultValue": 0,
+    "id": 400206,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400207
+    "defaultValue": 0,
+    "id": 400207,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400208
+    "defaultValue": 0,
+    "id": 400208,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400209
+    "defaultValue": 0,
+    "id": 400209,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400210
+    "defaultValue": 0,
+    "id": 400210,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 400401,
-    "DPMPLHAJGON": 4006
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 4006
   },
   {
+    "defaultValue": 0,
     "id": 400402,
-    "DPMPLHAJGON": 4004
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 4004
   },
   {
-    "id": 400601
+    "defaultValue": 0,
+    "id": 400601,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400602
+    "defaultValue": 0,
+    "id": 400602,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400603
+    "defaultValue": 0,
+    "id": 400603,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400604
+    "defaultValue": 0,
+    "id": 400604,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400605
+    "defaultValue": 0,
+    "id": 400605,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400606
+    "defaultValue": 0,
+    "id": 400606,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400607
+    "defaultValue": 0,
+    "id": 400607,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400608
+    "defaultValue": 0,
+    "id": 400608,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400609
+    "defaultValue": 0,
+    "id": 400609,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400610
+    "defaultValue": 0,
+    "id": 400610,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 400801
+    "defaultValue": 0,
+    "id": 400801,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401501
+    "defaultValue": 0,
+    "id": 401501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401502
+    "defaultValue": 0,
+    "id": 401502,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401503
+    "defaultValue": 0,
+    "id": 401503,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401504
+    "defaultValue": 0,
+    "id": 401504,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401505
+    "defaultValue": 0,
+    "id": 401505,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401506
+    "defaultValue": 0,
+    "id": 401506,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401507
+    "defaultValue": 0,
+    "id": 401507,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401508
+    "defaultValue": 0,
+    "id": 401508,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401509
+    "defaultValue": 0,
+    "id": 401509,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401510
+    "defaultValue": 0,
+    "id": 401510,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401511
+    "defaultValue": 0,
+    "id": 401511,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401512
+    "defaultValue": 0,
+    "id": 401512,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401513
+    "defaultValue": 0,
+    "id": 401513,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401514
+    "defaultValue": 0,
+    "id": 401514,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401515
+    "defaultValue": 0,
+    "id": 401515,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401516
+    "defaultValue": 0,
+    "id": 401516,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401517
+    "defaultValue": 0,
+    "id": 401517,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401518
+    "defaultValue": 0,
+    "id": 401518,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401519
+    "defaultValue": 0,
+    "id": 401519,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401520
+    "defaultValue": 0,
+    "id": 401520,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401521
+    "defaultValue": 0,
+    "id": 401521,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401522
+    "defaultValue": 0,
+    "id": 401522,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401523
+    "defaultValue": 0,
+    "id": 401523,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401524
+    "defaultValue": 0,
+    "id": 401524,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401525
+    "defaultValue": 0,
+    "id": 401525,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401526
+    "defaultValue": 0,
+    "id": 401526,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401527
+    "defaultValue": 0,
+    "id": 401527,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401528
+    "defaultValue": 0,
+    "id": 401528,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401529
+    "defaultValue": 0,
+    "id": 401529,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401530
+    "defaultValue": 0,
+    "id": 401530,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401531
+    "defaultValue": 0,
+    "id": 401531,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401532
+    "defaultValue": 0,
+    "id": 401532,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401533
+    "defaultValue": 0,
+    "id": 401533,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 401534
+    "defaultValue": 0,
+    "id": 401534,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 401901,
-    "DPMPLHAJGON": 4019
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 4019
   },
   {
+    "defaultValue": 0,
     "id": 402401,
-    "DPMPLHAJGON": 4024
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 4024
   },
   {
+    "defaultValue": 0,
     "id": 402501,
-    "DPMPLHAJGON": 4025
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 4025
   },
   {
+    "defaultValue": 0,
     "id": 402801,
-    "DPMPLHAJGON": 4028
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 4028
   },
   {
+    "defaultValue": 0,
     "id": 402802,
-    "DPMPLHAJGON": 4028
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 4028
   },
   {
+    "defaultValue": 0,
     "id": 402803,
-    "DPMPLHAJGON": 4028
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 4028
   },
   {
+    "defaultValue": 0,
     "id": 500001,
-    "DPMPLHAJGON": 5000
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5000
   },
   {
+    "defaultValue": 0,
     "id": 500002,
-    "DPMPLHAJGON": 5000
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5000
   },
   {
+    "defaultValue": 0,
     "id": 500003,
-    "DPMPLHAJGON": 5000
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5000
   },
   {
+    "defaultValue": 0,
     "id": 500004,
-    "DPMPLHAJGON": 5000
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5000
   },
   {
+    "defaultValue": 0,
     "id": 500101,
-    "DPMPLHAJGON": 5001
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5001
   },
   {
+    "defaultValue": 0,
     "id": 500102,
-    "DPMPLHAJGON": 5001
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5001
   },
   {
+    "defaultValue": 0,
     "id": 500103,
-    "DPMPLHAJGON": 5001
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5001
   },
   {
+    "defaultValue": 0,
     "id": 500201,
-    "DPMPLHAJGON": 5002
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5002
   },
   {
+    "defaultValue": 0,
     "id": 500301,
-    "DPMPLHAJGON": 5003
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5003
   },
   {
+    "defaultValue": 0,
     "id": 500401,
-    "DPMPLHAJGON": 5004
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5004
   },
   {
+    "defaultValue": 0,
     "id": 500601,
-    "DPMPLHAJGON": 5006
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5006
   },
   {
+    "defaultValue": 0,
     "id": 500701,
-    "DPMPLHAJGON": 5007
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5007
   },
   {
+    "defaultValue": 0,
     "id": 500901,
-    "DPMPLHAJGON": 5009
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5009
   },
   {
-    "id": 500902
+    "defaultValue": 0,
+    "id": 500902,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 501001,
-    "DPMPLHAJGON": 5010
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5010
   },
   {
-    "id": 501002
+    "defaultValue": 0,
+    "id": 501002,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 501003,
-    "DPMPLHAJGON": 5010
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5010
   },
   {
+    "defaultValue": 0,
     "id": 501101,
-    "DPMPLHAJGON": 5011
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5011
   },
   {
+    "defaultValue": 0,
     "id": 501102,
-    "DPMPLHAJGON": 5011
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5011
   },
   {
+    "defaultValue": 0,
     "id": 501103,
-    "DPMPLHAJGON": 5011
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5011
   },
   {
+    "defaultValue": 0,
     "id": 501104,
-    "DPMPLHAJGON": 5011
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5011
   },
   {
+    "defaultValue": 0,
     "id": 501105,
-    "DPMPLHAJGON": 5011
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5011
   },
   {
+    "defaultValue": 0,
     "id": 501106,
-    "DPMPLHAJGON": 5011
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5011
   },
   {
+    "defaultValue": 0,
     "id": 501107,
-    "DPMPLHAJGON": 5011
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5011
   },
   {
+    "defaultValue": 0,
     "id": 501108,
-    "DPMPLHAJGON": 5011
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5011
   },
   {
+    "defaultValue": 0,
     "id": 501109,
-    "DPMPLHAJGON": 5011
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5011
   },
   {
+    "defaultValue": 0,
     "id": 501201,
-    "DPMPLHAJGON": 5012
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5012
   },
   {
+    "defaultValue": 0,
     "id": 501202,
-    "DPMPLHAJGON": 5012
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5012
   },
   {
+    "defaultValue": 0,
     "id": 501301,
-    "DPMPLHAJGON": 5014
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5014
   },
   {
+    "defaultValue": 0,
     "id": 501302,
-    "DPMPLHAJGON": 5013
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5013
   },
   {
+    "defaultValue": 0,
     "id": 501401,
-    "DPMPLHAJGON": 5014
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5014
   },
   {
-    "id": 501701
+    "defaultValue": 0,
+    "id": 501701,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 501901,
-    "DPMPLHAJGON": 5019
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5019
   },
   {
+    "defaultValue": 0,
     "id": 502101,
-    "DPMPLHAJGON": 5021
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5021
   },
   {
+    "defaultValue": 0,
     "id": 502301,
-    "DPMPLHAJGON": 5023
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5023
   },
   {
+    "defaultValue": 0,
     "id": 502302,
-    "DPMPLHAJGON": 5023
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5023
   },
   {
+    "defaultValue": 0,
     "id": 502401,
-    "DPMPLHAJGON": 5024
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5024
   },
   {
+    "defaultValue": 0,
     "id": 502601,
-    "DPMPLHAJGON": 5026
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5026
   },
   {
+    "defaultValue": 0,
     "id": 502801,
-    "DPMPLHAJGON": 5028
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5028
   },
   {
+    "defaultValue": 0,
     "id": 502802,
-    "DPMPLHAJGON": 5028
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5028
   },
   {
+    "defaultValue": 0,
     "id": 502901,
-    "DPMPLHAJGON": 5029
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5029
   },
   {
+    "defaultValue": 0,
     "id": 503301,
-    "DPMPLHAJGON": 5033
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5033
   },
   {
+    "defaultValue": 0,
     "id": 503401,
-    "DPMPLHAJGON": 5034
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 5034
   },
   {
+    "defaultValue": 0,
+    "id": 600001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 6000
+  },
+  {
+    "defaultValue": 0,
+    "id": 600002,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 6000
+  },
+  {
+    "defaultValue": 0,
+    "id": 600003,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 6000
+  },
+  {
+    "defaultValue": 0,
+    "id": 600004,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 6000
+  },
+  {
+    "defaultValue": 0,
+    "id": 600101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 6001
+  },
+  {
+    "defaultValue": 0,
+    "id": 600201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 6002
+  },
+  {
+    "defaultValue": 0,
+    "id": 600202,
+    "NPGOLIKOFCO": [
+      220276018
+    ],
+    "PBLJPDOAJBN": 6002
+  },
+  {
+    "defaultValue": 0,
+    "id": 600601,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 6006
+  },
+  {
+    "defaultValue": 0,
+    "id": 600602,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 6006
+  },
+  {
+    "defaultValue": 0,
+    "id": 600801,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 6008
+  },
+  {
+    "defaultValue": 0,
+    "id": 600802,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 6008
+  },
+  {
+    "defaultValue": 0,
+    "id": 600803,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 6008
+  },
+  {
+    "defaultValue": 0,
+    "id": 601101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 6011
+  },
+  {
+    "defaultValue": 0,
     "id": 801101,
-    "DPMPLHAJGON": 8012
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 8012
   },
   {
+    "defaultValue": 0,
+    "id": 801801,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 8018
+  },
+  {
+    "defaultValue": 0,
+    "id": 801802,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 8018
+  },
+  {
+    "defaultValue": 0,
     "id": 802101,
-    "DPMPLHAJGON": 8021
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 8021
   },
   {
+    "defaultValue": 0,
     "id": 1102901,
-    "DPMPLHAJGON": 11029
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 11029
   },
   {
+    "defaultValue": 0,
     "id": 1103501,
-    "DPMPLHAJGON": 11035
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 11035
   },
   {
+    "defaultValue": 0,
     "id": 1204701,
-    "DPMPLHAJGON": 12047
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 12047
   },
   {
+    "defaultValue": 0,
     "id": 1204801,
-    "DPMPLHAJGON": 12048
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 12048
   },
   {
+    "defaultValue": 0,
     "id": 1301101,
-    "DPMPLHAJGON": 13011
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 13011
   },
   {
+    "defaultValue": 0,
     "id": 1302201,
-    "DPMPLHAJGON": 13034
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 13034
   },
   {
+    "defaultValue": 0,
     "id": 1302601,
-    "DPMPLHAJGON": 13026
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 13026
   },
   {
+    "defaultValue": 0,
     "id": 1302701,
-    "DPMPLHAJGON": 13027
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 13027
   },
   {
+    "defaultValue": 0,
     "id": 1303201,
-    "DPMPLHAJGON": 13032
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 13032
   },
   {
+    "defaultValue": 0,
     "id": 1303901,
-    "DPMPLHAJGON": 13039
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 13039
   },
   {
+    "defaultValue": 0,
     "id": 1400301,
-    "DPMPLHAJGON": 14003
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 14003
   },
   {
+    "defaultValue": 0,
     "id": 1400601,
-    "DPMPLHAJGON": 14006
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 14006
   },
   {
+    "defaultValue": 0,
     "id": 1400901,
-    "DPMPLHAJGON": 14009
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 14009
   },
   {
+    "defaultValue": 0,
     "id": 1401201,
-    "DPMPLHAJGON": 14012
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 14012
   },
   {
+    "defaultValue": 0,
     "id": 1401701,
-    "DPMPLHAJGON": 14017
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 14017
   },
   {
+    "defaultValue": 0,
     "id": 1402201,
-    "DPMPLHAJGON": 14022
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 14022
   },
   {
+    "defaultValue": 0,
     "id": 1402601,
-    "DPMPLHAJGON": 14026
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 14026
   },
   {
+    "defaultValue": 0,
     "id": 1402701,
-    "DPMPLHAJGON": 14027
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 14027
   },
   {
+    "defaultValue": 0,
     "id": 1402901,
-    "DPMPLHAJGON": 14029
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 14029
   },
   {
-    "id": 1403201
+    "defaultValue": 0,
+    "id": 1403201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 1403202
+    "defaultValue": 0,
+    "id": 1403202,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 1403203
+    "defaultValue": 0,
+    "id": 1403203,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 1403401,
-    "DPMPLHAJGON": 14034
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 14034
   },
   {
+    "defaultValue": 0,
     "id": 1403801,
-    "DPMPLHAJGON": 14038
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 14038
   },
   {
+    "defaultValue": 0,
     "id": 1403802,
-    "DPMPLHAJGON": 14038
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 14038
   },
   {
+    "defaultValue": 0,
     "id": 1403901,
-    "DPMPLHAJGON": 14039
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 14039
   },
   {
+    "defaultValue": 0,
+    "id": 1404601,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 14046
+  },
+  {
+    "defaultValue": 0,
     "id": 1500001,
-    "DPMPLHAJGON": 15000
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15000
   },
   {
+    "defaultValue": 0,
     "id": 1500101,
-    "DPMPLHAJGON": 15001
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15001
   },
   {
+    "defaultValue": 0,
     "id": 1500401,
-    "DPMPLHAJGON": 15004
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15004
   },
   {
-    "id": 1500601
+    "defaultValue": 0,
+    "id": 1500601,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 1500602
+    "defaultValue": 0,
+    "id": 1500602,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 1500603
+    "defaultValue": 0,
+    "id": 1500603,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 1500901
+    "defaultValue": 0,
+    "id": 1500901,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 1501001,
-    "DPMPLHAJGON": 15010
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15010
   },
   {
+    "defaultValue": 0,
     "id": 1501501,
-    "DPMPLHAJGON": 15015
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15015
   },
   {
+    "defaultValue": 0,
     "id": 1501601,
-    "DPMPLHAJGON": 15016
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15016
   },
   {
+    "defaultValue": 0,
+    "id": 1501801,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15018
+  },
+  {
+    "defaultValue": 0,
     "id": 1502301,
-    "DPMPLHAJGON": 15023
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15023
   },
   {
+    "defaultValue": 0,
     "id": 1502501,
-    "DPMPLHAJGON": 15025
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15025
   },
   {
-    "id": 1502502
+    "defaultValue": 0,
+    "id": 1502502,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 1502901,
-    "DPMPLHAJGON": 15029
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15029
   },
   {
+    "defaultValue": 0,
+    "id": 1503201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15032
+  },
+  {
+    "defaultValue": 0,
+    "id": 1503301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15033
+  },
+  {
+    "defaultValue": 0,
+    "id": 1503302,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15033
+  },
+  {
+    "defaultValue": 0,
+    "id": 1503303,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15033
+  },
+  {
+    "defaultValue": 0,
+    "id": 1503801,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15038
+  },
+  {
+    "defaultValue": 0,
+    "id": 1503901,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 1504001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15040
+  },
+  {
+    "defaultValue": 0,
+    "id": 1504101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15041
+  },
+  {
+    "defaultValue": 0,
+    "id": 1504201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15042
+  },
+  {
+    "defaultValue": 0,
+    "id": 1504301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 1504501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 15045
+  },
+  {
+    "defaultValue": 0,
+    "id": 1504502,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 1504503,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 1680001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 16800
+  },
+  {
+    "defaultValue": 0,
     "id": 1909801,
-    "DPMPLHAJGON": 19098
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19098
   },
   {
+    "defaultValue": 0,
     "id": 1909802,
-    "DPMPLHAJGON": 19098
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19098
   },
   {
+    "defaultValue": 0,
     "id": 1915001,
-    "DPMPLHAJGON": 19150
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19150
   },
   {
+    "defaultValue": 0,
     "id": 1916101,
-    "DPMPLHAJGON": 19161
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19161
   },
   {
+    "defaultValue": 0,
     "id": 1918001,
-    "DPMPLHAJGON": 19180
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 19180
   },
   {
-    "id": 1918201
+    "defaultValue": 0,
+    "id": 1918201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 1918202
+    "defaultValue": 0,
+    "id": 1918202,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 1918203
+    "defaultValue": 0,
+    "id": 1918203,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 1918204
+    "defaultValue": 0,
+    "id": 1918204,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 1918205
+    "defaultValue": 0,
+    "id": 1918205,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 1918206
+    "defaultValue": 0,
+    "id": 1918206,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 1918501
+    "defaultValue": 0,
+    "id": 1918501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 1918502
+    "defaultValue": 0,
+    "id": 1918502,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 1918503
+    "defaultValue": 0,
+    "id": 1918503,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 1918504
+    "defaultValue": 0,
+    "id": 1918504,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 1918505
+    "defaultValue": 0,
+    "id": 1918505,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 1918506
+    "defaultValue": 0,
+    "id": 1918506,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 2103401,
-    "DPMPLHAJGON": 21034
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 21034
   },
   {
-    "id": 2103501
+    "defaultValue": 0,
+    "id": 2103501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 2103601
+    "defaultValue": 0,
+    "id": 2103601,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 2103602,
-    "DPMPLHAJGON": 21036
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 21036
   },
   {
+    "defaultValue": 0,
     "id": 2103801,
-    "DPMPLHAJGON": 21038
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 21038
   },
   {
-    "id": 2400801
+    "defaultValue": 0,
+    "id": 2400801,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 2400901,
-    "DPMPLHAJGON": 24009
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 24009
   },
   {
+    "defaultValue": 0,
     "id": 2400902,
-    "DPMPLHAJGON": 24009
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 24009
   },
   {
-    "id": 2400903
+    "defaultValue": 0,
+    "id": 2400903,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 2400904
+    "defaultValue": 0,
+    "id": 2400904,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 2401001,
-    "DPMPLHAJGON": 24010
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 24010
   },
   {
-    "id": 2401101
+    "defaultValue": 0,
+    "id": 2401101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 2401401,
-    "DPMPLHAJGON": 24014
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 24014
   },
   {
-    "id": 2401701
+    "defaultValue": 0,
+    "id": 2401701,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 2401801,
-    "DPMPLHAJGON": 24018
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 24018
   },
   {
-    "id": 2402201
+    "defaultValue": 0,
+    "id": 2402201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 2402202
+    "defaultValue": 0,
+    "id": 2402202,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 2402203
+    "defaultValue": 0,
+    "id": 2402203,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 2402204
+    "defaultValue": 0,
+    "id": 2402204,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 2402205
+    "defaultValue": 0,
+    "id": 2402205,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 2402206
+    "defaultValue": 0,
+    "id": 2402206,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 2402207
+    "defaultValue": 0,
+    "id": 2402207,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 2501801,
-    "DPMPLHAJGON": 25018
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 25018
   },
   {
+    "defaultValue": 0,
     "id": 2501802,
-    "DPMPLHAJGON": 25018
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 25018
   },
   {
+    "defaultValue": 0,
     "id": 2501803,
-    "DPMPLHAJGON": 25018
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 25018
   },
   {
+    "defaultValue": 0,
     "id": 2501804,
-    "DPMPLHAJGON": 25018
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 25018
   },
   {
+    "defaultValue": 0,
     "id": 2501901,
-    "DPMPLHAJGON": 25019
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 25019
   },
   {
+    "defaultValue": 0,
     "id": 2501902,
-    "DPMPLHAJGON": 25019
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 25019
   },
   {
+    "defaultValue": 0,
     "id": 2502601,
-    "DPMPLHAJGON": 25026
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 25026
   },
   {
+    "defaultValue": 0,
     "id": 2502602,
-    "DPMPLHAJGON": 25026
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 25026
   },
   {
-    "id": 2502701
+    "defaultValue": 0,
+    "id": 2502701,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 2502801
+    "defaultValue": 0,
+    "id": 2502801,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 2502802
+    "defaultValue": 0,
+    "id": 2502802,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 2502901
+    "defaultValue": 0,
+    "id": 2502901,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 2503001,
-    "DPMPLHAJGON": 25030
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 25030
   },
   {
+    "defaultValue": 0,
     "id": 2503002,
-    "DPMPLHAJGON": 25030
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 25030
   },
   {
+    "defaultValue": 0,
     "id": 2503003,
-    "DPMPLHAJGON": 25030
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 25030
   },
   {
+    "defaultValue": 0,
     "id": 2503004,
-    "DPMPLHAJGON": 25030
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 25030
   },
   {
-    "id": 2503201
+    "defaultValue": 0,
+    "id": 2503201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 2503401,
-    "DPMPLHAJGON": 25034
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 25034
   },
   {
+    "defaultValue": 0,
     "id": 2503402,
-    "DPMPLHAJGON": 25034
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 25034
   },
   {
-    "id": 2503501
+    "defaultValue": 0,
+    "id": 2503501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 4009201,
-    "DPMPLHAJGON": 40092
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40092
   },
   {
+    "defaultValue": 0,
     "id": 4009301,
-    "DPMPLHAJGON": 40093
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40093
   },
   {
+    "defaultValue": 0,
     "id": 4010701,
-    "DPMPLHAJGON": 40107
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40107
   },
   {
+    "defaultValue": 0,
     "id": 4010702,
-    "DPMPLHAJGON": 40107
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40107
   },
   {
+    "defaultValue": 0,
     "id": 4010801,
-    "DPMPLHAJGON": 40108
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40108
   },
   {
+    "defaultValue": 0,
     "id": 4010901,
-    "DPMPLHAJGON": 40109
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40109
   },
   {
+    "defaultValue": 0,
     "id": 4011001,
-    "DPMPLHAJGON": 40110
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40110
   },
   {
+    "defaultValue": 0,
     "id": 4011401,
-    "DPMPLHAJGON": 40114
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40114
   },
   {
+    "defaultValue": 0,
     "id": 4011501,
-    "DPMPLHAJGON": 40115
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40115
   },
   {
+    "defaultValue": 0,
     "id": 4011901,
-    "DPMPLHAJGON": 40119
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40119
   },
   {
-    "id": 4012601
+    "defaultValue": 0,
+    "id": 4012601,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 4012602,
-    "DPMPLHAJGON": 40126
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40126
   },
   {
+    "defaultValue": 0,
     "id": 4012801,
-    "DPMPLHAJGON": 40128
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40128
   },
   {
+    "defaultValue": 0,
     "id": 4013001,
-    "DPMPLHAJGON": 40130
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40130
   },
   {
+    "defaultValue": 0,
     "id": 4013201,
-    "DPMPLHAJGON": 40132
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40132
   },
   {
+    "defaultValue": 0,
     "id": 4013202,
-    "DPMPLHAJGON": 40132
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40132
   },
   {
+    "defaultValue": 0,
     "id": 4013601,
-    "DPMPLHAJGON": 40136
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40136
   },
   {
+    "defaultValue": 0,
     "id": 4013901,
-    "DPMPLHAJGON": 40139
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40139
   },
   {
+    "defaultValue": 0,
     "id": 4013902,
-    "DPMPLHAJGON": 40139
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40139
   },
   {
+    "defaultValue": 0,
     "id": 4013903,
-    "DPMPLHAJGON": 40139
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40139
   },
   {
+    "defaultValue": 0,
     "id": 4014001,
-    "DPMPLHAJGON": 40140
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40140
   },
   {
+    "defaultValue": 0,
     "id": 4014101,
-    "DPMPLHAJGON": 40141
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40141
   },
   {
+    "defaultValue": 0,
     "id": 4014102,
-    "DPMPLHAJGON": 40141
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40141
   },
   {
+    "defaultValue": 0,
     "id": 4014201,
-    "DPMPLHAJGON": 40142
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40142
   },
   {
+    "defaultValue": 0,
     "id": 4015001,
-    "DPMPLHAJGON": 40150
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40150
   },
   {
+    "defaultValue": 0,
     "id": 4015201,
-    "DPMPLHAJGON": 40152
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40152
   },
   {
+    "defaultValue": 0,
     "id": 4015301,
-    "DPMPLHAJGON": 40153
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40153
   },
   {
+    "defaultValue": 0,
     "id": 4015401,
-    "DPMPLHAJGON": 40154
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40154
   },
   {
+    "defaultValue": 0,
     "id": 4015402,
-    "DPMPLHAJGON": 40154
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40154
   },
   {
-    "id": 4015701
+    "defaultValue": 0,
+    "id": 4015701,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 4016201,
-    "DPMPLHAJGON": 40162
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40162
   },
   {
+    "defaultValue": 0,
     "id": 4016202,
-    "DPMPLHAJGON": 40162
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40162
   },
   {
+    "defaultValue": 0,
     "id": 4016301,
-    "DPMPLHAJGON": 40163
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40163
   },
   {
+    "defaultValue": 0,
     "id": 4016401,
-    "DPMPLHAJGON": 40164
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40164
   },
   {
+    "defaultValue": 0,
     "id": 4016402,
-    "DPMPLHAJGON": 40163
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40163
   },
   {
+    "defaultValue": 0,
     "id": 4016403,
-    "DPMPLHAJGON": 40164
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40164
   },
   {
+    "defaultValue": 0,
     "id": 4016404,
-    "DPMPLHAJGON": 40164
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40164
   },
   {
+    "defaultValue": 0,
     "id": 4016501,
-    "DPMPLHAJGON": 40165
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40165
   },
   {
+    "defaultValue": 0,
     "id": 4016701,
-    "DPMPLHAJGON": 40167
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40167
   },
   {
+    "defaultValue": 0,
     "id": 4016801,
-    "DPMPLHAJGON": 40168
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40168
   },
   {
+    "defaultValue": 0,
     "id": 4017301,
-    "DPMPLHAJGON": 40173
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40173
   },
   {
+    "defaultValue": 0,
+    "id": 4017701,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40177
+  },
+  {
+    "defaultValue": 0,
+    "id": 4017702,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40177
+  },
+  {
+    "defaultValue": 0,
+    "id": 4017801,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40178
+  },
+  {
+    "defaultValue": 0,
+    "id": 4017901,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40179
+  },
+  {
+    "defaultValue": 0,
     "id": 4018401,
-    "DPMPLHAJGON": 40184
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40184
   },
   {
+    "defaultValue": 0,
     "id": 4018501,
-    "DPMPLHAJGON": 40185
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40185
   },
   {
+    "defaultValue": 0,
     "id": 4018601,
-    "DPMPLHAJGON": 40186
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40186
   },
   {
+    "defaultValue": 0,
     "id": 4018701,
-    "DPMPLHAJGON": 40187
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40187
   },
   {
-    "id": 4019101
+    "defaultValue": 0,
+    "id": 4019101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 4019201
+    "defaultValue": 0,
+    "id": 4019201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 4019202
+    "defaultValue": 0,
+    "id": 4019202,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 6503301
+    "defaultValue": 0,
+    "id": 4019701,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40197
   },
   {
-    "id": 6602001
+    "defaultValue": 0,
+    "id": 4020001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7053801
+    "defaultValue": 0,
+    "id": 4020201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
+    "id": 4020301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40203
+  },
+  {
+    "defaultValue": 0,
+    "id": 4020501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40205
+  },
+  {
+    "defaultValue": 0,
+    "id": 4020601,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40206
+  },
+  {
+    "defaultValue": 0,
+    "id": 4020701,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 40207
+  },
+  {
+    "defaultValue": 0,
+    "id": 6503301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 6602001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 6652101,
+    "NPGOLIKOFCO": [
+      133520111
+    ],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 6700101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 67001
+  },
+  {
+    "defaultValue": 0,
+    "id": 7010201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 70102
+  },
+  {
+    "defaultValue": 0,
+    "id": 7053801,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
     "id": 7066501,
-    "DPMPLHAJGON": 70665
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 70665
   },
   {
+    "defaultValue": 0,
     "id": 7066502,
-    "DPMPLHAJGON": 70665
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 70665
   },
   {
+    "defaultValue": 0,
     "id": 7067201,
-    "DPMPLHAJGON": 70672
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 70672
   },
   {
+    "defaultValue": 0,
     "id": 7068301,
-    "DPMPLHAJGON": 70683
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 70683
   },
   {
+    "defaultValue": 0,
     "id": 7068401,
-    "DPMPLHAJGON": 70684
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 70684
   },
   {
-    "id": 7110001
+    "defaultValue": 0,
+    "id": 7110001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7110201
+    "defaultValue": 0,
+    "id": 7110201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7110301
+    "defaultValue": 0,
+    "id": 7110301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7110601,
-    "DPMPLHAJGON": 71106
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71106
   },
   {
+    "defaultValue": 0,
     "id": 7111001,
-    "DPMPLHAJGON": 71110
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71110
   },
   {
+    "defaultValue": 0,
     "id": 7111701,
-    "DPMPLHAJGON": 71117
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71117
   },
   {
+    "defaultValue": 0,
     "id": 7165401,
-    "DPMPLHAJGON": 70673
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 70673
   },
   {
+    "defaultValue": 0,
     "id": 7166601,
-    "DPMPLHAJGON": 71666
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71666
   },
   {
+    "defaultValue": 0,
     "id": 7166602,
-    "DPMPLHAJGON": 71666
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71666
   },
   {
+    "defaultValue": 0,
     "id": 7166603,
-    "DPMPLHAJGON": 71666
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71666
   },
   {
+    "defaultValue": 0,
     "id": 7166604,
-    "DPMPLHAJGON": 71666
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71666
   },
   {
+    "defaultValue": 0,
     "id": 7166605,
-    "DPMPLHAJGON": 71666
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 71666
   },
   {
+    "defaultValue": 0,
     "id": 7273101,
-    "DPMPLHAJGON": 72731
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 72731
   },
   {
+    "defaultValue": 0,
     "id": 7303201,
-    "DPMPLHAJGON": 73344
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73344
   },
   {
+    "defaultValue": 0,
     "id": 7323101,
-    "DPMPLHAJGON": 73231
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73231
   },
   {
+    "defaultValue": 0,
     "id": 7323201,
-    "DPMPLHAJGON": 73232
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73232
   },
   {
+    "defaultValue": 0,
     "id": 7323202,
-    "DPMPLHAJGON": 73232
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73232
   },
   {
+    "defaultValue": 0,
     "id": 7323203,
-    "DPMPLHAJGON": 73232
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73232
   },
   {
+    "defaultValue": 0,
     "id": 7323204,
-    "DPMPLHAJGON": 73232
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73232
   },
   {
+    "defaultValue": 0,
     "id": 7323501,
-    "DPMPLHAJGON": 73235
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73235
   },
   {
+    "defaultValue": 0,
     "id": 7323801,
-    "DPMPLHAJGON": 73238
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73238
   },
   {
+    "defaultValue": 0,
     "id": 7323802,
-    "DPMPLHAJGON": 73238
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73238
   },
   {
-    "id": 7323803
+    "defaultValue": 0,
+    "id": 7323803,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7323804,
-    "DPMPLHAJGON": 73238
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73238
   },
   {
+    "defaultValue": 0,
     "id": 7323805,
-    "DPMPLHAJGON": 73238
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73238
   },
   {
-    "id": 7325101
+    "defaultValue": 0,
+    "id": 7325101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7325102
+    "defaultValue": 0,
+    "id": 7325102,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7325103,
-    "DPMPLHAJGON": 73251
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73251
   },
   {
+    "defaultValue": 0,
     "id": 7325104,
-    "DPMPLHAJGON": 73251
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73251
   },
   {
-    "id": 7325105
+    "defaultValue": 0,
+    "id": 7325105,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7325106,
-    "DPMPLHAJGON": 73251
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73251
   },
   {
+    "defaultValue": 0,
     "id": 7325601,
-    "DPMPLHAJGON": 73256
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73256
   },
   {
+    "defaultValue": 0,
     "id": 7328501,
-    "DPMPLHAJGON": 73285
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73285
   },
   {
+    "defaultValue": 0,
     "id": 7328502,
-    "DPMPLHAJGON": 73285
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73285
   },
   {
+    "defaultValue": 0,
     "id": 7330701,
-    "DPMPLHAJGON": 73309
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73309
   },
   {
-    "id": 7330702
+    "defaultValue": 0,
+    "id": 7330702,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7331901,
-    "DPMPLHAJGON": 73319
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73319
   },
   {
-    "id": 7332201
+    "defaultValue": 0,
+    "id": 7332201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7332202,
-    "DPMPLHAJGON": 73322
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73322
   },
   {
+    "defaultValue": 0,
     "id": 7332203,
-    "DPMPLHAJGON": 73322
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73322
   },
   {
-    "id": 7333501
+    "defaultValue": 0,
+    "id": 7333501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7334101,
-    "DPMPLHAJGON": 73341
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73341
   },
   {
+    "defaultValue": 0,
     "id": 7334501,
-    "DPMPLHAJGON": 73345
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73345
   },
   {
+    "defaultValue": 0,
     "id": 7352101,
-    "DPMPLHAJGON": 73521
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 73521
   },
   {
+    "defaultValue": 0,
     "id": 7400101,
-    "DPMPLHAJGON": 74100
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74100
   },
   {
-    "id": 7400102
+    "defaultValue": 0,
+    "id": 7400102,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7400401,
-    "DPMPLHAJGON": 74056
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74056
   },
   {
-    "id": 7400402
+    "defaultValue": 0,
+    "id": 7400402,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7400701,
-    "DPMPLHAJGON": 74120
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74120
   },
   {
-    "id": 7400702
+    "defaultValue": 0,
+    "id": 7400702,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7400703
+    "defaultValue": 0,
+    "id": 7400703,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7400801,
-    "DPMPLHAJGON": 74008
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74008
   },
   {
-    "id": 7400802
+    "defaultValue": 0,
+    "id": 7400802,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7400901,
-    "DPMPLHAJGON": 74009
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74009
   },
   {
-    "id": 7401001
+    "defaultValue": 0,
+    "id": 7401001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7401101,
-    "DPMPLHAJGON": 74011
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74011
   },
   {
-    "id": 7401201
+    "defaultValue": 0,
+    "id": 7401201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7401202
+    "defaultValue": 0,
+    "id": 7401202,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7401401
+    "defaultValue": 0,
+    "id": 7401401,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7401402
+    "defaultValue": 0,
+    "id": 7401402,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7401701,
-    "DPMPLHAJGON": 74017
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74017
   },
   {
+    "defaultValue": 0,
     "id": 7401801,
-    "DPMPLHAJGON": 74018
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74018
   },
   {
-    "id": 7402501
+    "defaultValue": 0,
+    "id": 7402501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7402502
+    "defaultValue": 0,
+    "id": 7402502,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 1,
     "id": 7402503,
-    "defaultValue": 1
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7402504
+    "defaultValue": 0,
+    "id": 7402504,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7402505
+    "defaultValue": 0,
+    "id": 7402505,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7402506
+    "defaultValue": 0,
+    "id": 7402506,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7402507
+    "defaultValue": 0,
+    "id": 7402507,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 1,
     "id": 7402601,
-    "defaultValue": 1
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7402602
+    "defaultValue": 0,
+    "id": 7402602,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7402801,
-    "DPMPLHAJGON": 74028
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74028
   },
   {
+    "defaultValue": 0,
     "id": 7402901,
-    "DPMPLHAJGON": 74029
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74029
   },
   {
-    "id": 7403001
+    "defaultValue": 0,
+    "id": 7403001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7403601,
-    "DPMPLHAJGON": 74036
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74036
   },
   {
-    "id": 7403701
+    "defaultValue": 0,
+    "id": 7403701,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7404001
+    "defaultValue": 0,
+    "id": 7404001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7404301
+    "defaultValue": 0,
+    "id": 7404301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7404401
+    "defaultValue": 0,
+    "id": 7404401,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7404402
+    "defaultValue": 0,
+    "id": 7404402,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7404901,
-    "DPMPLHAJGON": 74049
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74049
   },
   {
-    "id": 7405101
+    "defaultValue": 0,
+    "id": 7405101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7405401
+    "defaultValue": 0,
+    "id": 7405401,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7405402
+    "defaultValue": 0,
+    "id": 7405402,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7406001
+    "defaultValue": 0,
+    "id": 7406001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7406501
+    "defaultValue": 0,
+    "id": 7406501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7407201
+    "defaultValue": 0,
+    "id": 7407201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7407202
+    "defaultValue": 0,
+    "id": 7407202,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7407203
+    "defaultValue": 0,
+    "id": 7407203,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7407204
+    "defaultValue": 0,
+    "id": 7407204,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7407205
+    "defaultValue": 0,
+    "id": 7407205,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7407206
+    "defaultValue": 0,
+    "id": 7407206,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7407901,
-    "DPMPLHAJGON": 74079
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74079
   },
   {
-    "id": 7408101
+    "defaultValue": 0,
+    "id": 7408101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7409101
+    "defaultValue": 0,
+    "id": 7409101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7409102
+    "defaultValue": 0,
+    "id": 7409102,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7410401
+    "defaultValue": 0,
+    "id": 7410401,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7410402
+    "defaultValue": 0,
+    "id": 7410402,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7410403
+    "defaultValue": 0,
+    "id": 7410403,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7410404
+    "defaultValue": 0,
+    "id": 7410404,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7411201
+    "defaultValue": 0,
+    "id": 7411201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7413101,
-    "DPMPLHAJGON": 74131
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74131
   },
   {
-    "id": 7413901
+    "defaultValue": 0,
+    "id": 7413901,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7414201,
-    "DPMPLHAJGON": 74142
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74142
   },
   {
-    "id": 7414601
+    "defaultValue": 0,
+    "id": 7414601,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7414901
+    "defaultValue": 0,
+    "id": 7414901,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7415001
+    "defaultValue": 0,
+    "id": 7415001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7415701,
-    "DPMPLHAJGON": 74157
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74157
   },
   {
+    "defaultValue": 0,
     "id": 7416401,
-    "DPMPLHAJGON": 74164
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74164
   },
   {
-    "id": 7416701
+    "defaultValue": 0,
+    "id": 7416701,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7417801,
-    "DPMPLHAJGON": 74178
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74178
   },
   {
-    "id": 7418301
+    "defaultValue": 0,
+    "id": 7418301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7418302
+    "defaultValue": 0,
+    "id": 7418302,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7418303
+    "defaultValue": 0,
+    "id": 7418303,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7418304
+    "defaultValue": 0,
+    "id": 7418304,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7418305
+    "defaultValue": 0,
+    "id": 7418305,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7418401,
-    "DPMPLHAJGON": 74184
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74184
   },
   {
+    "defaultValue": 0,
     "id": 7418402,
-    "DPMPLHAJGON": 74184
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74184
   },
   {
+    "defaultValue": 0,
     "id": 7418403,
-    "DPMPLHAJGON": 74184
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74184
   },
   {
-    "id": 7418601
+    "defaultValue": 0,
+    "id": 7418601,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7418701,
-    "DPMPLHAJGON": 74187
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74187
   },
   {
+    "defaultValue": 0,
     "id": 7419001,
-    "DPMPLHAJGON": 74190
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74190
   },
   {
-    "id": 7419301
+    "defaultValue": 0,
+    "id": 7419301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7419401
+    "defaultValue": 0,
+    "id": 7419401,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7419501,
-    "DPMPLHAJGON": 74195
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74195
   },
   {
+    "defaultValue": 0,
     "id": 7419502,
-    "DPMPLHAJGON": 74195
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74195
   },
   {
+    "defaultValue": 0,
     "id": 7419503,
-    "DPMPLHAJGON": 74195
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74195
   },
   {
+    "defaultValue": 0,
     "id": 7419504,
-    "DPMPLHAJGON": 74195
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74195
   },
   {
+    "defaultValue": 0,
     "id": 7419505,
-    "DPMPLHAJGON": 74195
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74195
   },
   {
+    "defaultValue": 0,
     "id": 7419506,
-    "DPMPLHAJGON": 74195
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74195
   },
   {
-    "id": 7419601
+    "defaultValue": 0,
+    "id": 7419601,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7420301,
-    "DPMPLHAJGON": 74203
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74203
   },
   {
-    "id": 7421601
+    "defaultValue": 0,
+    "id": 7421601,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7421602
+    "defaultValue": 0,
+    "id": 7421602,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7421603
+    "defaultValue": 0,
+    "id": 7421603,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7421604
+    "defaultValue": 0,
+    "id": 7421604,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7422201,
-    "DPMPLHAJGON": 74222
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74222
   },
   {
+    "defaultValue": 0,
     "id": 7422202,
-    "DPMPLHAJGON": 74222
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74222
   },
   {
+    "defaultValue": 0,
     "id": 7422301,
-    "DPMPLHAJGON": 74223
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74223
   },
   {
+    "defaultValue": 0,
     "id": 7422401,
-    "DPMPLHAJGON": 74224
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74224
   },
   {
+    "defaultValue": 0,
     "id": 7422501,
-    "DPMPLHAJGON": 74225
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74225
   },
   {
+    "defaultValue": 0,
     "id": 7450601,
-    "DPMPLHAJGON": 74506
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74506
   },
   {
+    "defaultValue": 0,
     "id": 7466801,
-    "DPMPLHAJGON": 74668
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74668
   },
   {
+    "defaultValue": 0,
+    "id": 7468801,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74688
+  },
+  {
+    "defaultValue": 0,
     "id": 7480001,
-    "DPMPLHAJGON": 74800
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 74800
   },
   {
+    "defaultValue": 0,
     "id": 7500001,
-    "DPMPLHAJGON": 75000
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75000
   },
   {
+    "defaultValue": 0,
     "id": 7500002,
-    "DPMPLHAJGON": 75000
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75000
   },
   {
+    "defaultValue": 0,
     "id": 7500003,
-    "DPMPLHAJGON": 75000
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75000
   },
   {
-    "id": 7500004
+    "defaultValue": 0,
+    "id": 7500004,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7500101,
-    "DPMPLHAJGON": 75001
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75001
   },
   {
+    "defaultValue": 0,
     "id": 7500102,
-    "DPMPLHAJGON": 75001
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75001
   },
   {
+    "defaultValue": 0,
     "id": 7500103,
-    "DPMPLHAJGON": 75001
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75001
   },
   {
+    "defaultValue": 0,
     "id": 7500104,
-    "DPMPLHAJGON": 75001
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75001
   },
   {
+    "defaultValue": 0,
     "id": 7500105,
-    "DPMPLHAJGON": 75001
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75001
   },
   {
+    "defaultValue": 0,
     "id": 7500106,
-    "DPMPLHAJGON": 75001
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75001
   },
   {
+    "defaultValue": 0,
     "id": 7500107,
-    "DPMPLHAJGON": 75001
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75001
   },
   {
+    "defaultValue": 0,
     "id": 7500201,
-    "DPMPLHAJGON": 75002
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75002
   },
   {
+    "defaultValue": 0,
     "id": 7500202,
-    "DPMPLHAJGON": 75002
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75002
   },
   {
-    "id": 7500203
+    "defaultValue": 0,
+    "id": 7500203,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
-    "id": 7500204
+    "defaultValue": 0,
+    "id": 7500204,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7500301,
-    "DPMPLHAJGON": 75003
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75003
   },
   {
+    "defaultValue": 0,
     "id": 7500401,
-    "DPMPLHAJGON": 75004
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75004
   },
   {
+    "defaultValue": 0,
     "id": 7500501,
-    "DPMPLHAJGON": 75005
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75005
   },
   {
+    "defaultValue": 0,
     "id": 7501601,
-    "DPMPLHAJGON": 75016
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75016
   },
   {
-    "id": 7502101
+    "defaultValue": 0,
+    "id": 7502101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7502301,
-    "DPMPLHAJGON": 75023
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75023
   },
   {
+    "defaultValue": 0,
     "id": 7502401,
-    "DPMPLHAJGON": 75024
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75024
   },
   {
-    "id": 7502901
+    "defaultValue": 0,
+    "id": 7502901,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 1,
     "id": 7504101,
-    "defaultValue": 1
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
+    "id": 7504601,
+    "NPGOLIKOFCO": [
+      133515042
+    ],
+    "PBLJPDOAJBN": 75046
+  },
+  {
+    "defaultValue": 0,
+    "id": 7504602,
+    "NPGOLIKOFCO": [
+      111502077
+    ],
+    "PBLJPDOAJBN": 75046
+  },
+  {
+    "defaultValue": 0,
     "id": 7504701,
-    "DPMPLHAJGON": 75047
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75047
   },
   {
+    "defaultValue": 0,
     "id": 7504801,
-    "DPMPLHAJGON": 75048
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75048
   },
   {
-    "id": 7507301
+    "defaultValue": 0,
+    "id": 7507301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
   },
   {
+    "defaultValue": 0,
     "id": 7509701,
-    "DPMPLHAJGON": 75097
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75097
   },
   {
+    "defaultValue": 0,
     "id": 7509702,
-    "DPMPLHAJGON": 75097
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75097
   },
   {
+    "defaultValue": 0,
+    "id": 7511301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75113
+  },
+  {
+    "defaultValue": 0,
+    "id": 7511302,
+    "NPGOLIKOFCO": [
+      133515099
+    ],
+    "PBLJPDOAJBN": 75113
+  },
+  {
+    "defaultValue": 0,
     "id": 7512201,
-    "DPMPLHAJGON": 75122
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75122
   },
   {
+    "defaultValue": 0,
+    "id": 7513101,
+    "NPGOLIKOFCO": [
+      133516030
+    ],
+    "PBLJPDOAJBN": 75131
+  },
+  {
+    "defaultValue": 0,
     "id": 7513401,
-    "DPMPLHAJGON": 75134
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75134
   },
   {
-    "id": 7904801
+    "defaultValue": 0,
+    "id": 7514201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75142
   },
   {
+    "defaultValue": 0,
+    "id": 7514601,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75146
+  },
+  {
+    "defaultValue": 0,
+    "id": 7514701,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75147
+  },
+  {
+    "defaultValue": 0,
+    "id": 7514702,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75147
+  },
+  {
+    "defaultValue": 0,
+    "id": 7514801,
+    "NPGOLIKOFCO": [
+      133518032
+    ],
+    "PBLJPDOAJBN": 75148
+  },
+  {
+    "defaultValue": 0,
+    "id": 7514901,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75149
+  },
+  {
+    "defaultValue": 0,
+    "id": 7515001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75150
+  },
+  {
+    "defaultValue": 0,
+    "id": 7515002,
+    "NPGOLIKOFCO": [
+      610101035
+    ],
+    "PBLJPDOAJBN": 75150
+  },
+  {
+    "defaultValue": 0,
+    "id": 7515003,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75150
+  },
+  {
+    "defaultValue": 0,
+    "id": 7515004,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75150
+  },
+  {
+    "defaultValue": 0,
+    "id": 7515101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7515102,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75151
+  },
+  {
+    "defaultValue": 0,
+    "id": 7517501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75175
+  },
+  {
+    "defaultValue": 0,
+    "id": 7517801,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75178
+  },
+  {
+    "defaultValue": 0,
+    "id": 7517802,
+    "NPGOLIKOFCO": [
+      133517019
+    ],
+    "PBLJPDOAJBN": 75178
+  },
+  {
+    "defaultValue": 0,
+    "id": 7517901,
+    "NPGOLIKOFCO": [
+      133516013
+    ],
+    "PBLJPDOAJBN": 75179
+  },
+  {
+    "defaultValue": 0,
+    "id": 7518801,
+    "NPGOLIKOFCO": [
+      133517034
+    ],
+    "PBLJPDOAJBN": 75188
+  },
+  {
+    "defaultValue": 0,
+    "id": 7518802,
+    "NPGOLIKOFCO": [
+      133517034
+    ],
+    "PBLJPDOAJBN": 75188
+  },
+  {
+    "defaultValue": 0,
+    "id": 7519501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75195
+  },
+  {
+    "defaultValue": 0,
+    "id": 7519601,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75196
+  },
+  {
+    "defaultValue": 0,
+    "id": 7520501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7520502,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7520503,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7520504,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7521201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75212
+  },
+  {
+    "defaultValue": 0,
+    "id": 7521202,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75212
+  },
+  {
+    "defaultValue": 0,
+    "id": 7521203,
+    "NPGOLIKOFCO": [
+      133520096
+    ],
+    "PBLJPDOAJBN": 75212
+  },
+  {
+    "defaultValue": 0,
+    "id": 7521204,
+    "NPGOLIKOFCO": [
+      133520094
+    ],
+    "PBLJPDOAJBN": 75212
+  },
+  {
+    "defaultValue": 0,
+    "id": 7521301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75213
+  },
+  {
+    "defaultValue": 0,
+    "id": 7521501,
+    "NPGOLIKOFCO": [
+      133515041
+    ],
+    "PBLJPDOAJBN": 75215
+  },
+  {
+    "defaultValue": 0,
+    "id": 7521601,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7522401,
+    "NPGOLIKOFCO": [
+      610101160
+    ],
+    "PBLJPDOAJBN": 75224
+  },
+  {
+    "defaultValue": 0,
+    "id": 7523201,
+    "NPGOLIKOFCO": [
+      133522012
+    ],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7523202,
+    "NPGOLIKOFCO": [
+      133522012
+    ],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7523203,
+    "NPGOLIKOFCO": [
+      133522012
+    ],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7523301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 7
+  },
+  {
+    "defaultValue": 0,
+    "id": 7524001,
+    "NPGOLIKOFCO": [
+      133521010
+    ],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7526301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75263
+  },
+  {
+    "defaultValue": 0,
+    "id": 7528501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75285
+  },
+  {
+    "defaultValue": 0,
+    "id": 7550901,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75509
+  },
+  {
+    "defaultValue": 0,
+    "id": 7551101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7595201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 75952
+  },
+  {
+    "defaultValue": 0,
+    "id": 7600201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76002
+  },
+  {
+    "defaultValue": 0,
+    "id": 7600301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76003
+  },
+  {
+    "defaultValue": 0,
+    "id": 7600302,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76003
+  },
+  {
+    "defaultValue": 0,
+    "id": 7600401,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76004
+  },
+  {
+    "defaultValue": 0,
+    "id": 7600501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76005
+  },
+  {
+    "defaultValue": 0,
+    "id": 7600801,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76008
+  },
+  {
+    "defaultValue": 0,
+    "id": 7600802,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76008
+  },
+  {
+    "defaultValue": 0,
+    "id": 7600803,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76008
+  },
+  {
+    "defaultValue": 0,
+    "id": 7600901,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76009
+  },
+  {
+    "defaultValue": 0,
+    "id": 7601001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76010
+  },
+  {
+    "defaultValue": 0,
+    "id": 7601101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76011
+  },
+  {
+    "defaultValue": 0,
+    "id": 7601401,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76014
+  },
+  {
+    "defaultValue": 0,
+    "id": 7601901,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76019
+  },
+  {
+    "defaultValue": 0,
+    "id": 7602201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76022
+  },
+  {
+    "defaultValue": 0,
+    "id": 7603901,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7603902,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7604701,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7604801,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7604802,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7604803,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7604804,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7604805,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7605601,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76056
+  },
+  {
+    "defaultValue": 0,
+    "id": 7605901,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7608101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7609101,
+    "NPGOLIKOFCO": [
+      133604092
+    ],
+    "PBLJPDOAJBN": 76091
+  },
+  {
+    "defaultValue": 0,
+    "id": 7609102,
+    "NPGOLIKOFCO": [
+      133604092
+    ],
+    "PBLJPDOAJBN": 76091
+  },
+  {
+    "defaultValue": 0,
+    "id": 7609103,
+    "NPGOLIKOFCO": [
+      133604092
+    ],
+    "PBLJPDOAJBN": 76091
+  },
+  {
+    "defaultValue": 0,
+    "id": 7609104,
+    "NPGOLIKOFCO": [
+      133604092
+    ],
+    "PBLJPDOAJBN": 76091
+  },
+  {
+    "defaultValue": 0,
+    "id": 7609105,
+    "NPGOLIKOFCO": [
+      0
+    ],
+    "PBLJPDOAJBN": 76091
+  },
+  {
+    "defaultValue": 0,
+    "id": 7609106,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76091
+  },
+  {
+    "defaultValue": 0,
+    "id": 7610201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76102
+  },
+  {
+    "defaultValue": 0,
+    "id": 7610301,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76103
+  },
+  {
+    "defaultValue": 0,
+    "id": 7610501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76105
+  },
+  {
+    "defaultValue": 0,
+    "id": 7611601,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76116
+  },
+  {
+    "defaultValue": 0,
+    "id": 7650701,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76507
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665001,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76650
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665002,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76650
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665003,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76650
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665004,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76650
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665005,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76650
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665006,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76650
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665007,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76650
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665008,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76650
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665009,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76650
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665010,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76650
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665011,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76650
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665012,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76650
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665101,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665102,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665201,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76652
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665202,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665203,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665204,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665205,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665206,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665207,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76657
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665401,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76654
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665402,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76654
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665501,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7665502,
+    "NPGOLIKOFCO": [
+      133601119,
+      133601198,
+      133601199,
+      133601200,
+      133601201,
+      133601202,
+      133601203,
+      133601204
+    ],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 7666701,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 76667
+  },
+  {
+    "defaultValue": 0,
+    "id": 7904801,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
     "id": 7906201,
-    "DPMPLHAJGON": 79062
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79062
   },
   {
+    "defaultValue": 0,
     "id": 7906202,
-    "DPMPLHAJGON": 79062
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79062
   },
   {
+    "defaultValue": 0,
     "id": 7906203,
-    "DPMPLHAJGON": 79062
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79062
   },
   {
+    "defaultValue": 0,
     "id": 7906204,
-    "DPMPLHAJGON": 79062
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79062
   },
   {
+    "defaultValue": 0,
     "id": 7906205,
-    "DPMPLHAJGON": 79062
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79062
   },
   {
+    "defaultValue": 0,
     "id": 7906206,
-    "DPMPLHAJGON": 79062
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79062
   },
   {
+    "defaultValue": 0,
     "id": 7906207,
-    "DPMPLHAJGON": 79062
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79062
   },
   {
+    "defaultValue": 0,
     "id": 7906208,
-    "DPMPLHAJGON": 79062
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79062
   },
   {
+    "defaultValue": 0,
     "id": 7906209,
-    "DPMPLHAJGON": 79062
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79062
   },
   {
+    "defaultValue": 0,
     "id": 7906210,
-    "DPMPLHAJGON": 79062
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79062
   },
   {
+    "defaultValue": 0,
     "id": 7906401,
-    "DPMPLHAJGON": 79064
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79064
   },
   {
+    "defaultValue": 0,
     "id": 7906501,
-    "DPMPLHAJGON": 79065
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79065
   },
   {
+    "defaultValue": 0,
     "id": 7906502,
-    "DPMPLHAJGON": 79065
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79065
   },
   {
+    "defaultValue": 0,
     "id": 7906503,
-    "DPMPLHAJGON": 79065
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 79065
   },
   {
-    "id": 7906701
+    "defaultValue": 0,
+    "id": 7906701,
+    "NPGOLIKOFCO": [],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 90508001,
+    "NPGOLIKOFCO": [
+      133520111
+    ],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 90508002,
+    "NPGOLIKOFCO": [
+      133520115
+    ],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 90508003,
+    "NPGOLIKOFCO": [
+      133523013
+    ],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 90508004,
+    "NPGOLIKOFCO": [
+      133521015
+    ],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 90508005,
+    "NPGOLIKOFCO": [
+      133521030
+    ],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 90508006,
+    "NPGOLIKOFCO": [
+      133521051
+    ],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 90508007,
+    "NPGOLIKOFCO": [
+      133521016,
+      133521145,
+      133521146
+    ],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 90508008,
+    "NPGOLIKOFCO": [
+      133521044
+    ],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 90508009,
+    "NPGOLIKOFCO": [
+      133520432
+    ],
+    "PBLJPDOAJBN": 0
+  },
+  {
+    "defaultValue": 0,
+    "id": 90508010,
+    "NPGOLIKOFCO": [
+      133520114
+    ],
+    "PBLJPDOAJBN": 0
   }
 ]
